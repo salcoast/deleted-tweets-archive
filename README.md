@@ -44,7 +44,7 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 ## Datasets
 
-The current dataset now includes 564,060 distinct deleted or unavailable tweets, from 194 twitter accounts scraped.
+The current dataset now includes 596,457 distinct deleted or unavailable tweets, from 195 twitter accounts scraped.
 
 ## Sub-sections
 
@@ -444,4 +444,5 @@ The current dataset now includes 564,060 distinct deleted or unavailable tweets,
 
 249 Deleted tweets for [ACTforAmerica](datasets/actforamerica-deleted.md)
 
+32,397 Deleted tweets for [Ali](datasets/ali-deleted.md) Ali Alexander
 
