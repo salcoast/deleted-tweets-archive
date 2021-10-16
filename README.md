@@ -56,9 +56,9 @@ The current dataset now includes 596,470 distinct deleted or unavailable tweets,
 
 ## Current accounts in this archive
 
-739 Deleted tweets for [MrAndyNgo](datasets/mrandyngo.md) (Updated 10.16.21)
+739 Deleted tweets for [MrAndyNgo](datasets/mrandyng-deleted.md) (Updated 10.16.21)
 
-253 Deleted tweets for [ggreenwald](datasets/ggreenwald.md)
+253 Deleted tweets for [ggreenwald](datasets/ggreenwald-deleted.md)
 
 11 Deleted tweets for [Timcast](datasets/timcast-deleted.md)
 
@@ -80,9 +80,9 @@ The current dataset now includes 596,470 distinct deleted or unavailable tweets,
 
 4 Deleted tweets for [Theanim24326713](datasets/theanim24326713-deleted.md) (Chandler Pappas)
 
-50 Deleted tweets for [ChandlerPappas](datasets/chandlerpappas.md)
+50 Deleted tweets for [ChandlerPappas](datasets/chandlerpappas-deleted.md)
 
-23 Deleted tweets for [tooze_dan](datasets/tooze_dan.md)
+23 Deleted tweets for [tooze_dan](datasets/tooze_dan-deleted.md)
 
 3 Deleted tweets for [emperorinvictus](datasets/emperorinvictus-deleted.md) (https://www.splcenter.org/fighting-hate/extremist-files/individual/augustus-sol-invictus)
 
