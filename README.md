@@ -448,7 +448,9 @@ The current dataset now includes 615,310 distinct deleted or unavailable tweets,
 
 18.840 Deleted tweets for [Malcolm_fleX48](datasets/malcolm_flex48-deleted.md)  
 
+35 Deleted tweets for [TedCruz](datasets/tedcruz-deleted.md)
 
+137 Deleted tweets for [SenTedCruz](datasets/sentedcruz-deleted.md)
 
 
 
