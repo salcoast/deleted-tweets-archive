@@ -446,7 +446,7 @@ The current dataset now includes 615,310 distinct deleted or unavailable tweets,
 
 32,397 Deleted tweets for [Ali](datasets/ali-deleted.md) (Ali Alexander)
 
-18.840 Deleted tweets for [Malcolm_fleX48-deleted.md](datasets/malcolm_flex48-deleted.md)  
+18.840 Deleted tweets for [Malcolm_fleX48](datasets/malcolm_flex48-deleted.md)  
 
 
 
