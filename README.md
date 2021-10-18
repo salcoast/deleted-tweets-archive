@@ -90,7 +90,7 @@ The current dataset now includes 642,397 distinct deleted or unavailable tweets,
 
 10 Deleted tweets for [SchoepJeff](datasets/schoepjeff-deleted.md) (neo-Nazi youth recruiter)
 
-6360 Deleted tweets for [FaithGoldy](datasets/faithgoldy-deleted.md)
+6,360 Deleted tweets for [FaithGoldy](datasets/faithgoldy-deleted.md)
 
 547 Deleted tweets for [KatieDaviscourt](datasets/katiedaviscourt-deleted.md)
 
@@ -110,13 +110,13 @@ The current dataset now includes 642,397 distinct deleted or unavailable tweets,
 
 502 Deleted tweets for [Sal_LaBarbera](datasets/sal_labarbera-deleted.md)
 
-3001 Deleted tweets for [TPUSA](datasets/tpusa-deleted.md)
+3,001 Deleted tweets for [TPUSA](datasets/tpusa-deleted.md)
 
 42 Deleted tweets for [glennbeck](datasets/glennbeck-deleted.md)
 
-3556 Deleted tweets for [SeanHannity](datasets/seanhannity-deleted.md)
+3,556 Deleted tweets for [SeanHannity](datasets/seanhannity-deleted.md)
 
-1783 Deleted tweets for [occdissent](datasets/occdissent-deleted.md) (Occidental Dissent - Spokesman - League of the South - https://www.splcenter.org/fighting-hate/extremist-files/individual/bradley-dean-griffin)
+1,783 Deleted tweets for [occdissent](datasets/occdissent-deleted.md) (Occidental Dissent - Spokesman - League of the South - https://www.splcenter.org/fighting-hate/extremist-files/individual/bradley-dean-griffin)
 
 510 Deleted tweets for [permianevents](datasets/permianevents-deleted.md) (Alan Swinney - https://www.kiro7.com/news/trending/proud-boys-member-alan-swinney-arrested-oregon-12-charges/655GFPEDPNDMBJ4CROU23YJRPA/)
 
@@ -124,7 +124,7 @@ The current dataset now includes 642,397 distinct deleted or unavailable tweets,
 
 11,269 Deleted tweets for [Cernovich](datasets/cernovich-deleted.md)
 
-9748 Deleted tweets for [TheRalphRetort](datasets/theralphretort-deleted.md)
+9,748 Deleted tweets for [TheRalphRetort](datasets/theralphretort-deleted.md)
 
 213 Deleted tweets for [mm1951284](datasets/mm1951284-deleted.md) (League of the South leadership)
 
@@ -136,51 +136,51 @@ The current dataset now includes 642,397 distinct deleted or unavailable tweets,
 
 387 Deleted tweets for [bottomtexasuwu](datasets/bottomtexasuwu-deleted.md) (Azzmador - Unite the Right - Neo-Nazi - Stormer - https://www.splcenter.org/fighting-hate/intelligence-report/2018/brawler)
 
-2293 Deleted tweets for [Lauren_Southern](datasets/lauren_southern-deleted.md)
+2,293 Deleted tweets for [Lauren_Southern](datasets/lauren_southern-deleted.md)
 
 235 Deleted tweets for [carymarules](datasets/carymarules-deleted.md)
 
 65 Deleted tweets for [irmahinojosa_](datasets/irmahinojosa_-deleted.md) (Alt-Right, Latinos4Trump, MAGA3X)
 
-5281 Deleted tweets for [JacobAWohl](datasets/jacobawohl-deleted.md)
+5,281 Deleted tweets for [JacobAWohl](datasets/jacobawohl-deleted.md)
 
 27 Deleted tweets for [realTanyaTay](datasets/realtanyatay-deleted.md)
 
 15 Deleted tweets for [roofkorean7](datasets/roofkorean7-deleted.md)
 
-3568 Deleted tweets for [patribotics](datasets/patribotics-deleted.md)
+3,568 Deleted tweets for [patribotics](datasets/patribotics-deleted.md)
 
-8200 Deleted tweets for [themaddimension](datasets/themaddimension-deleted.md) (https://www.splcenter.org/fighting-hate/extremist-files/individual/jason-kessler)
+8,200 Deleted tweets for [themaddimension](datasets/themaddimension-deleted.md) (https://www.splcenter.org/fighting-hate/extremist-files/individual/jason-kessler)
 
 29 Deleted tweets for [BrandiKruse](datasets/brandikruse-deleted.md)
 
-3578 Deleted tweets for [evanmclaren](datasets/evanmclaren-deleted.md) (unite the right - lawyer - https://theintercept.com/2017/09/07/richard-spencer-national-policy-institute-leader-evan-mclaren/)
+3,578 Deleted tweets for [evanmclaren](datasets/evanmclaren-deleted.md) (unite the right - lawyer - https://theintercept.com/2017/09/07/richard-spencer-national-policy-institute-leader-evan-mclaren/)
 
-5681 Deleted tweets for [jeffgiesea](datasets/jeffgiesea-deleted.md) (Former Director of Thiel Capital, alt-right, IDW - https://www.politico.com/magazine/story/2017/01/alt-right-trump-washington-dc-power-milo-214629/)
+5,681 Deleted tweets for [jeffgiesea](datasets/jeffgiesea-deleted.md) (Former Director of Thiel Capital, alt-right, IDW - https://www.politico.com/magazine/story/2017/01/alt-right-trump-washington-dc-power-milo-214629/)
 
-8183 Deleted tweets for [stillgray](datasets/stillgray-deleted.md)
+8,183 Deleted tweets for [stillgray](datasets/stillgray-deleted.md)
 
-3719 Deleted tweets for [stone_toss](datasets/stone_toss-deleted.md) (https://twitter.com/WhiteRoseAFA/status/1442588715008757761?s=20)
+3,719 Deleted tweets for [stone_toss](datasets/stone_toss-deleted.md) (https://twitter.com/WhiteRoseAFA/status/1442588715008757761?s=20)
 
 34,069 Deleted tweets for [realalexjones](datasets/realalexjones-deleted.md)
 
-2440 Deleted tweets for [vdare](datasets/vdare-deleted.md)
+2,440 Deleted tweets for [vdare](datasets/vdare-deleted.md)
 
-6680 Deleted tweets for [mikepsjuice](datasets/mikepsjuice-deleted.md) (Head of TRS - neo-Nazi - https://www.splcenter.org/fighting-hate/extremist-files/individual/michael-enoch-peinovich)
+6,680 Deleted tweets for [mikepsjuice](datasets/mikepsjuice-deleted.md) (Head of TRS - neo-Nazi - https://www.splcenter.org/fighting-hate/extremist-files/individual/michael-enoch-peinovich)
 
 144 Deleted tweets for [maximebernier](datasets/maximebernier-deleted.md)
 
-2582 Deleted tweets for [brittpettibone](datasets/brittpettibone-deleted.md)
+2,582 Deleted tweets for [brittpettibone](datasets/brittpettibone-deleted.md)
 
 51 Deleted tweets for [bariweiss](datasets/bariweiss-deleted.md)
 
-2460 Deleted tweets for [rumples42296282](datasets/rumples42296282-deleted.md) (Neo-Nazi - Founder of the Daily Stormer - https://www.splcenter.org/fighting-hate/extremist-files/individual/andrew-anglin)
+2,460 Deleted tweets for [rumples42296282](datasets/rumples42296282-deleted.md) (Neo-Nazi - Founder of the Daily Stormer - https://www.splcenter.org/fighting-hate/extremist-files/individual/andrew-anglin)
 
-4415 Deleted tweets for [johntiegen](datasets/johntiegen-deleted.md)
+4,415 Deleted tweets for [johntiegen](datasets/johntiegen-deleted.md)
 
 19,165 Deleted tweets for [drdavidduke](datasets/drdavidduke-deleted.md) (Republican Politician (LA), UTR, Former Grand Dragon of the KKK)
 
-9490 Deleted tweets for [oathkeepers](datasets/oathkeepers-deleted.md)
+9,490 Deleted tweets for [oathkeepers](datasets/oathkeepers-deleted.md)
 
 178 Deleted tweets for [donaldjtrumpjr](datasets/donaldjtrumpjr-deleted.md)
 
@@ -204,7 +204,7 @@ The current dataset now includes 642,397 distinct deleted or unavailable tweets,
 
 326 Deleted tweets for [matthewazrieli](datasets/matthewazrieli-deleted.md)
 
-1041 Deleted tweets for [mike_macinnis](datasets/mike_macinnis-deleted.md)
+1,041 Deleted tweets for [mike_macinnis](datasets/mike_macinnis-deleted.md)
 
 21 Deleted tweets for [mike_macinnis15](datasets/mike_macinnis15-deleted.md)
 
@@ -212,13 +212,13 @@ The current dataset now includes 642,397 distinct deleted or unavailable tweets,
 
 81 Deleted tweets for [mike_macinnis17](datasets/mike_macinnis17-deleted.md)
 
-1339 Deleted tweets for [PrisonPlanet](datasets/prisonplanet-deleted.md)
+1,339 Deleted tweets for [PrisonPlanet](datasets/prisonplanet-deleted.md)
 
 62 Deleted tweets for [PublicReportorg](datasets/publicreportorg-deleted.md)
 
 282 Deleted tweets for [ScottMGreer](datasets/scottmgreer-deleted.md)
 
-2347 Deleted tweets for [SummerSaltine](datasets/summersaltine-deleted.md)
+2,347 Deleted tweets for [SummerSaltine](datasets/summersaltine-deleted.md)
 
 97 Deleted tweets for [ThatTrumpGuy](datasets/thattrumpguy-deleted.md)
 
@@ -226,9 +226,9 @@ The current dataset now includes 642,397 distinct deleted or unavailable tweets,
 
 10,029 Deleted tweets for [KeithWoodsYT](datasets/keithwoodsyt-deleted.md)
 
-3069 Deleted tweets for [TrumpRussiaHits](datasets/trumprussiahits-deleted.md)
+3,069 Deleted tweets for [TrumpRussiaHits](datasets/trumprussiahits-deleted.md)
 
-72451 Deleted tweets for [JackPosobiec](datasets/jackposobiec-deleted.md)
+72,451 Deleted tweets for [JackPosobiec](datasets/jackposobiec-deleted.md)
 
 38,236 Deleted tweets for [LouiseMensch](datasets/louisemensch-deleted.md)
 
@@ -262,13 +262,13 @@ The current dataset now includes 642,397 distinct deleted or unavailable tweets,
 
 59 Deleted tweets for [hot_messpdx](datasets/hot_messpdx-deleted.md) (Haley Adams)
 
-7921 Deleted tweets for [imamofpeace](datasets/imamofpeace-deleted.md)
+7,921 Deleted tweets for [imamofpeace](datasets/imamofpeace-deleted.md)
 
 27 Deleted tweets for [patriotprayerus](datasets/patriotprayerus-deleted.md)
 
 147 Deleted tweets for [pdxadamsfam](datasets/pdxadamsfam-deleted.md)
 
-1335 Deleted tweets for [rambobiggs](datasets/rambobiggs-deleted.md) (Joe Biggs - ProudBoys)
+1,335 Deleted tweets for [rambobiggs](datasets/rambobiggs-deleted.md) (Joe Biggs - ProudBoys)
 
 39 Deleted tweets for [realhaleyadams1](datasets/realhaleyadams1-deleted.md) (Haley Adams)
 
@@ -280,7 +280,7 @@ The current dataset now includes 642,397 distinct deleted or unavailable tweets,
 
 297 Deleted tweets for [uncensoredhaley](datasets/uncensoredhaley-deleted.md) (Haley Adams)
 
-4438 Deleted tweets for [vivalahaley3](datasets/vivalahaley3-deleted.md) (Haley Adams)
+4,438 Deleted tweets for [vivalahaley3](datasets/vivalahaley3-deleted.md) (Haley Adams)
 
 1 Deleted tweets for [wester_haley](datasets/wester_haley-deleted.md) (Haley Adams)
 
@@ -302,13 +302,13 @@ The current dataset now includes 642,397 distinct deleted or unavailable tweets,
 
 32 Deleted tweets for [offensecoach](datasets/offensecoach-deleted.md)
 
-2659 Deleted tweets for [peterboghossian](datasets/peterboghossian-deleted.md)
+2,659 Deleted tweets for [peterboghossian](datasets/peterboghossian-deleted.md)
 
 113 Deleted tweets for [peterbrimelow](datasets/peterbrimelow-deleted.md)
 
 339 Deleted tweets for [pnjaban](datasets/pnjaban-deleted.md)
 
-11695 Deleted tweets for [politicalshort](datasets/politicalshort-deleted.md)
+11,695 Deleted tweets for [politicalshort](datasets/politicalshort-deleted.md)
 
 152 Deleted tweets for [quillette](datasets/quillette-deleted.md)
 
@@ -318,7 +318,7 @@ The current dataset now includes 642,397 distinct deleted or unavailable tweets,
 
 183 Deleted tweets for [realcandaceo](datasets/realcandaceo-deleted.md)
 
-5470 Deleted tweets for [realdavereilly](datasets/realdavereilly-deleted.md)
+5,470 Deleted tweets for [realdavereilly](datasets/realdavereilly-deleted.md)
 
 178 Deleted tweets for [rebekahrstevens](datasets/rebekahrstevens-deleted.md)
 
@@ -344,7 +344,7 @@ The current dataset now includes 642,397 distinct deleted or unavailable tweets,
 
 1 Deleted tweets for [vishburra](datasets/vishburra-deleted.md)
 
-10916 Deleted tweets for [aubrey_huff](datasets/aubrey_huff-deleted.md)
+10,916 Deleted tweets for [aubrey_huff](datasets/aubrey_huff-deleted.md)
 
 3 Deleted tweets for [bunkerwsmith](datasets/bunkerwsmith-deleted.md)
 
@@ -362,19 +362,19 @@ The current dataset now includes 642,397 distinct deleted or unavailable tweets,
 
 56 Deleted tweets for [marcus_drusus](datasets/marcus_drusus-deleted.md)
 
-2477 Deleted tweets for [mcneiljaden](datasets/mcneiljaden-deleted.md)
+2,477 Deleted tweets for [mcneiljaden](datasets/mcneiljaden-deleted.md)
 
 2 Deleted tweets for [MichaelKemps](datasets/michaelkemps-deleted.md)
 
 271 Deleted tweets for [MichaelThomason](datasets/michaelthomason-deleted.md)
 
-1414 Deleted tweets for [NommyCompany](datasets/nommycompany-deleted.md) (Joey Camp)
+1,414 Deleted tweets for [NommyCompany](datasets/nommycompany-deleted.md) (Joey Camp)
 
-9890 Deleted tweets for [pamelageller](datasets/pamelageller-deleted.md)
+9,890 Deleted tweets for [pamelageller](datasets/pamelageller-deleted.md)
 
 610 Deleted tweets for [rondeaulivia](datasets/rondeaulivia-deleted.md)
 
-3120 Deleted tweets for [RooshV](datasets/rooshv-deleted.md)
+3,120 Deleted tweets for [RooshV](datasets/rooshv-deleted.md)
 
 1 Deleted tweets for [srceryclub](datasets/srceryclub-deleted.md)
 
@@ -386,7 +386,7 @@ The current dataset now includes 642,397 distinct deleted or unavailable tweets,
 
 33 Deleted tweets for [MikkiTheMime](datasets/mikkithemime-deleted.md) (Joey Camp)
 
-4598 Deleted tweets for [JoeyCamp2020](datasets/joeycamp2020-deleted.md) (Joey Camp)
+4,598 Deleted tweets for [JoeyCamp2020](datasets/joeycamp2020-deleted.md) (Joey Camp)
 
 153 Deleted tweets for [JoeyCamp20xx](datasets/joeycamp20xx-deleted.md) (Joey Camp)
 
@@ -408,9 +408,9 @@ The current dataset now includes 642,397 distinct deleted or unavailable tweets,
 
 646 Deleted tweets for [Ron4California](datasets/ron4california-deleted.md)
 
-1853 Deleted tweets for [CampJosephA](datasets/campjosepha-deleted.md)
+1,853 Deleted tweets for [CampJosephA](datasets/campjosepha-deleted.md)
 
-5232 Deleted tweets for [DaddySharkShark](datasets/daddysharkshark-deleted.md)
+5,232 Deleted tweets for [DaddySharkShark](datasets/daddysharkshark-deleted.md)
 
 21 Deleted tweets for [FriendlyHombre](datasets/friendlyhombre-deleted.md)
 
@@ -428,7 +428,7 @@ The current dataset now includes 642,397 distinct deleted or unavailable tweets,
 
 20,614 Deleted tweets for [TheQuartering](datasets/thequartering-deleted.md)
 
-5262 Deleted tweets for [ChristinaPushaw](datasets/christinapushaw-deleted.md)
+5,262 Deleted tweets for [ChristinaPushaw](datasets/christinapushaw-deleted.md)
 
 802 Deleted tweets for [MsBlaireWhite](datasets/msblairewhite-deleted.md)
 
@@ -454,7 +454,7 @@ The current dataset now includes 642,397 distinct deleted or unavailable tweets,
 
 13,930 Deleted tweets for [Styx666Official](datasets/styx666official-deleted.md)
 
-1355 Deleted tweets for [sirhottest](datasets/sirhottest-deleted.md)
+1,355 Deleted tweets for [sirhottest](datasets/sirhottest-deleted.md)
 
 144 Deleted tweets for [laurenboebert](datasets/laurenboebert-deleted.md)
 
