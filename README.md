@@ -464,3 +464,5 @@ The current dataset now includes 642,397 distinct deleted or unavailable tweets,
 
 941 Deleted tweets for [ZubyMusic](datasets/zubymusic-deleted.md)
 
+11 Deleted tweets for [heimbachmatthew](heimbachmatthew-deleted.md) (Neo-Nazi youth recruiter and co-chair of Trad Workers (TWP) with Matthew Parrott - Unite the right organizer - https://www.splcenter.org/fighting-hate/extremist-files/individual/matthew-heimbach)
+
