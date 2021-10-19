@@ -26,3 +26,8 @@
 6 Deleted tweets for [NotElimosley](datasets/notelimosley-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right )
 
 1 Deleted tweets for [WompWompDog](datasets/wompwompdog-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right )
+
+5 Deleted tweets for [americavanguard](datasets/americavanguard-deleted.md) (Original neo-Nazi group Heather Heyer's murderer was part of - now splintered - primarily to Patriot Front - https://www.adl.org/resources/backgrounders/vanguard-america)
+
+19,165 Deleted tweets for [drdavidduke](datasets/drdavidduke-deleted.md) (Republican Politician (LA), Unite the Right, Former Grand Dragon of the KKK)
+
