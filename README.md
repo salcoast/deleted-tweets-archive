@@ -466,3 +466,18 @@ The current dataset now includes 642,397 distinct deleted or unavailable tweets,
 
 11 Deleted tweets for [heimbachmatthew](heimbachmatthew-deleted.md) (Neo-Nazi youth recruiter and co-chair of Trad Workers (TWP) with Matthew Parrott - Unite the right organizer - https://www.splcenter.org/fighting-hate/extremist-files/individual/matthew-heimbach)
 
+81 Deleted tweets for [thatelimosley](datasets/thatelimosley-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right )
+
+57 Deleted tweets for [Elimosleyie](datasets/elimosleyie-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right )
+
+21 Deleted tweets for [EliMosleyOH](datasets/elimosleyoh-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right )
+
+13 Deleted tweets for [Eli_mosley_](datasets/eli_mosley_-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right )
+
+8 Deleted tweets for [EliMosley_](datasets/elimosley_-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right )
+
+6 Deleted tweets for [NotElimosley](datasets/notelimosley-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right )
+
+1 Deleted tweets for [WompWompDog](datasets/wompwompdog-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right )
+
+
