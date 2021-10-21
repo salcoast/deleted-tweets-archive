@@ -44,8 +44,9 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 ## Datasets
 
-The current dataset now includes 642,584 distinct deleted or unavailable tweets, from 211 twitter accounts scraped.
+The current dataset now includes 647,005 distinct deleted or unavailable tweets, from 219 twitter accounts scraped.
 
+		
 ## Sub-sections
 
 [Pacific North West](PNW.md)
