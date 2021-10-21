@@ -480,4 +480,25 @@ The current dataset now includes 642,584 distinct deleted or unavailable tweets,
 
 1 Deleted tweets for [WompWompDog](datasets/wompwompdog-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right )
 
+4240 Deleted tweets for [Michael82379998](datasets/michael82379998-deleted.md) ( Michael Tubbs - League of the South - Unite the Right )
+
+
+94 Deleted tweets for [MichaelHill51](datasets/michaelhill51-deleted.md) ( Michael Hill - League of the South - Unite the Right )
+ 
+42 Deleted tweets for [JamesHill120651](datasets/jameshill120651-deleted.md) ( Michael Hill - League of the South - Unite the Right )
+ 
+13 Deleted tweets for [TheBigMick1951](datasets/thebigmick1951-deleted.md) ( Michael Hill - League of the South - Unite the Right )
+ 
+10 Deleted tweets for [MickCollins1951](datasets/mickcollins1951-deleted.md) ( Michael Hill - League of the South - Unite the Right )
+ 
+7 Deleted tweets for [71Rhodie](datasets/71rhodie-deleted.md) ( Michael Hill - League of the South - Unite the Right )
+ 
+3 Deleted tweets for [51ceanncinnidh](datasets/51ceanncinnidh-deleted.md) ( Michael Hill - League of the South - Unite the Right )
+ 
+1 Deleted tweets for [BigChief1951](datasets/bigchief1951-deleted.md) ( Michael Hill - League of the South - Unite the Right )
+
+
+
+
+
 
