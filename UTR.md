@@ -69,20 +69,21 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 
 ## Michael Tubbs - League of the South
 
-4240 Deleted tweets for Michael82379998 ( Michael Tubbs - League of the South - Unite the Right )
+4240 Deleted tweets for [Michael82379998](datasets/michael82379998-deleted.md) ( Michael Tubbs - League of the South - Unite the Right )
 
 ## Michael Hill - League of the South
 
-94 Deleted tweets for MichaelHill51 ( Michael Hill - League of the South - Unite the Right )
+94 Deleted tweets for [MichaelHill51](datasets/michaelhill51-deleted.md) ( Michael Hill - League of the South - Unite the Right )
+ 
+42 Deleted tweets for [JamesHill120651](datasets/jameshill120651-deleted.md) ( Michael Hill - League of the South - Unite the Right )
+ 
+13 Deleted tweets for [TheBigMick1951](datasets/thebigmick1951-deleted.md) ( Michael Hill - League of the South - Unite the Right )
+ 
+10 Deleted tweets for [MickCollins1951](datasets/mickcollins1951-deleted.md) ( Michael Hill - League of the South - Unite the Right )
+ 
+7 Deleted tweets for [71Rhodie](datasets/71rhodie-deleted.md) ( Michael Hill - League of the South - Unite the Right )
+ 
+3 Deleted tweets for [51ceanncinnidh](datasets/51ceanncinnidh-deleted.md) ( Michael Hill - League of the South - Unite the Right )
+ 
+1 Deleted tweets for [BigChief1951](datasets/bigchief1951-deleted.md) ( Michael Hill - League of the South - Unite the Right )
 
-42 Deleted tweets for JamesHill120651 ( Michael Hill - League of the South - Unite the Right )
-
-13 Deleted tweets for TheBigMick1951 ( Michael Hill - League of the South - Unite the Right )
-
-10 Deleted tweets for MickCollins1951 ( Michael Hill - League of the South - Unite the Right )
-
-7 Deleted tweets for 71Rhodie ( Michael Hill - League of the South - Unite the Right )
-
-3 Deleted tweets for 51ceanncinnidh ( Michael Hill - League of the South - Unite the Right )
-
-1 Deleted tweets for BigChief1951 ( Michael Hill - League of the South - Unite the Right )
