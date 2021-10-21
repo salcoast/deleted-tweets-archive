@@ -1,6 +1,9 @@
 ## Unite The Right
 
 
+The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-Nazis, and hate groups that planned, promoted, and executed the violence in Charlottesville. They came with clubs and shields, pistols and assault rifles, helmets and pepper spray — ultimately killing Heather Heyer and injuring dozens more, including our plaintiffs. They did not come to protest peacefully; rather, they came to provoke violence. Learn more about the defendants below.
+
+[The Charlottesville Case: Defendants](https://www.integrityfirstforamerica.org/our-work/case/charlottesville-case/defendants)
 
 
 
