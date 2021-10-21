@@ -66,3 +66,23 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 
 
 3,578 Deleted tweets for [EvanMclaren](datasets/evanmclaren-deleted.md) (Unite the rRght - lawyer - https://theintercept.com/2017/09/07/richard-spencer-national-policy-institute-leader-evan-mclaren/)
+
+## Michael Tubbs - League of the South
+
+4240 Deleted tweets for Michael82379998 ( Michael Tubbs - League of the South - Unite the Right )
+
+## Michael Hill - League of the South
+
+94 Deleted tweets for MichaelHill51 ( Michael Hill - League of the South - Unite the Right )
+
+42 Deleted tweets for JamesHill120651 ( Michael Hill - League of the South - Unite the Right )
+
+13 Deleted tweets for TheBigMick1951 ( Michael Hill - League of the South - Unite the Right )
+
+10 Deleted tweets for MickCollins1951 ( Michael Hill - League of the South - Unite the Right )
+
+7 Deleted tweets for 71Rhodie ( Michael Hill - League of the South - Unite the Right )
+
+3 Deleted tweets for 51ceanncinnidh ( Michael Hill - League of the South - Unite the Right )
+
+1 Deleted tweets for BigChief1951 ( Michael Hill - League of the South - Unite the Right )
