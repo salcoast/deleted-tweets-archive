@@ -55,6 +55,11 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 19,165 Deleted tweets for [drdavidduke](datasets/drdavidduke-deleted.md) (Republican Politician (LA), Unite the Right, Former Grand Dragon of the KKK)
 
 
+## Augustus Sol Invictus
+
+3 Deleted tweets for EmperorInvictus (https://www.splcenter.org/fighting-hate/extremist-files/individual/augustus-sol-invictus)
+
+
 ## Daniel Friberg
 
 71 Deleted tweets for [Daniel_Friberg](datasets/daniel_friberg-deleted.md) (Arktos Media - one of the coordinators of Unite the Right - https://www.splcenter.org/hatewatch/2017/09/26/identity-evropa-and-arktos-media-%E2%80%94-likely-bedfellows)
