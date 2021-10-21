@@ -48,7 +48,7 @@ The current dataset now includes 642,584 distinct deleted or unavailable tweets,
 
 ## Sub-sections
 
-[Pacififc North West](PNW.md)
+[Pacific North West](PNW.md)
 
 [Joey Camp](JoeyCamp.md)
 
