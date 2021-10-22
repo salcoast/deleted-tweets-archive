@@ -477,7 +477,7 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 1 Deleted tweets for [WompWompDog](datasets/wompwompdog-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right )
 
-4240 Deleted tweets for [Michael82379998](datasets/michael82379998-deleted.md) ( Michael Tubbs - League of the South - Unite the Right )
+4,240 Deleted tweets for [Michael82379998](datasets/michael82379998-deleted.md) ( Michael Tubbs - League of the South - Unite the Right )
 
 94 Deleted tweets for [MichaelHill51](datasets/michaelhill51-deleted.md) ( Michael Hill - League of the South - Unite the Right )
  
