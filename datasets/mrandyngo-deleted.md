@@ -1,7 +1,7 @@
-## Deleted tweets for MrAndyNgo
+## Deleted tweets for mrandyngo
 
-The list below includes 739 deleted tweets by
-[MrAndyNgo](https://twitter.com/MrAndyNgo).
+The list below includes 754 deleted tweets by
+[mrandyngo](https://twitter.com/mrandyngo).
 
 There are also 248 tweets that are indicated as not currently
 deleted by the Twitter API that have been scraped from pages of deleted tweets (as replies, etc.).
@@ -17,13 +17,15 @@ repository and then running the following commands:
 
 ```bash
 $ cargo build --release
-$ target/release/twcc deleted-tweets --report MrAndyNgo
+$ target/release/twcc deleted-tweets --report mrandyngo
 ```
 
 Please note that all tweets quoted here are sourced from the
 [Wayback Machine](https://web.archive.org) and were not directly accessed through the Twitter API or
 any Twitter client.
 
+* [18 October 2021](https://web.archive.org/web/20211018013143/https://twitter.com/MrAndyNgo/status/1449911002020122624): On Friday, thousands of antifa & far-left extremists rioted in Berlin & attacked police to oppose the dismantling of an illegal encampment in central Berlin. pic.twitter.com/tiwd2fC93u
+* [17 October 2021](https://web.archive.org/web/20211017142931/https://twitter.com/MrAndyNgo/status/1449744348476755969): Fan mail. pic.twitter.com/YYGqIE19Ee
 * [16 October 2021](https://web.archive.org/web/20211016104020/https://twitter.com/MrAndyNgo/status/1449324260690903042): L.A. antifa member Chad Loder has had his account suspended on Twitter. He has glorified violence on it & was accused by several women of predatory behavior in DMs. He has a pending criminal case for being in contempt of court—possibly for violation of restraining order. pic.twitter.com/uYGDNfAsLR
 * [16 October 2021](https://web.archive.org/web/20211016104020/https://twitter.com/MrAndyNgo/status/1449324260690903042) ([live](https://twitter.com/MrAndyNgo/status/1449208728859942913)): Chad Loder, an antifa from Redondo Beach, Calif., has a pending criminal case for being in contempt of court. His arraignment is set for 27 Oct. at Torrance Courthouse. Details of case unknown but several people, including a minor child, involved in protective orders against him. pic.twitter.com/RsDmBR84lH
 * [16 October 2021](https://web.archive.org/web/20211016005925/https://twitter.com/MrAndyNgo/status/1449178098512056324): Chad Loder, an antifa from Redondo Beach, Calif., has a pending criminal case for being in contempt of court. His arraignment is set for 27 Oct. at Torrance Courthouse. Details of case unknown but several people, including a minor child, have filed protective orders against him. pic.twitter.com/fLpssbXdN1
@@ -1011,3 +1013,16 @@ any Twitter client.
 * [27 July 2017](https://web.archive.org/web/20170727203505/https://twitter.com/mrandyngo/status/890661852316815360): I captured these photos when  @ConfessionsExMu  got in a heated debate about "is it  #Islamism  or just  #Islam ?" What do you think? pic.twitter.com/jLhTijP1jx
 * [25 July 2017](https://web.archive.org/web/20170725235332/https://twitter.com/MrAndyNgo/status/889996601607016448): . @ConfessionsExMu  shows audience how she used to wear niqab. "SunnahStyle" brand's slogan is "elegantly modest."  #islam   #hijab  pic.twitter.com/oCB2YnXYgW
 * [ 1 July 2017](https://web.archive.org/web/20190308211138/https://twitter.com/MrAndyNgo/status/881064860204888064): I am in Buffalo, New York this summer for an internship with the  @center4inquiry . pic.twitter.com/1Kzc9EtmcC
+* [14 November 2016](https://web.archive.org/web/20161202020256/https://twitter.com/MrAndyNgo/status/797869339621801985): . @conrad1058   @itsmikebivins  Ran out of characters to say "student media colleague." We're both part of Student Media  http://www.pdx.edu/student-media/
+* [13 November 2016](https://web.archive.org/web/20161202020256/https://twitter.com/MrAndyNgo/status/797869339621801985): Media colleague  @itsmikebivins  warned not to record violent anti-Trump protests. At least 1 media crew attacked last night  #PortlandProtest  pic.twitter.com/fVKgaLHKO5
+* [12 November 2016](https://web.archive.org/web/20161112223828/https://twitter.com/MrAndyNgo/status/797333655689400320): . @AsraNomani  interviewed on  @AC360  on why she, a liberal, Muslim & immigrant, decided to vote for Donald Trump. Listen to the nuance. pic.twitter.com/Lck3hA1j8t
+* [12 November 2016](https://web.archive.org/web/20161122215312/https://twitter.com/MrAndyNgo/status/797317655254298624): I didn't think I'd see these kinds of images in my city, my home. Downtown  #PDX   @Sephora  is boarded up  #TrumpRiot  pic.twitter.com/7yd6QwCm9Y
+* [28 June 2016](https://web.archive.org/web/20160628154941/https://twitter.com/MrAndyNgo/status/747589402478551040): . @MissDiagnosis  interviewed on  @JudgeJeanine  about Obama's P.R. denial of Islamism in  #Orlando  attack (June 13) https://youtu.be/8sZZEb8qv2E
+* [27 June 2016](https://web.archive.org/web/20160627134041/https://twitter.com/MrAndyNgo/status/747315199917490177): Racist woman speaking on mic at  @Mizzou   #orlando  vigil actually gets cheers from audience. https://m.youtube.com/watch?v=Ge9pHidD8sc&feature=player_embedded
+* [24 June 2016](https://web.archive.org/web/20160624013111/https://twitter.com/MrAndyNgo/status/746134536778452996): Middle East Muslim Fundamentalists Reporting Pro-LGBT Women to Authorities, Where Punishment Can Mean Death  http://thebea.st/28KDyJg   #Orlando
+* [23 June 2016](https://web.archive.org/web/20160624013517/https://twitter.com/MrAndyNgo/status/746129626192175104): Rainbow flag flies in front of Birmingham,  #Alabama  city hall in solidarity w/pride month &  #Orlando . Thank you. http://www.cnn.com/2016/06/23/us/orlando-charleston-rainbow-confederate-flags/index.html
+* [20 June 2016](https://web.archive.org/web/20160629131830/https://twitter.com/MrAndyNgo/status/744725214093709314): @MrAndyNgo  If only signage could alleviate the reality of people's suffering. We are privileged to attend pride under protection of police.
+* [20 June 2016](https://web.archive.org/web/20160629131830/https://twitter.com/MrAndyNgo/status/744725214093709314): For  #Orlando  & every human who suffers from religious fundamentalism.  #PDXpride  pic.twitter.com/1xmvmK0TPa
+* [29 May 2016](https://web.archive.org/web/20160608203359/https://twitter.com/MrAndyNgo/status/737054705176567809): When narrative & ideology valued more than truth  @IsaIbnOfficial   @NelsonEmpowered   @youngblackcon   #cincinattizoo  pic.twitter.com/8ZOSdG8HiH
+* [12 March 2016](https://web.archive.org/web/20160317112216/https://twitter.com/mrandyngo/status/708709646140215297): @LukeDBlackwood   @DudeInDistress   @RubinReport  Adding in intersectionality to redefine who gets to speak based on perceived rank power?
+* [12 March 2016](https://web.archive.org/web/20160317112216/https://twitter.com/mrandyngo/status/708709646140215297): @LukeDBlackwood   @DudeInDistress   @RubinReport  of course it's comparable. It's the same logic that motivates them & in many cases same people.
