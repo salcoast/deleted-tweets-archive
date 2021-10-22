@@ -127,8 +127,6 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 9,748 Deleted tweets for [TheRalphRetort](datasets/theralphretort-deleted.md)
 
-213 Deleted tweets for [mm1951284](datasets/mm1951284-deleted.md) (League of the South leadership)
-
 5 Deleted tweets for [americavanguard](datasets/americavanguard-deleted.md) (Original neo-Nazi group Heather Heyer's murderer was part of - now splintered - primarily to Patriot Front - https://www.adl.org/resources/backgrounders/vanguard-america)
 
 214 Deleted tweets for [JoeOltmann](datasets/joeoltmann-deleted.md) (QAnon - conspiracy theorist - violent extremist - patriot movement - https://www.azmirror.com/2021/06/30/election-conspiracy-film-stars-promoted-vigilante-action-against-officials/)
@@ -149,11 +147,11 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 3,568 Deleted tweets for [patribotics](datasets/patribotics-deleted.md)
 
-8,200 Deleted tweets for [themaddimension](datasets/themaddimension-deleted.md) (https://www.splcenter.org/fighting-hate/extremist-files/individual/jason-kessler)
+8,200 Deleted tweets for [themaddimension](datasets/themaddimension-deleted.md) (Unite the Right - https://www.splcenter.org/fighting-hate/extremist-files/individual/jason-kessler)
 
 29 Deleted tweets for [BrandiKruse](datasets/brandikruse-deleted.md)
 
-3,578 Deleted tweets for [evanmclaren](datasets/evanmclaren-deleted.md) (unite the right - lawyer - https://theintercept.com/2017/09/07/richard-spencer-national-policy-institute-leader-evan-mclaren/)
+3,578 Deleted tweets for [evanmclaren](datasets/evanmclaren-deleted.md) (Unite the Right - lawyer - https://theintercept.com/2017/09/07/richard-spencer-national-policy-institute-leader-evan-mclaren/)
 
 5,681 Deleted tweets for [jeffgiesea](datasets/jeffgiesea-deleted.md) (Former Director of Thiel Capital, alt-right, IDW - https://www.politico.com/magazine/story/2017/01/alt-right-trump-washington-dc-power-milo-214629/)
 
@@ -175,7 +173,7 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 4,415 Deleted tweets for [johntiegen](datasets/johntiegen-deleted.md)
 
-19,165 Deleted tweets for [drdavidduke](datasets/drdavidduke-deleted.md) (Republican Politician (LA), UTR, Former Grand Dragon of the KKK)
+19,165 Deleted tweets for [drdavidduke](datasets/drdavidduke-deleted.md) (Republican Politician (LA), Unite the Right , Former Grand Dragon of the KKK)
 
 9,490 Deleted tweets for [oathkeepers](datasets/oathkeepers-deleted.md)
 
