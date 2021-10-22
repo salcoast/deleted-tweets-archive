@@ -503,3 +503,10 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 27 Deleted tweets for [DailyStormers](datasets/dailystormers-deleted.md) (Andrew Anglin - Unite the Right - Neo-Nazi - Founder of the Daily Stormer - https://www.splcenter.org/fighting-hate/extremist-files/individual/andrew-anglin)
 
+16,283 Deleted tweets for [IrishLarper](datasets/irishlarper-deleted.md) ( Michael Hill - League of the South - Unite the Right )
+
+213 Deleted tweets for [MM1951284](datasets/mm1951284-deleted.md) ( Michael Hill - League of the South - Unite the Right )
+
+3 Deleted tweets for [Michael58972767](datasets/michael58972767-deleted.md) ( Michael Hill - League of the South - Unite the Right )
+
+1 Deleted tweets for [AmongstMen](datasets/amongstmen-deleted.md) ( Michael Hill - League of the South - Unite the Right )
