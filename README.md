@@ -129,8 +129,6 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 213 Deleted tweets for [mm1951284](datasets/mm1951284-deleted.md) (League of the South leadership)
 
-39 Deleted tweets for [racerealismusa](datasets/racerealismusa-deleted.md) (Neo-Nazi - Founder of the Daily Stormer - https://www.theatlantic.com/magazine/archive/2017/12/the-making-of-an-american-nazi/544119/)
-
 5 Deleted tweets for [americavanguard](datasets/americavanguard-deleted.md) (Original neo-Nazi group Heather Heyer's murderer was part of - now splintered - primarily to Patriot Front - https://www.adl.org/resources/backgrounders/vanguard-america)
 
 214 Deleted tweets for [JoeOltmann](datasets/joeoltmann-deleted.md) (QAnon - conspiracy theorist - violent extremist - patriot movement - https://www.azmirror.com/2021/06/30/election-conspiracy-film-stars-promoted-vigilante-action-against-officials/)
@@ -174,8 +172,6 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 2,582 Deleted tweets for [brittpettibone](datasets/brittpettibone-deleted.md)
 
 51 Deleted tweets for [bariweiss](datasets/bariweiss-deleted.md)
-
-2,460 Deleted tweets for [rumples42296282](datasets/rumples42296282-deleted.md) (Neo-Nazi - Founder of the Daily Stormer - https://www.splcenter.org/fighting-hate/extremist-files/individual/andrew-anglin)
 
 4,415 Deleted tweets for [johntiegen](datasets/johntiegen-deleted.md)
 
@@ -499,6 +495,11 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 838 Deleted tweets for [FollowChris](datasets/followchris-deleted.md) ( Chris Cantwell - Unite the Right )
 
+2,460 Deleted tweets for [rumples42296282](datasets/rumples42296282-deleted.md) (Andrew Anglin - Unite the Right - Neo-Nazi - Founder of the Daily Stormer - https://www.splcenter.org/fighting-hate/extremist-files/individual/andrew-anglin)
 
+42 Deleted tweets for [racerealismusa](datasets/racerealismusa-deleted.md) (Andrew Anglin - Unite the Right - Neo-Nazi - Founder of the Daily Stormer - https://www.theatlantic.com/magazine/archive/2017/12/the-making-of-an-american-nazi/544119/)
 
+36 Deleted tweets for [rudhum](datasets/rudhum-deleted.md) (Andrew Anglin - Unite the Right - Neo-Nazi - Founder of the Daily Stormer - https://www.splcenter.org/fighting-hate/extremist-files/individual/andrew-anglin)
+
+27 Deleted tweets for [DailyStormers](datasets/dailystormers-deleted.md) (Andrew Anglin - Unite the Right - Neo-Nazi - Founder of the Daily Stormer - https://www.splcenter.org/fighting-hate/extremist-files/individual/andrew-anglin)
 
