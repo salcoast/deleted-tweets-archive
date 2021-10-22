@@ -483,7 +483,6 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 4240 Deleted tweets for [Michael82379998](datasets/michael82379998-deleted.md) ( Michael Tubbs - League of the South - Unite the Right )
 
-
 94 Deleted tweets for [MichaelHill51](datasets/michaelhill51-deleted.md) ( Michael Hill - League of the South - Unite the Right )
  
 42 Deleted tweets for [JamesHill120651](datasets/jameshill120651-deleted.md) ( Michael Hill - League of the South - Unite the Right )
@@ -498,7 +497,7 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
  
 1 Deleted tweets for [BigChief1951](datasets/bigchief1951-deleted.md) ( Michael Hill - League of the South - Unite the Right )
 
-
+838 Deleted tweets for [FollowChris](datasets/followchris-deleted.md) ( Chris Cantwell - Unite the Right )
 
 
 
