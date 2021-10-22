@@ -91,4 +91,14 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 
 838 Deleted tweets for [FollowChris](datasets/followchris-deleted.md) ( Chris Cantwell - Unite the Right )
 
+## Andrew Anglin / Daily Stormer 
+
+2,460 Deleted tweets for [rumples42296282](datasets/rumples42296282-deleted.md) (Andrew Anglin - Unite the Right - Neo-Nazi - Founder of the Daily Stormer - https://www.splcenter.org/fighting-hate/extremist-files/individual/andrew-anglin)
+
+42 Deleted tweets for [racerealismusa](datasets/racerealismusa-deleted.md) (Andrew Anglin - Unite the Right - Neo-Nazi - Founder of the Daily Stormer - https://www.theatlantic.com/magazine/archive/2017/12/the-making-of-an-american-nazi/544119/)
+
+36 Deleted tweets for [rudhum](datasets/rudhum-deleted.md) (Andrew Anglin - Unite the Right - Neo-Nazi - Founder of the Daily Stormer - https://www.splcenter.org/fighting-hate/extremist-files/individual/andrew-anglin)
+
+27 Deleted tweets for [DailyStormers](datasets/dailystormers-deleted.md) (Andrew Anglin - Unite the Right - Neo-Nazi - Founder of the Daily Stormer - https://www.splcenter.org/fighting-hate/extremist-files/individual/andrew-anglin)
+
 
