@@ -69,7 +69,7 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 
 ## Michael Tubbs - League of the South
 
-4240 Deleted tweets for [Michael82379998](datasets/michael82379998-deleted.md) ( Michael Tubbs - League of the South - Unite the Right )
+4,240 Deleted tweets for [Michael82379998](datasets/michael82379998-deleted.md) ( Michael Tubbs - League of the South - Unite the Right )
 
 ## Michael Hill - League of the South
 
