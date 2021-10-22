@@ -1,9 +1,9 @@
 ## Deleted tweets for followchris
 
-The list below includes 837 deleted tweets by
+The list below includes 838 deleted tweets by
 [followchris](https://twitter.com/followchris).
 
-There are also 7 tweets that are indicated as not currently
+There are also 9 tweets that are indicated as not currently
 deleted by the Twitter API that have been scraped from pages of deleted tweets (as replies, etc.).
 These possibly undeleted tweets are included for context and are indicated by a _(live)_ link.
 
@@ -24,6 +24,9 @@ Please note that all tweets quoted here are sourced from the
 [Wayback Machine](https://web.archive.org) and were not directly accessed through the Twitter API or
 any Twitter client.
 
+* [19 October 2021](https://web.archive.org/web/20211019215103/https://twitter.com/FollowChris/status/1450580246571401225): Klopt het ook dat een groot deel van die 83% 'volledig gevaccineerden' inmiddels zo lang geleden een vaccinatie hebben gehad dat de werkzaamheid discutabel / effectiviteit is geworden?
+* [19 October 2021](https://web.archive.org/web/20211019215103/https://twitter.com/FollowChris/status/1450580246571401225) ([live](https://twitter.com/FollowChris/status/1450578746839285761)): https://coronadashboard.rijksoverheid.nl/  Wat interpreteer ik verkeerd aan de cijfersvan het dashboard? pic.twitter.com/GnFF1B1naY
+* [19 October 2021](https://web.archive.org/web/20211019215103/https://twitter.com/FollowChris/status/1450580246571401225) ([live](https://twitter.com/FollowChris/status/1450575442616913929)): 83% van de NL bevolking is nu volledig gevaccineerd.
 * [18 October 2021](https://web.archive.org/web/20211018224228/https://twitter.com/FollowChris/status/1450230746954838016): Maar wat nou als deze groep ongevaccineerden naast het niet hebben van een vaccinatie ook een andere overeenkomstigheid hebben..?
 * [12 September 2021](https://web.archive.org/web/20210912222645/https://twitter.com/FollowChris/status/1437180865000394753): Volgende stap: iedereen een regulier paspoort, ID kaart , een document om auto te mogen rijden en zelfs een BSN nummer. Let maar op naievelingen!!!1!
 * [ 5 September 2021](https://web.archive.org/web/20210905083820/https://twitter.com/FollowChris/status/1434435653522137088): Spelen en brood he...
