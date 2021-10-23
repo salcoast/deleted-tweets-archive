@@ -95,7 +95,7 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 
 ## Virginia chapter - League of the South - Jessica Reavis
 
-7 Deleted tweets for [IdentifyMarxism](datasets/identifmarxism-deleted.md) (  Virginia chapter - League of the South - Jessica Reavis )
+7 Deleted tweets for [IdentifyMarxism](datasets/identifymarxism-deleted.md) (  Virginia chapter - League of the South - Jessica Reavis )
 
 
 ## Chris Cantwell
