@@ -100,7 +100,9 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 
 838 Deleted tweets for [FollowChris](datasets/followchris-deleted.md) ( Chris Cantwell - Unite the Right )
 
-5 Deleted tweets for [FUFeelinz](datasets/fufeelinz-deleted.md) (  Chris Cantwell - Unite the Right  )
+5 Deleted tweets for [FUFeelinz](datasets/fufeelinz-deleted.md) ( Chris Cantwell - Unite the Right )
+
+12 Deleted tweets for [VoteForCantwell](datasets/voteforcantwell-deleted.md) ( Chris Cantwell - Unite the Right )
 
 
 ## Andrew Anglin / Daily Stormer 
