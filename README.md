@@ -520,4 +520,5 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 11 Deleted tweets for [HeimbachMatthew](datasets/heimbachmatthew-deleted.md) ( Unite the Right organizer - Neo-Nazi youth recruiter and co-chair of Trad Workers (TWP) - https://www.splcenter.org/fighting-hate/extremist-files/individual/matthew-heimbach)
 
+12 Deleted tweets for [VoteForCantwell](datasets/voteforcantwell-deleted.md) ( Chris Cantwell - Unite the Right )
 
