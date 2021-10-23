@@ -1,7 +1,7 @@
-## Deleted tweets for MatthewHeimbach
+## Deleted tweets for matthewheimbach
 
-The list below includes 0 deleted tweets by
-[MatthewHeimbach](https://twitter.com/MatthewHeimbach).
+The list below includes 38 deleted tweets by
+[matthewheimbach](https://twitter.com/matthewheimbach).
 
 
 
@@ -14,10 +14,48 @@ repository and then running the following commands:
 
 ```bash
 $ cargo build --release
-$ target/release/twcc deleted-tweets --report MatthewHeimbach
+$ target/release/twcc deleted-tweets --report matthewheimbach
 ```
 
 Please note that all tweets quoted here are sourced from the
 [Wayback Machine](https://web.archive.org) and were not directly accessed through the Twitter API or
 any Twitter client.
 
+* [26 December 2016](https://web.archive.org/web/20170102105653/https://twitter.com/MatthewHeimbach/status/813127534934159360): @NordicFascist5   @14Resistance  No nationalist political Party is currently using the swastika, simple as that.
+* [25 December 2016](https://web.archive.org/web/20170102105653/https://twitter.com/MatthewHeimbach/status/813127534934159360): Let us celebrate the victories of 2016 and push for more nationalist unity against the Globalist hydra.  #Solidarity   #TomorrowBelongsToUs  pic.twitter.com/Slky5fxHFp
+* [ 8 December 2016](https://web.archive.org/web/20161226185412/https://twitter.com/MatthewHeimbach/status/806904928031674369): @AtomwaffenDiv  "It had to be got rid of, just as we pull out weeds, throw them on a heap, and burn them."-Heinrich Himmler February 18, 1937
+* [29 September 2016](https://web.archive.org/web/20161004103407/https://twitter.com/MatthewHeimbach/status/781534259601301508): @YorkshireNA  Jews manipulate and try to subvert every European institution, tradition and religion. Remove the kikes; restore the Truth
+* [29 September 2016](https://web.archive.org/web/20161004103407/https://twitter.com/MatthewHeimbach/status/781534259601301508): "If he has exacted usury..He shall not live! If he has done any of these abominations, He shall surely die"-Ezekiel 18:13 pic.twitter.com/1jsdL5yafX
+* [ 4 August 2016](https://web.archive.org/web/20160806054408/https://twitter.com/matthewheimbach/status/761320055107911685): This is 100% True https://twitter.com/ReactionaryTree/status/761146126003232768
+* [21 July 2016](https://web.archive.org/web/20160729063113/https://twitter.com/MatthewHeimbach/status/756212240622190593): @NatActScot  Agreed on that. Which is why it is our primary duty to fight back against those genociding our people  #AntiWhiteLivesDontMatter
+* [21 July 2016](https://web.archive.org/web/20160729063113/https://twitter.com/MatthewHeimbach/status/756212240622190593): The shooting of  #CharlesKinsey  was 100% wrong. While I mostly support law enforcement, this cop shot an innocent man pic.twitter.com/HzqDRDP2th
+* [17 June 2016](https://web.archive.org/web/20160911110032/https://twitter.com/MatthewHeimbach/status/743252198033887233): @ProNorden  You say totalitarian like it's a bad thing.
+* [17 June 2016](https://web.archive.org/web/20160911110032/https://twitter.com/MatthewHeimbach/status/743252198033887233): @ProNorden  Truth Shall Be The Victor In This Struggle https://www.youtube.com/watch?v=sle1E9QgHNE
+* [16 June 2016](https://web.archive.org/web/20160911110032/https://twitter.com/MatthewHeimbach/status/743252198033887233): The last soldiers to die for my freedom were wearing Feldgrau.  #Nationalism  pic.twitter.com/scPfLQzJBA
+* [31 May 2016](https://web.archive.org/web/20160911110041/https://twitter.com/MatthewHeimbach/status/737464182606598144): "Total war is the demand of the hour  -Dr. Joseph Goebbels pic.twitter.com/qidZN2oXT8
+* [ 7 May 2016](https://web.archive.org/web/20161026140142/https://twitter.com/MatthewHeimbach/status/728985059462549504): @TheLibertyLamp  Round 2 is coming.... And we will win pic.twitter.com/0jk4e69LSl
+* [ 7 May 2016](https://web.archive.org/web/20161026140142/https://twitter.com/MatthewHeimbach/status/728985059462549504): A picture taken with my comrades and my spiritual Father. We want Mosley! pic.twitter.com/HjtQJxFAzw
+* [ 5 February 2016](https://web.archive.org/web/20160211005723/https://twitter.com/MatthewHeimbach/status/695651902520885248): The look I get when my wife talks about the need to "permanently clean up our nation" for the sake of our children  pic.twitter.com/fBvNCOwTRQ
+* [14 November 2015](https://web.archive.org/web/20151115232530/https://twitter.com/MatthewHeimbach/status/665626875188936705): @ShaqtheGrizzly  Def anti-Jew, but "ethnically ignorant" isn't a thing
+* [14 November 2015](https://web.archive.org/web/20151115232530/https://twitter.com/MatthewHeimbach/status/665626875188936705): @ShaqtheGrizzly  Keep the people out. I doubt White Christians would be aiding ISIS
+* [14 November 2015](https://web.archive.org/web/20151115232530/https://twitter.com/MatthewHeimbach/status/665626875188936705): @ShaqtheGrizzly  The terrorists in the  #ParisAttacks  were "refugees" who came into Europe. Closed border = they wouldnt have been in Europe
+* [14 November 2015](https://web.archive.org/web/20151115232530/https://twitter.com/MatthewHeimbach/status/665626875188936705): @elisepls   pic.twitter.com/oygWc0fIQw
+* [14 November 2015](https://web.archive.org/web/20151115232530/https://twitter.com/MatthewHeimbach/status/665626875188936705): These are my final thoughts on the  #ParisAttacks  , the entire agenda of the Leftist French govt led to this.  pic.twitter.com/XkykC8pgUe
+* [ 4 November 2015](https://web.archive.org/web/20151105115505/https://twitter.com/matthewheimbach/status/661668586679832576): @virgehall  A double standard 100%
+* [ 4 November 2015](https://web.archive.org/web/20151105115505/https://twitter.com/matthewheimbach/status/661668586679832576): @Trainspotter001  I'll put it on my business cards
+* [ 4 November 2015](https://web.archive.org/web/20151105115505/https://twitter.com/matthewheimbach/status/661668586679832576): @ssalvara  I appreciate that. Thank you
+* [ 4 November 2015](https://web.archive.org/web/20151105115505/https://twitter.com/matthewheimbach/status/661668586679832576): @MPCtxt   @KaliYugaSurf  "War is Peace, Freedom is Slavery, and Ignorance is Strength" -George Orwell's 1984
+* [ 4 November 2015](https://web.archive.org/web/20151105115505/https://twitter.com/matthewheimbach/status/661668586679832576): @Pr0tocolsrReal  Don't worry the British security are "Securing Our Border. Controlling Immigration"
+* [ 4 November 2015](https://web.archive.org/web/20151105115505/https://twitter.com/matthewheimbach/status/661668586679832576): @bossdalit  Only White Christians
+* [ 4 November 2015](https://web.archive.org/web/20151105115505/https://twitter.com/matthewheimbach/status/661668586679832576): @Flatland_USA  It's funny how Islamic hate preachers who support ISIS and grooming young girls are allowed in England by the truckload
+* [ 3 November 2015](https://web.archive.org/web/20151105115505/https://twitter.com/matthewheimbach/status/661668586679832576): @williams__0  Many blessings comrade
+* [ 3 November 2015](https://web.archive.org/web/20151105115505/https://twitter.com/matthewheimbach/status/661668586679832576): @williams__0  I think the ghost of Sir Oswald Mosley would agree
+* [ 3 November 2015](https://web.archive.org/web/20151105115505/https://twitter.com/matthewheimbach/status/661668586679832576): I am now banned from England for being a nationalist while 10ks of radical Muslims are welcomed.  #EnglandYoureDrunk   pic.twitter.com/UmW2ePDAeh
+* [ 8 September 2015](https://web.archive.org/web/20160911101633/https://twitter.com/MatthewHeimbach/status/641092478079213568): Russian Orthodox White Army volunteers fought communism/anarchism in the Spanish Civil War.  #OrthodoxNationalism  pic.twitter.com/PMJ1gZOdyN
+* [ 8 September 2015](https://web.archive.org/web/20160911101802/https://twitter.com/MatthewHeimbach/status/641078780988116993): Celebrate Labor Day by joining the Traditionalist Worker Party. Working families not multinational corporations pic.twitter.com/HbXQtGmyVb
+* [ 8 September 2015](https://web.archive.org/web/20160911101646/https://twitter.com/MatthewHeimbach/status/641078042106949633): Happy Labor Day! Remember our duty to fight for Christian social justice. Throw the globalist bosses off your backs pic.twitter.com/ygEtWyv3Nt
+* [ 2 August 2015](https://web.archive.org/web/20160911101610/https://twitter.com/MatthewHeimbach/status/627933590123323394): Loving your extended family is normal, natural and healthy. pic.twitter.com/T6da600m9o
+* [30 July 2015](https://web.archive.org/web/20160911101702/https://twitter.com/MatthewHeimbach/status/626861357653172224): If you want to understand my Middle East policy this photo about sums it up.  #NationalistsUnite   #FightGlobalism  pic.twitter.com/GwGwEOsWUo
+* [28 July 2015](https://web.archive.org/web/20160911101828/https://twitter.com/MatthewHeimbach/status/626124040219021312): @SaraLester12  The DSSS are absolutely awesome comrades. They are dedicated nationalists, professional and were very kind to me and my wife.
+* [28 July 2015](https://web.archive.org/web/20160911101828/https://twitter.com/MatthewHeimbach/status/626124040219021312): Newest Daily Stormer podcast is up. I interview Tony Hovater on our upcoming Trad Worker Party run in Ohio.  http://www.dailystormer.com/trad-youth-hour-tony-hovater-from-the-trad-worker-party/
+* [21 July 2012](https://web.archive.org/web/20161117012934/https://twitter.com/MatthewHeimbach/status/226526301715050496): Flagging the MLK Church near the  @splcenter  headquarters pic.twitter.com/HEqHsym0
