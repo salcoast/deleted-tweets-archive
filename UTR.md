@@ -87,8 +87,6 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
  
 1 Deleted tweets for [BigChief1951](datasets/bigchief1951-deleted.md) ( Michael Hill - League of the South - Unite the Right )
 
-16,283 Deleted tweets for [IrishLarper](datasets/irishlarper-deleted.md) ( Michael Hill - League of the South - Unite the Right )
-
 213 Deleted tweets for [MM1951284](datasets/mm1951284-deleted.md) ( Michael Hill - League of the South - Unite the Right )
 
 3 Deleted tweets for [Michael58972767](datasets/michael58972767-deleted.md) ( Michael Hill - League of the South - Unite the Right )
