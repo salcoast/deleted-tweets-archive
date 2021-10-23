@@ -1,6 +1,6 @@
 ## Deleted tweets for voteforcantwell
 
-The list below includes 0 deleted tweets by
+The list below includes 12 deleted tweets by
 [voteforcantwell](https://twitter.com/voteforcantwell).
 
 
@@ -21,3 +21,15 @@ Please note that all tweets quoted here are sourced from the
 [Wayback Machine](https://web.archive.org) and were not directly accessed through the Twitter API or
 any Twitter client.
 
+* [19 May 2015](https://web.archive.org/web/20151008104604/https://twitter.com/voteforcantwell/status/600785587243753472): @HeckPhilly  shut up nigger
+* [ 5 May 2015](https://web.archive.org/web/20150511175936/https://twitter.com/voteforcantwell/status/595690322908344323): She can't fix a computer, change a tire, or lift more than 40lbs, but she thinks she should be treated equally anyway  #HowToSpotAFeminist
+* [14 November 2014](https://web.archive.org/web/20151224031230/https://twitter.com/voteforcantwell/status/532912791200342017?lang=th): @erikpelve  You do realize you're a worthless low IQ'd moron who's being taken advantage of by manipulative women, right?
+* [13 November 2014](https://web.archive.org/web/20151224031230/https://twitter.com/voteforcantwell/status/532912791200342017?lang=th): @nickiplum  Fuck you, Pay me
+* [13 November 2014](https://web.archive.org/web/20151224031230/https://twitter.com/voteforcantwell/status/532912791200342017?lang=th): @seanmcarroll   @roseveleth  Somehow your senseless feminist garbage wasn't embedded in the  @CNN  article I was responding to. Kill yourself.
+* [13 November 2014](https://web.archive.org/web/20151224031230/https://twitter.com/voteforcantwell/status/532912791200342017?lang=th): @piewords  Oh, by all means, I'd really appreciate it if you'd wrap a rope around your neck and make sure your feet don't touch the ground
+* [13 November 2014](https://web.archive.org/web/20151224031230/https://twitter.com/voteforcantwell/status/532912791200342017?lang=th): @piewords  I hope it chases them right back into the fucking kitchen if this is the bullshit I have to see at the top of my news feed
+* [13 November 2014](https://web.archive.org/web/20151224031230/https://twitter.com/voteforcantwell/status/532912791200342017?lang=th): @valfardsutskott  Pro tip, I don't need to convince anybody. I'm just talking shit to a fucking twit.
+* [13 November 2014](https://web.archive.org/web/20151224031230/https://twitter.com/voteforcantwell/status/532912791200342017?lang=th): @piewords  And until the market takes over, you just might get the State to put more of them into STEM, which will result in catastrophe
+* [13 November 2014](https://web.archive.org/web/20151224031230/https://twitter.com/voteforcantwell/status/532912791200342017?lang=th): @piewords  If this hysteria is what we can expect from women, then we don't need them in STEM
+* [13 November 2014](https://web.archive.org/web/20151224031230/https://twitter.com/voteforcantwell/status/532912791200342017?lang=th): @roseveleth  Please kill yourself  http://www.christophercantwell.com/2014/11/13/interstellar-patriarchy/
+* [ 7 November 2013](https://web.archive.org/web/20141213223559/https://twitter.com/voteforcantwell/status/398484647002513408): Photo: Did Adam Kokesh “Sell Out” By Taking a Plea? If you haven’t heard, Adam Kokesh was released from...  http://tmblr.co/Z8T_nwzktOHN
