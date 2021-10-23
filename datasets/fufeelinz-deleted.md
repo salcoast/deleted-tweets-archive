@@ -1,6 +1,6 @@
 ## Deleted tweets for FUFeelinz
 
-The list below includes 0 deleted tweets by
+The list below includes 5 deleted tweets by
 [FUFeelinz](https://twitter.com/FUFeelinz).
 
 
@@ -21,3 +21,8 @@ Please note that all tweets quoted here are sourced from the
 [Wayback Machine](https://web.archive.org) and were not directly accessed through the Twitter API or
 any Twitter client.
 
+* [30 May 2016](https://web.archive.org/web/20160608201848/https://twitter.com/FUFeelinz/status/737137324845305856): So these  #BlackLivesMatter  idiots are actually tweeting  #GorillaLivesMatter  unironically and are completely unaware of the  lol factor?
+* [30 May 2016](https://web.archive.org/web/20160608201851/https://twitter.com/FUFeelinz/status/737136891699564544): #YoullNeverHearMeSay  that  #BlackLivesMatter  because that's such complete horseshit. If black lives mattered government wouldn't subsidize em
+* [29 May 2016](https://web.archive.org/web/20160608204849/https://twitter.com/FUFeelinz/status/737057915434061824): I hear  #BlackLivesMatter  is furious about that Gorilla getting shot. He was unarmed, a sweet boy, he dindunuffin.
+* [29 May 2016](https://web.archive.org/web/20160608214304/https://twitter.com/FUFeelinz/status/736967013319495681): I had the same question about  #BlackLivesMatter ...  #DeepThoughtsByCommieFags  https://twitter.com/AntonioBuehler/status/736966422161547264
+* [19 May 2016](https://web.archive.org/web/20160519103409/https://twitter.com/fufeelinz/status/733128952399679488): Cancer is too good for  @jackhunter74  at this point... pic.twitter.com/QSotJZpOd9
