@@ -22,11 +22,6 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 387 Deleted tweets for [bottomtexasuwu](datasets/bottomtexasuwu-deleted.md) (Azzmador - Unite the Right - Neo-Nazi - Stormer - https://www.splcenter.org/fighting-hate/intelligence-report/2018/brawler)
 
 
-## Matthew Heimbach
-
-11 Deleted tweets for [HeimbachMatthew](heimbachmatthew-deleted.md) (Neo-Nazi youth recruiter and co-chair of Trad Workers (TWP) with Matthew Parrott - Unite the Right organizer - https://www.splcenter.org/fighting-hate/extremist-files/individual/matthew-heimbach)
-
-
 
 ## Elliot Kline aka Eli Mosley 
 
@@ -67,9 +62,11 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 
 3,578 Deleted tweets for [EvanMclaren](datasets/evanmclaren-deleted.md) (Unite the rRght - lawyer - https://theintercept.com/2017/09/07/richard-spencer-national-policy-institute-leader-evan-mclaren/)
 
+
 ## Michael Tubbs - League of the South
 
 4,240 Deleted tweets for [Michael82379998](datasets/michael82379998-deleted.md) ( Michael Tubbs - League of the South - Unite the Right )
+
 
 ## Michael Hill - League of the South
 
@@ -93,6 +90,7 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 
 1 Deleted tweets for [AmongstMen](datasets/amongstmen-deleted.md) ( Michael Hill - League of the South - Unite the Right )
 
+
 ## Virginia chapter - League of the South - Jessica Reavis
 
 7 Deleted tweets for [IdentifyMarxism](datasets/identifymarxism-deleted.md) (  Virginia chapter - League of the South - Jessica Reavis )
@@ -114,5 +112,30 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 36 Deleted tweets for [rudhum](datasets/rudhum-deleted.md) (Andrew Anglin - Unite the Right - Neo-Nazi - Founder of the Daily Stormer - https://www.splcenter.org/fighting-hate/extremist-files/individual/andrew-anglin)
 
 27 Deleted tweets for [DailyStormers](datasets/dailystormers-deleted.md) (Andrew Anglin - Unite the Right - Neo-Nazi - Founder of the Daily Stormer - https://www.splcenter.org/fighting-hate/extremist-files/individual/andrew-anglin)
+
+
+
+## Traditionalist Worker Party (TWP)
+
+15 Deleted tweets for [TradWorker](datasets/tradworker-deleted.md) ( Unite the Right 
+
+
+## Matthew Parrott aka David Matthew Parrott - TWP
+
+1332 Deleted tweets for [MatthewParrott](datasets/matthewparrott-deleted.md) ( Unite the Right organizer - Founder of Trad Workers (TWP) )
+
+12 Deleted tweets for [tiffpollardfan](datasets/tiffpollardfan-deleted.md) ( Unite the Right organizer - Founder of Trad Workers (TWP) )
+
+2 Deleted tweets for [Parrott](datasets/parrott-deleted.md) ( Unite the Right organizer - Founder of Trad Workers (TWP) )
+
+
+
+## Matthew Heimbach - TWP
+
+
+38 Deleted tweets for [MatthewHeimbach](datasets/matthewheimbach-deleted.md) ( Unite the Right organizer - Neo-Nazi youth recruiter and co-chair of Trad Workers (TWP) - https://www.splcenter.org/fighting-hate/extremist-files/individual/matthew-heimbach)
+
+11 Deleted tweets for [HeimbachMatthew](datasets/heimbachmatthew-deleted.md) ( Unite the Right organizer - Neo-Nazi youth recruiter and co-chair of Trad Workers (TWP) - https://www.splcenter.org/fighting-hate/extremist-files/individual/matthew-heimbach)
+
 
 
