@@ -93,6 +93,10 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 
 1 Deleted tweets for [AmongstMen](datasets/amongstmen-deleted.md) ( Michael Hill - League of the South - Unite the Right )
 
+## Virginia chapter - League of the South - Jessica Reavis
+
+7 Deleted tweets for [IdentifyMarxism-deleted.md](datasets/identifmarxism-deleted.md) (  Virginia chapter - League of the South - Jessica Reavis )
+
 
 ## Chris Cantwell
 
