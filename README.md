@@ -507,4 +507,4 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 1 Deleted tweets for [AmongstMen](datasets/amongstmen-deleted.md) ( Michael Hill - League of the South - Unite the Right )
 
-5 Deleted tweets for [FUFeelinz](datasets/fufeelinz-deleted.md) (  Chris Cantwell - Unite the Right  )
+7 Deleted tweets for [IdentifyMarxism-deleted.md](datasets/identifmarxism-deleted.md) (  Virginia chapter - League of the South - Jessica Reavis )
