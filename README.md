@@ -460,8 +460,6 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 941 Deleted tweets for [ZubyMusic](datasets/zubymusic-deleted.md)
 
-11 Deleted tweets for [heimbachmatthew](heimbachmatthew-deleted.md) (Neo-Nazi youth recruiter and co-chair of Trad Workers (TWP) with Matthew Parrott - Unite the right organizer - https://www.splcenter.org/fighting-hate/extremist-files/individual/matthew-heimbach)
-
 81 Deleted tweets for [thatelimosley](datasets/thatelimosley-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right )
 
 57 Deleted tweets for [Elimosleyie](datasets/elimosleyie-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right )
@@ -509,3 +507,17 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 1 Deleted tweets for [AmongstMen](datasets/amongstmen-deleted.md) ( Michael Hill - League of the South - Unite the Right )
 
 7 Deleted tweets for [IdentifyMarxism](datasets/identifymarxism-deleted.md) (  Virginia chapter - League of the South - Jessica Reavis )
+
+15 Deleted tweets for [TradWorker](datasets/tradworker-deleted.md) ( Unite the Right 
+
+1332 Deleted tweets for [MatthewParrott](datasets/matthewparrott-deleted.md) ( Unite the Right organizer - Founder of Trad Workers (TWP) )
+
+12 Deleted tweets for [tiffpollardfan](datasets/tiffpollardfan-deleted.md) ( Unite the Right organizer - Founder of Trad Workers (TWP) )
+
+2 Deleted tweets for [Parrott](datasets/parrott-deleted.md) ( Unite the Right organizer - Founder of Trad Workers (TWP) )
+
+38 Deleted tweets for [MatthewHeimbach](datasets/matthewheimbach-deleted.md) ( Unite the Right organizer - Neo-Nazi youth recruiter and co-chair of Trad Workers (TWP) - https://www.splcenter.org/fighting-hate/extremist-files/individual/matthew-heimbach)
+
+11 Deleted tweets for [HeimbachMatthew](datasets/heimbachmatthew-deleted.md) ( Unite the Right organizer - Neo-Nazi youth recruiter and co-chair of Trad Workers (TWP) - https://www.splcenter.org/fighting-hate/extremist-files/individual/matthew-heimbach)
+
+
