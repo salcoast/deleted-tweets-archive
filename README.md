@@ -506,3 +506,5 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 3 Deleted tweets for [Michael58972767](datasets/michael58972767-deleted.md) ( Michael Hill - League of the South - Unite the Right )
 
 1 Deleted tweets for [AmongstMen](datasets/amongstmen-deleted.md) ( Michael Hill - League of the South - Unite the Right )
+
+5 Deleted tweets for [FUFeelinz](datasets/fufeelinz-deleted.md) (  Chris Cantwell - Unite the Right  )
