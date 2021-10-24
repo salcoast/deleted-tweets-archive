@@ -52,10 +52,11 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 
 19,165 Deleted tweets for [drdavidduke](datasets/drdavidduke-deleted.md) (Republican Politician (LA), Unite the Right, Former Grand Dragon of the KKK)
 
-
 ## Augustus Sol Invictus
 
-3 Deleted tweets for [EmperorInvictus] (https://www.splcenter.org/fighting-hate/extremist-files/individual/augustus-sol-invictus)
+413 Deleted tweets for [EmperorInvictus](datasets/emperorinvictus-deleted.md) (https://www.splcenter.org/fighting-hate/extremist-files/individual/augustus-sol-invictus)
+
+25 Deleted tweets for [SenatorInvictus](datasets/senatorinvictus-deleted.md) (https://www.splcenter.org/fighting-hate/extremist-files/individual/augustus-sol-invictus)
 
 
 ## Daniel Friberg
