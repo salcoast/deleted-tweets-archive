@@ -12,6 +12,7 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 8,200 Deleted tweets for [TheMadDimension](datasets/themaddimension-deleted.md) (Unite the Right - https://www.splcenter.org/fighting-hate/extremist-files/individual/jason-kessler)
 
 
+
 ## Richard Spencer
 
 47 Deleted tweets for [RichardBSpencer](datasets/richardbspencer-deleted.md) (Unite the Right)
@@ -52,6 +53,7 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 
 19,165 Deleted tweets for [drdavidduke](datasets/drdavidduke-deleted.md) (Republican Politician (LA), Unite the Right, Former Grand Dragon of the KKK)
 
+
 ## Augustus Sol Invictus
 
 413 Deleted tweets for [EmperorInvictus](datasets/emperorinvictus-deleted.md) (https://www.splcenter.org/fighting-hate/extremist-files/individual/augustus-sol-invictus)
@@ -62,7 +64,6 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 ## Daniel Friberg
 
 71 Deleted tweets for [Daniel_Friberg](datasets/daniel_friberg-deleted.md) (Arktos Media - one of the coordinators of Unite the Right - https://www.splcenter.org/hatewatch/2017/09/26/identity-evropa-and-arktos-media-%E2%80%94-likely-bedfellows)
-
 
 3,578 Deleted tweets for [EvanMclaren](datasets/evanmclaren-deleted.md) (Unite the rRght - lawyer - https://theintercept.com/2017/09/07/richard-spencer-national-policy-institute-leader-evan-mclaren/)
 
@@ -123,8 +124,7 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 
 ## Traditionalist Worker Party (TWP)
 
-15 Deleted tweets for [TradWorker](datasets/tradworker-deleted.md) ( Unite the Right 
-
+15 Deleted tweets for [TradWorker](datasets/tradworker-deleted.md) ( Unite the Right )
 
 ## Matthew Parrott aka David Matthew Parrott - TWP
 
@@ -134,14 +134,33 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 
 2 Deleted tweets for [Parrott](datasets/parrott-deleted.md) ( Unite the Right organizer - Founder of Trad Workers (TWP) )
 
-
-
 ## Matthew Heimbach - TWP
-
 
 38 Deleted tweets for [MatthewHeimbach](datasets/matthewheimbach-deleted.md) ( Unite the Right organizer - Neo-Nazi youth recruiter and co-chair of Trad Workers (TWP) - https://www.splcenter.org/fighting-hate/extremist-files/individual/matthew-heimbach)
 
 11 Deleted tweets for [HeimbachMatthew](datasets/heimbachmatthew-deleted.md) ( Unite the Right organizer - Neo-Nazi youth recruiter and co-chair of Trad Workers (TWP) - https://www.splcenter.org/fighting-hate/extremist-files/individual/matthew-heimbach)
+
+
+## Identity Evropa / American Identity Movement
+
+
+1068 Deleted tweets for [IdentityEvropa](datasets/identityevropa-deleted.md) ( Unite the Right organizer )
+
+27 Deleted tweets for [IdentityUS](datasets/identityus-deleted.md) ( Unite the Right organizer )
+
+455 Deleted tweets for [AIM_America](datasets/aim_america-deleted.md) ( Unite the Right )
+
+125 Deleted tweets for [NathanDamigo](datasets/nathandamigo-deleted.md) ( Nathan Damigo - Unite the Right organizer - IdentityEvropa)
+
+996 Deleted tweets for [PatrickCaseyIE](datasets/patrickcaseyie-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
+
+716 Deleted tweets for [PatrickCaseyUSA](datasets/patrickcaseyusa-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
+
+268 Deleted tweets for [Contentmancy](datasets/contentmancy-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
+
+70 Deleted tweets for [Altright_Fanfic](datasets/altright_fanfic-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
+
+28 Deleted tweets for [whitewolfgeist](datasets/whitewolfgeist-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
 
 
 
