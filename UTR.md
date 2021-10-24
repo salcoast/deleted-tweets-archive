@@ -55,7 +55,7 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 
 ## Augustus Sol Invictus
 
-3 Deleted tweets for EmperorInvictus (https://www.splcenter.org/fighting-hate/extremist-files/individual/augustus-sol-invictus)
+3 Deleted tweets for [EmperorInvictus] (https://www.splcenter.org/fighting-hate/extremist-files/individual/augustus-sol-invictus)
 
 
 ## Daniel Friberg
