@@ -523,3 +523,21 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 12 Deleted tweets for [VoteForCantwell](datasets/voteforcantwell-deleted.md) ( Chris Cantwell - Unite the Right )
 
 25 Deleted tweets for [SenatorInvictus](datasets/senatorinvictus-deleted.md) (https://www.splcenter.org/fighting-hate/extremist-files/individual/augustus-sol-invictus)
+
+1068 Deleted tweets for [IdentityEvropa](datasets/identityevropa-deleted.md) ( Unite the Right organizer )
+
+27 Deleted tweets for [IdentityUS](datasets/identityus-deleted.md) ( Unite the Right organizer )
+
+455 Deleted tweets for [AIM_America](datasets/aim_america-deleted.md) ( Unite the Right )
+
+125 Deleted tweets for [NathanDamigo](datasets/nathandamigo-deleted.md) ( Nathan Damigo - Unite the Right organizer - IdentityEvropa)
+
+996 Deleted tweets for [PatrickCaseyIE](datasets/patrickcaseyie-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
+
+716 Deleted tweets for [PatrickCaseyUSA](datasets/patrickcaseyusa-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
+
+268 Deleted tweets for [Contentmancy](datasets/contentmancy-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
+
+70 Deleted tweets for [Altright_Fanfic](datasets/altright_fanfic-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
+
+28 Deleted tweets for [whitewolfgeist](datasets/whitewolfgeist-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
