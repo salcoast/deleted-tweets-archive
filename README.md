@@ -530,7 +530,7 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 455 Deleted tweets for [AIM_America](datasets/aim_america-deleted.md) ( Unite the Right )
 
-125 Deleted tweets for [NathanDamigo](datasets/nathandamigo-deleted.md) ( Nathan Damigo - Unite the Right organizer - IdentityEvropa)
+139 Deleted tweets for [NathanDamigo](datasets/nathandamigo-deleted.md) ( Nathan Damigo - Unite the Right organizer - IdentityEvropa)
 
 996 Deleted tweets for [PatrickCaseyIE](datasets/patrickcaseyie-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
 
