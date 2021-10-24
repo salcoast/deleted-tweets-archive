@@ -86,7 +86,7 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 23 Deleted tweets for [Tooze_Dan](datasets/tooze_dan-deleted.md)
 
-3 Deleted tweets for [EmperorInvictus](datasets/emperorinvictus-deleted.md) (https://www.splcenter.org/fighting-hate/extremist-files/individual/augustus-sol-invictus)
+413 Deleted tweets for [EmperorInvictus](datasets/emperorinvictus-deleted.md) (https://www.splcenter.org/fighting-hate/extremist-files/individual/augustus-sol-invictus)
 
 47 Deleted tweets for [RichardBSpencer](datasets/richardbspencer-deleted.md) (UTR)
 
@@ -522,3 +522,4 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 12 Deleted tweets for [VoteForCantwell](datasets/voteforcantwell-deleted.md) ( Chris Cantwell - Unite the Right )
 
+25 Deleted tweets for [SenatorInvictus](datasets/senatorinvictus-deleted.md) (https://www.splcenter.org/fighting-hate/extremist-files/individual/augustus-sol-invictus)
