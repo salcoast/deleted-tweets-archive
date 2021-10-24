@@ -150,7 +150,7 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 
 455 Deleted tweets for [AIM_America](datasets/aim_america-deleted.md) ( Unite the Right )
 
-125 Deleted tweets for [NathanDamigo](datasets/nathandamigo-deleted.md) ( Nathan Damigo - Unite the Right organizer - IdentityEvropa)
+139 Deleted tweets for [NathanDamigo](datasets/nathandamigo-deleted.md) ( Nathan Damigo - Unite the Right organizer - IdentityEvropa)
 
 996 Deleted tweets for [PatrickCaseyIE](datasets/patrickcaseyie-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
 
