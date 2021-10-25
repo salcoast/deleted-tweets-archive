@@ -31,7 +31,7 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 
 27 Deleted tweets for [IdentityUS](datasets/identityus-deleted.md) ( Unite the Right organizer )
 
-455 Deleted tweets for [AIM_America](datasets/aim_america-deleted.md) ( Unite the Right )
+455 Deleted tweets for [AIM_America](datasets/aim_america-deleted.md) ( Unite the Right - American Identity Movement )
 
 139 Deleted tweets for [NathanDamigo](datasets/nathandamigo-deleted.md) ( Nathan Damigo - Unite the Right organizer - IdentityEvropa)
 
@@ -44,6 +44,19 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 70 Deleted tweets for [Altright_Fanfic](datasets/altright_fanfic-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
 
 28 Deleted tweets for [whitewolfgeist](datasets/whitewolfgeist-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
+
+239 Deleted tweets for [ID_Activist](datasets/id_activist-deleted.md) ( Previously @IdentityUS - Unite the Right - Identity Evropa )
+
+38 Deleted tweets for [idenokla](datasets/idenokla-deleted.md) ( Unite the Right - Identity Evropa )
+ 
+18 Deleted tweets for [MassachusettsIE](datasets/massachusettsie-deleted.md) ( Unite the Right - Identity Evropa )
+ 
+3 Deleted tweets for [NYF_SW](datasets/nyf_sw-deleted.md) ( Previously @NathanDamigo - Unite the Right - Identity Evropa )
+ 
+2 Deleted tweets for [IdentityEvro_IN](datasets/identityevro_in-deleted.md) ( Unite the Right - Identity Evropa )
+ 
+2 Deleted tweets for [EvropaNC](datasets/evropanc-deleted.md) ( Unite the Right - Identity Evropa )
+ 
 
 
 ## Elliot Kline aka Eli Mosley - IdentityEvropa
