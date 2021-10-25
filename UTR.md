@@ -24,21 +24,43 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 
 
 
+## Identity Evropa / American Identity Movement
+
+
+1068 Deleted tweets for [IdentityEvropa](datasets/identityevropa-deleted.md) ( Unite the Right organizer )
+
+27 Deleted tweets for [IdentityUS](datasets/identityus-deleted.md) ( Unite the Right organizer )
+
+455 Deleted tweets for [AIM_America](datasets/aim_america-deleted.md) ( Unite the Right )
+
+139 Deleted tweets for [NathanDamigo](datasets/nathandamigo-deleted.md) ( Nathan Damigo - Unite the Right organizer - IdentityEvropa)
+
+996 Deleted tweets for [PatrickCaseyIE](datasets/patrickcaseyie-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
+
+716 Deleted tweets for [PatrickCaseyUSA](datasets/patrickcaseyusa-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
+
+268 Deleted tweets for [Contentmancy](datasets/contentmancy-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
+
+70 Deleted tweets for [Altright_Fanfic](datasets/altright_fanfic-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
+
+28 Deleted tweets for [whitewolfgeist](datasets/whitewolfgeist-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
+
+
 ## Elliot Kline aka Eli Mosley 
 
-81 Deleted tweets for [thatelimosley](datasets/thatelimosley-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right )
+81 Deleted tweets for [thatelimosley](datasets/thatelimosley-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right - IdentityEvropa)
 
-57 Deleted tweets for [Elimosleyie](datasets/elimosleyie-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right )
+57 Deleted tweets for [Elimosleyie](datasets/elimosleyie-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right - IdentityEvropa)
 
-21 Deleted tweets for [EliMosleyOH](datasets/elimosleyoh-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right )
+21 Deleted tweets for [EliMosleyOH](datasets/elimosleyoh-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right - IdentityEvropa)
 
-13 Deleted tweets for [Eli_mosley_](datasets/eli_mosley_-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right )
+13 Deleted tweets for [Eli_mosley_](datasets/eli_mosley_-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right - IdentityEvropa)
 
-8 Deleted tweets for [EliMosley_](datasets/elimosley_-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right )
+8 Deleted tweets for [EliMosley_](datasets/elimosley_-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right - IdentityEvropa)
 
-6 Deleted tweets for [NotElimosley](datasets/notelimosley-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right )
+6 Deleted tweets for [NotElimosley](datasets/notelimosley-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right - IdentityEvropa)
 
-1 Deleted tweets for [WompWompDog](datasets/wompwompdog-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right )
+1 Deleted tweets for [WompWompDog](datasets/wompwompdog-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right - IdentityEvropa)
 
 
 ## Vanguard America
@@ -147,26 +169,6 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 11 Deleted tweets for [HeimbachMatthew](datasets/heimbachmatthew-deleted.md) ( Unite the Right organizer - Neo-Nazi youth recruiter and co-chair of Trad Workers (TWP) - https://www.splcenter.org/fighting-hate/extremist-files/individual/matthew-heimbach)
 
 
-## Identity Evropa / American Identity Movement
-
-
-1068 Deleted tweets for [IdentityEvropa](datasets/identityevropa-deleted.md) ( Unite the Right organizer )
-
-27 Deleted tweets for [IdentityUS](datasets/identityus-deleted.md) ( Unite the Right organizer )
-
-455 Deleted tweets for [AIM_America](datasets/aim_america-deleted.md) ( Unite the Right )
-
-139 Deleted tweets for [NathanDamigo](datasets/nathandamigo-deleted.md) ( Nathan Damigo - Unite the Right organizer - IdentityEvropa)
-
-996 Deleted tweets for [PatrickCaseyIE](datasets/patrickcaseyie-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
-
-716 Deleted tweets for [PatrickCaseyUSA](datasets/patrickcaseyusa-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
-
-268 Deleted tweets for [Contentmancy](datasets/contentmancy-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
-
-70 Deleted tweets for [Altright_Fanfic](datasets/altright_fanfic-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
-
-28 Deleted tweets for [whitewolfgeist](datasets/whitewolfgeist-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
 
 
 
