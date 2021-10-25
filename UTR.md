@@ -43,9 +43,15 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 
 ## Vanguard America
 
-5 Deleted tweets for [americavanguard](datasets/americavanguard-deleted.md) (Original neo-Nazi group Heather Heyer's murderer was part of - now splintered - primarily to Patriot Front - https://www.adl.org/resources/backgrounders/vanguard-america)
+27 Deleted tweets for [VanAMOfficia](datasets/vanamofficial-deleted.md)  ( Unite the Right organizer - https://www.adl.org/resources/backgrounders/vanguard-america)
 
+9 Deleted tweets for [AmericaVanguard](datasets/americavanguard-deleted.md) ( Unite the Right organizer - https://www.adl.org/resources/backgrounders/vanguard-america)
 
+6 Deleted tweets for [VanGuardAM](datasets/vanguardam-deleted.md)  ( Unite the Right organizer - https://www.adl.org/resources/backgrounders/vanguard-america)
+
+4 Deleted tweets for [TrueAmVanguard](datasets/trueamvanguard-deleted.md) ( Unite the Right organizer - https://www.adl.org/resources/backgrounders/vanguard-america)
+
+6 Deleted tweets for [TheNewGiantDad](datasets/thenewgiantdad-deleted.md) ( James Alex Fields, Jr. - Unite the Right -  Convicted and sentenced to 2 life terms in prison for murdering anti-racist protester, Heather Heyer, when he plowed his car into her and injuring dozens more )
 
 
 
