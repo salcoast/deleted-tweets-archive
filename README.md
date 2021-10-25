@@ -551,5 +551,15 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 6 Deleted tweets for [TheNewGiantDad](datasets/thenewgiantdad-deleted.md) ( James Alex Fields, Jr. - Unite the Right -  for murdering anti-racist protester, Heather Heyer, when he plowed his car into her and injuring dozens more )
 
+239 Deleted tweets for [ID_Activist](datasets/id_activist-deleted.md) ( Previously @IdentityUS - Unite the Right - Identity Evropa )
 
+38 Deleted tweets for [idenokla](datasets/idenokla-deleted.md) ( Unite the Right - Identity Evropa )
+ 
+18 Deleted tweets for [MassachusettsIE](datasets/massachusettsie-deleted.md) ( Unite the Right - Identity Evropa )
+ 
+3 Deleted tweets for [NYF_SW](datasets/nyf_sw-deleted.md) ( Previously @NathanDamigo - Unite the Right - Identity Evropa )
+ 
+2 Deleted tweets for [IdentityEvro_IN](datasets/identityevro_in-deleted.md) ( Unite the Right - Identity Evropa )
+ 
+2 Deleted tweets for [EvropaNC](datasets/evropanc-deleted.md) ( Unite the Right - Identity Evropa )
 
