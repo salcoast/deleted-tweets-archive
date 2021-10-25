@@ -541,7 +541,7 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 28 Deleted tweets for [whitewolfgeist](datasets/whitewolfgeist-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
 
 
-27 Deleted tweets for [VanAMOfficia](datasets/vanamofficial-deleted.md)  ( Unite the Right organizer - https://www.adl.org/resources/backgrounders/vanguard-america)
+27 Deleted tweets for [VanAMOfficial](datasets/vanamofficial-deleted.md)  ( Unite the Right organizer - https://www.adl.org/resources/backgrounders/vanguard-america)
 
 9 Deleted tweets for [AmericaVanguard](datasets/americavanguard-deleted.md) ( Unite the Right organizer - https://www.adl.org/resources/backgrounders/vanguard-america)
 
