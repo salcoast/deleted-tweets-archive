@@ -128,8 +128,6 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 9,748 Deleted tweets for [TheRalphRetort](datasets/theralphretort-deleted.md)
 
-5 Deleted tweets for [americavanguard](datasets/americavanguard-deleted.md) (Original neo-Nazi group Heather Heyer's murderer was part of - now splintered - primarily to Patriot Front - https://www.adl.org/resources/backgrounders/vanguard-america)
-
 214 Deleted tweets for [JoeOltmann](datasets/joeoltmann-deleted.md) (QAnon - conspiracy theorist - violent extremist - patriot movement - https://www.azmirror.com/2021/06/30/election-conspiracy-film-stars-promoted-vigilante-action-against-officials/)
 
 387 Deleted tweets for [bottomtexasuwu](datasets/bottomtexasuwu-deleted.md) (Azzmador - Unite the Right - Neo-Nazi - Stormer - https://www.splcenter.org/fighting-hate/intelligence-report/2018/brawler)
@@ -541,3 +539,17 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 70 Deleted tweets for [Altright_Fanfic](datasets/altright_fanfic-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
 
 28 Deleted tweets for [whitewolfgeist](datasets/whitewolfgeist-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
+
+
+27 Deleted tweets for [VanAMOfficia](datasets/vanamofficial-deleted.md)  ( Unite the Right organizer - https://www.adl.org/resources/backgrounders/vanguard-america)
+
+9 Deleted tweets for [AmericaVanguard](datasets/americavanguard-deleted.md) ( Unite the Right organizer - https://www.adl.org/resources/backgrounders/vanguard-america)
+
+6 Deleted tweets for [VanGuardAM](datasets/vanguardam-deleted.md)  ( Unite the Right organizer - https://www.adl.org/resources/backgrounders/vanguard-america)
+
+4 Deleted tweets for [TrueAmVanguard](datasets/trueamvanguard-deleted.md) ( Unite the Right organizer - https://www.adl.org/resources/backgrounders/vanguard-america)
+
+6 Deleted tweets for [TheNewGiantDad](datasets/thenewgiantdad-deleted.md) ( James Alex Fields, Jr. - Unite the Right -  for murdering anti-racist protester, Heather Heyer, when he plowed his car into her and injuring dozens more )
+
+
+
