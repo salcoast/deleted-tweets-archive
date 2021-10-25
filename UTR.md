@@ -43,7 +43,7 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 
 ## Vanguard America
 
-27 Deleted tweets for [VanAMOfficia](datasets/vanamofficial-deleted.md)  ( Unite the Right organizer - https://www.adl.org/resources/backgrounders/vanguard-america)
+27 Deleted tweets for [VanAMOfficial](datasets/vanamofficial-deleted.md)  ( Unite the Right organizer - https://www.adl.org/resources/backgrounders/vanguard-america)
 
 9 Deleted tweets for [AmericaVanguard](datasets/americavanguard-deleted.md) ( Unite the Right organizer - https://www.adl.org/resources/backgrounders/vanguard-america)
 
