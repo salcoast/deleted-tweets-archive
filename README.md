@@ -563,3 +563,38 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
  
 2 Deleted tweets for [EvropaNC](datasets/evropanc-deleted.md) ( Unite the Right - Identity Evropa )
 
+
+140 Deleted tweets for [Bloc313](datasets/bloc313-deleted.md) ( Claude Gary Thomas Jr aka bloc_claud - https://twitter.com/KarmaOneSixOne/status/1452888871482634247 )
+ 
+124 Deleted tweets for [Beverly313bloc](datasets/beverly313bloc-deleted.md) ( Claude Gary Thomas Jr aka bloc_claud - https://twitter.com/KarmaOneSixOne/status/1452888871482634247 )
+
+92 Deleted tweets for [313blocX](datasets/313blocx-deleted.md) ( Claude Gary Thomas Jr aka bloc_claud - https://twitter.com/KarmaOneSixOne/status/1452888871482634247 )
+
+89 Deleted tweets for [bloc_claude](datasets/bloc_claude-deleted.md) ( Claude Gary Thomas Jr aka bloc_claud - https://twitter.com/KarmaOneSixOne/status/1452888871482634247 )
+
+79 Deleted tweets for [cheesemanoregon](datasets/cheesemanoregon-deleted.md) ( Claude Gary Thomas Jr aka bloc_claud - https://twitter.com/KarmaOneSixOne/status/1452888871482634247 )
+
+64 Deleted tweets for [hosea_4](datasets/hosea_4-deleted.md) ( Claude Gary Thomas Jr aka bloc_claud - https://twitter.com/KarmaOneSixOne/status/1452888871482634247 )
+
+63 Deleted tweets for [313_outwest](datasets/313_outwest-deleted.md) ( Claude Gary Thomas Jr aka bloc_claud - https://twitter.com/KarmaOneSixOne/status/1452888871482634247 )
+
+36 Deleted tweets for [pussywrecknft](datasets/pussywrecknft-deleted.md) ( Claude Gary Thomas Jr aka bloc_claud - https://twitter.com/KarmaOneSixOne/status/1452888871482634247 )
+ 
+34 Deleted tweets for [pdxyum](datasets/pdxyum-deleted.md) ( Claude Gary Thomas Jr aka bloc_claud - https://twitter.com/KarmaOneSixOne/status/1452888871482634247 )
+
+34 Deleted tweets for [zoya365_gallery](datasets/zoya365_gallery-deleted.md) ( Claude Gary Thomas Jr aka bloc_claud - https://twitter.com/KarmaOneSixOne/status/1452888871482634247 )
+ 
+28 Deleted tweets for [inc_idc](datasets/inc_idc-deleted.md) ( Claude Gary Thomas Jr aka bloc_claud - https://twitter.com/KarmaOneSixOne/status/1452888871482634247 )
+ 
+24 Deleted tweets for [lulzsexC](datasets/lulzsexc-deleted.md) ( Claude Gary Thomas Jr aka bloc_claud - https://twitter.com/KarmaOneSixOne/status/1452888871482634247 )
+ 
+15 Deleted tweets for [DetroitNft](datasets/detroitnft-deleted.md) ( Claude Gary Thomas Jr aka bloc_claud - https://twitter.com/KarmaOneSixOne/status/1452888871482634247 )
+ 
+6 Deleted tweets for [Pamela26873915](datasets/pamela26873915-deleted.md) ( Claude Gary Thomas Jr aka bloc_claud - https://twitter.com/KarmaOneSixOne/status/1452888871482634247 )
+ 
+1 Deleted tweets for [AisleyJamee](datasets/aisleyjamee-deleted.md) ( Claude Gary Thomas Jr aka bloc_claud - https://twitter.com/KarmaOneSixOne/status/1452888871482634247 )
+ 
+
+
+
+ 
