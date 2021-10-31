@@ -45,7 +45,7 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 
 28 Deleted tweets for [whitewolfgeist](datasets/whitewolfgeist-deleted.md) ( Patrick Casey - Unite the Right organizer - IdentityEvropa )
 
-239 Deleted tweets for [ID_Activist](datasets/id_activist-deleted.md) ( Previously @IdentityUS - Unite the Right - Identity Evropa )
+239 Deleted tweets for [ID_Activist](datasets/id_activist-deleted.md) ( alst username @IdentityUS - Unite the Right - Identity Evropa )
 
 38 Deleted tweets for [idenokla](datasets/idenokla-deleted.md) ( Unite the Right - Identity Evropa )
  
@@ -57,6 +57,14 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
  
 2 Deleted tweets for [EvropaNC](datasets/evropanc-deleted.md) ( Unite the Right - Identity Evropa )
  
+6 Deleted tweets for [IEOkla](datasets/ieokla-deleted.md) ( alt username for idenokla - Unite the Right - Identity Evropa )
+
+166 Deleted tweets for [RyleeJustice](datasets/ryleejustice-deleted.md) ( alt username for idenokla - Unite the Right - Identity Evropa )
+
+1 Deleted tweets for [ConCook](datasets/concook-deleted.md) ( alt username for idenokla - Unite the Right - Identity Evropa )
+
+
+
 
 
 ## Elliot Kline aka Eli Mosley - IdentityEvropa
