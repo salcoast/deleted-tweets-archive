@@ -598,5 +598,9 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 11 Deleted tweets for [Sheli_Shmosley](datasets/sheli_shmosley-deleted.md) ( alt user name for WompWompDog - Elliot Kline aka Eli Mosley - Unite the Right - IdentityEvropa)
 
+6 Deleted tweets for [IEOkla](datasets/ieokla-deleted.md) ( alt username for idenokla - Unite the Right - Identity Evropa )
 
+166 Deleted tweets for [RyleeJustice](datasets/ryleejustice-deleted.md) ( alt username for idenokla - Unite the Right - Identity Evropa )
+
+1 Deleted tweets for [ConCook](datasets/concook-deleted.md) ( alt username for idenokla - Unite the Right - Identity Evropa )
  
