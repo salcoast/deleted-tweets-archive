@@ -61,7 +61,7 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 
 ## Elliot Kline aka Eli Mosley - IdentityEvropa
 
-81 Deleted tweets for [thatelimosley](datasets/thatelimosley-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right - IdentityEvropa)
+81 Deleted tweets for [ThatEliMosley](datasets/thatelimosley-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right - IdentityEvropa)
 
 57 Deleted tweets for [Elimosleyie](datasets/elimosleyie-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right - IdentityEvropa)
 
@@ -74,6 +74,14 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 6 Deleted tweets for [NotElimosley](datasets/notelimosley-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right - IdentityEvropa)
 
 1 Deleted tweets for [WompWompDog](datasets/wompwompdog-deleted.md) ( Elliot Kline aka Eli Mosley - Unite the Right - IdentityEvropa)
+
+28 Deleted tweets for [AntiPlatonism](datasets/antiplatonism-deleted.md) ( alt user name for Elimosleyie - Elliot Kline aka Eli Mosley - Unite the Right - IdentityEvropa)
+
+11 Deleted tweets for [Sheli_Shmosley](datasets/sheli_shmosley-deleted.md) ( alt user name for WompWompDog - Elliot Kline aka Eli Mosley - Unite the Right - IdentityEvropa)
+
+
+
+
 
 
 ## Vanguard America
