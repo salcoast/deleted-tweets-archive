@@ -594,7 +594,9 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
  
 1 Deleted tweets for [AisleyJamee](datasets/aisleyjamee-deleted.md) ( Claude Gary Thomas Jr aka bloc_claud - https://twitter.com/KarmaOneSixOne/status/1452888871482634247 )
  
+28 Deleted tweets for [AntiPlatonism](datasets/antiplatonism-deleted.md) ( alt user name for Elimosleyie - Elliot Kline aka Eli Mosley - Unite the Right - IdentityEvropa)
 
+11 Deleted tweets for [Sheli_Shmosley](datasets/sheli_shmosley-deleted.md) ( alt user name for WompWompDog - Elliot Kline aka Eli Mosley - Unite the Right - IdentityEvropa)
 
 
  
