@@ -146,7 +146,7 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 3,568 Deleted tweets for [patribotics](datasets/patribotics-deleted.md)
 
-8,200 Deleted tweets for [themaddimension](datasets/themaddimension-deleted.md) (Unite the Right - https://www.splcenter.org/fighting-hate/extremist-files/individual/jason-kessler)
+9,102 Deleted tweets for [themaddimension](datasets/themaddimension-deleted.md) (Unite the Right - https://www.splcenter.org/fighting-hate/extremist-files/individual/jason-kessler)
 
 29 Deleted tweets for [BrandiKruse](datasets/brandikruse-deleted.md)
 
