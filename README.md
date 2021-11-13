@@ -132,7 +132,7 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 387 Deleted tweets for [bottomtexasuwu](datasets/bottomtexasuwu-deleted.md) (Azzmador - Unite the Right - Neo-Nazi - Stormer - https://www.splcenter.org/fighting-hate/intelligence-report/2018/brawler)
 
-2,293 Deleted tweets for [Lauren_Southern](datasets/lauren_southern-deleted.md)
+2,786 Deleted tweets for [Lauren_Southern](datasets/lauren_southern-deleted.md)
 
 235 Deleted tweets for [carymarules](datasets/carymarules-deleted.md)
 
