@@ -88,7 +88,7 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 413 Deleted tweets for [EmperorInvictus](datasets/emperorinvictus-deleted.md) (https://www.splcenter.org/fighting-hate/extremist-files/individual/augustus-sol-invictus)
 
-47 Deleted tweets for [RichardBSpencer](datasets/richardbspencer-deleted.md) (UTR)
+216 Deleted tweets for [RichardBSpencer](datasets/richardbspencer-deleted.md) (UTR)
 
 10 Deleted tweets for [SchoepJeff](datasets/schoepjeff-deleted.md) (neo-Nazi youth recruiter)
 
