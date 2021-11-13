@@ -62,7 +62,7 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 471 Deleted tweets for [ggreenwald](datasets/ggreenwald-deleted.md)
 
-11 Deleted tweets for [Timcast](datasets/timcast-deleted.md)
+3876 Deleted tweets for [Timcast](datasets/timcast-deleted.md)
 
 4 Deleted tweets for [EricTrump](datasets/erictrump-deleted.md)
 
