@@ -16,7 +16,7 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 
 ## Richard Spencer
 
-47 Deleted tweets for [RichardBSpencer](datasets/richardbspencer-deleted.md) (Unite the Right)
+216 Deleted tweets for [RichardBSpencer](datasets/richardbspencer-deleted.md) (Unite the Right)
 
 
 ## Robert “Azzmador” Ray
