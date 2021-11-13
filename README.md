@@ -74,7 +74,7 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 39 Deleted tweets for [MichelleMalkin](datasets/michellemalkin-deleted.md)
 
-93 Deleted tweets for [JLeeQuinn](datasets/jleequinn-deleted.md)
+221 Deleted tweets for [JLeeQuinn](datasets/jleequinn-deleted.md)
 
 774 Deleted tweets for [RAMRANTS](datasets/ramrants-deleted.md)
 
@@ -88,9 +88,9 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 413 Deleted tweets for [EmperorInvictus](datasets/emperorinvictus-deleted.md) (https://www.splcenter.org/fighting-hate/extremist-files/individual/augustus-sol-invictus)
 
-216 Deleted tweets for [RichardBSpencer](datasets/richardbspencer-deleted.md) (UTR)
+216 Deleted tweets for [RichardBSpencer](datasets/richardbspencer-deleted.md) ( Unite the Right )
 
-10 Deleted tweets for [SchoepJeff](datasets/schoepjeff-deleted.md) (neo-Nazi youth recruiter)
+10 Deleted tweets for [SchoepJeff](datasets/schoepjeff-deleted.md) ( Unite the Right - neo-Nazi youth recruiter)
 
 6,360 Deleted tweets for [FaithGoldy](datasets/faithgoldy-deleted.md)
 
