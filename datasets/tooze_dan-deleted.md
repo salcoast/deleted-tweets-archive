@@ -1,4 +1,3 @@
-target/release/twcc deleted-tweets --report tooze_dan
 
 Note: GitHub's rendered view of the Gist truncates the list. You can see the full content by clicking the "Raw" link above, or by cloning the Gist locally.
 
