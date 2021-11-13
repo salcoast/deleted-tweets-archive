@@ -60,7 +60,7 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 754 Deleted tweets for [MrAndyNgo](datasets/mrandyngo-deleted.md) (Updated 10.22.21)
 
-471 Deleted tweets for [ggreenwald](datasets/ggreenwald-deleted.md)
+471 Deleted tweets for [GGreenwald](datasets/ggreenwald-deleted.md)
 
 3876 Deleted tweets for [Timcast](datasets/timcast-deleted.md)
 
@@ -96,7 +96,7 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 547 Deleted tweets for [KatieDaviscourt](datasets/katiedaviscourt-deleted.md)
 
-999 Deleted tweets for [ryanafournier](datasets/ryanafournier-deleted.md)
+999 Deleted tweets for [RyanaFournier](datasets/ryanafournier-deleted.md)
 
 5 Deleted tweets for [TuckerCarlson](datasets/tuckercarlson-deleted.md)
 
@@ -114,13 +114,13 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 3,001 Deleted tweets for [TPUSA](datasets/tpusa-deleted.md)
 
-42 Deleted tweets for [glennbeck](datasets/glennbeck-deleted.md)
+42 Deleted tweets for [GlennBeck](datasets/glennbeck-deleted.md)
 
 3,556 Deleted tweets for [SeanHannity](datasets/seanhannity-deleted.md)
 
-1,783 Deleted tweets for [occdissent](datasets/occdissent-deleted.md) (Occidental Dissent - Spokesman - League of the South - https://www.splcenter.org/fighting-hate/extremist-files/individual/bradley-dean-griffin)
+1,783 Deleted tweets for [OccDissent](datasets/occdissent-deleted.md) (Occidental Dissent - Spokesman - League of the South - https://www.splcenter.org/fighting-hate/extremist-files/individual/bradley-dean-griffin)
 
-510 Deleted tweets for [permianevents](datasets/permianevents-deleted.md) (Alan Swinney - https://www.kiro7.com/news/trending/proud-boys-member-alan-swinney-arrested-oregon-12-charges/655GFPEDPNDMBJ4CROU23YJRPA/)
+510 Deleted tweets for [PermianEvents](datasets/permianevents-deleted.md) (Alan Swinney - https://www.kiro7.com/news/trending/proud-boys-member-alan-swinney-arrested-oregon-12-charges/655GFPEDPNDMBJ4CROU23YJRPA/)
 
 71 Deleted tweets for [Daniel_Friberg](datasets/daniel_friberg-deleted.md) (Arktos Media - one of the coordinators of unite the right - https://www.splcenter.org/hatewatch/2017/09/26/identity-evropa-and-arktos-media-%E2%80%94-likely-bedfellows)
 
