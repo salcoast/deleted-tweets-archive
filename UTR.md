@@ -11,6 +11,7 @@ The Sines v. Kessler defendants are two dozen prominent white supremacists, neo-
 
 9,102 Deleted tweets for [TheMadDimension](datasets/themaddimension-deleted.md) (Unite the Right - https://www.splcenter.org/fighting-hate/extremist-files/individual/jason-kessler)
 
+902 Deleted tweets for [TheMadDimension](datasets/themaddimension-deleted-902.md) (The most recent 902 deleted tweets)
 
 
 ## Richard Spencer
