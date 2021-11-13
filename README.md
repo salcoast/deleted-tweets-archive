@@ -132,7 +132,7 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 387 Deleted tweets for [bottomtexasuwu](datasets/bottomtexasuwu-deleted.md) (Azzmador - Unite the Right - Neo-Nazi - Stormer - https://www.splcenter.org/fighting-hate/intelligence-report/2018/brawler)
 
-2,786 Deleted tweets for [Lauren_Southern](datasets/lauren_southern-deleted.md)
+2,786 Deleted tweets for [Lauren_Southern](datasets/lauren_southern-deleted.md) (Updated 11.13.21)
 
 235 Deleted tweets for [carymarules](datasets/carymarules-deleted.md)
 
@@ -146,7 +146,7 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 3,568 Deleted tweets for [patribotics](datasets/patribotics-deleted.md)
 
-9,102 Deleted tweets for [themaddimension](datasets/themaddimension-deleted.md) (Unite the Right - https://www.splcenter.org/fighting-hate/extremist-files/individual/jason-kessler)
+9,102 Deleted tweets for [themaddimension](datasets/themaddimension-deleted.md) (Unite the Right - https://www.splcenter.org/fighting-hate/extremist-files/individual/jason-kessler) (Updated 11.13.21)
 
 29 Deleted tweets for [BrandiKruse](datasets/brandikruse-deleted.md)
 
