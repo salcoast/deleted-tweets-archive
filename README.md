@@ -604,3 +604,8 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 1 Deleted tweets for [ConCook](datasets/concook-deleted.md) ( alt username for idenokla - Unite the Right - Identity Evropa )
  
+85 Deleted tweets for [LGBTrumpUSA](datasets/lgbtrumpusa-deleted.md)
+
+
+
+
