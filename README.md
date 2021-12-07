@@ -606,6 +606,11 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
  
 85 Deleted tweets for [LGBTrumpUSA](datasets/lgbtrumpusa-deleted.md)
 
-
+3645 Deleted tweets for [ChaniEvenstar](datasets/chanievenstar-deleted.md)
+ 
+1271 Deleted tweets for [EvenstarChani](datasets/evenstarchani-deleted.md)
+ 
+17 Deleted tweets for [BellaDashwood](datasets/belladashwood-deleted.md)
+ 
 
 
