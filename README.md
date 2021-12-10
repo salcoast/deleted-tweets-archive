@@ -604,14 +604,14 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 1 Deleted tweets for [ConCook](datasets/concook-deleted.md) ( alt username for idenokla - Unite the Right - Identity Evropa )
  
-85 Deleted tweets for [LGBTrumpUSA](datasets/lgbtrumpusa-deleted.md)
+85 Deleted tweets for [LGBTrumpUSA](datasets/lgbtrumpusa-deleted.md) 
 
-3645 Deleted tweets for [ChaniEvenstar](datasets/chanievenstar-deleted.md)
+3645 Deleted tweets for [ChaniEvenstar](datasets/chanievenstar-deleted.md) ( [https://twitter.com/WhiteRoseAFA/status/1467977481198125061](https://twitter.com/WhiteRoseAFA/status/1467977481198125061) ) ( [archived twitter thread](https://archive.md/YjTtU) )
  
-1271 Deleted tweets for [EvenstarChani](datasets/evenstarchani-deleted.md)
+1271 Deleted tweets for [EvenstarChani](datasets/evenstarchani-deleted.md) ( [https://twitter.com/WhiteRoseAFA/status/1467977481198125061](https://twitter.com/WhiteRoseAFA/status/1467977481198125061) ) ( [archived twitter thread](https://archive.md/YjTtU) )
  
-17 Deleted tweets for [BellaDashwood](datasets/belladashwood-deleted.md)
+17 Deleted tweets for [BellaDashwood](datasets/belladashwood-deleted.md) ( [https://twitter.com/WhiteRoseAFA/status/1467977481198125061](https://twitter.com/WhiteRoseAFA/status/1467977481198125061) ) ( [archived twitter thread](https://archive.md/YjTtU) )
  
-436 Deleted tweets for [FergusonRex12](datasets/fergusonrex12-deleted.md)
+436 Deleted tweets for [FergusonRex12](datasets/fergusonrex12-deleted.md) ( [https://rosecityantifa.org/articles/casey-knuteson/](https://rosecityantifa.org/articles/casey-knuteson/) )
 
 
