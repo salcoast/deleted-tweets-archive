@@ -612,5 +612,6 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
  
 17 Deleted tweets for [BellaDashwood](datasets/belladashwood-deleted.md)
  
+436 Deleted tweets for [FergusonRex12](datasets/fergusonrex12-deleted.md)
 
 
