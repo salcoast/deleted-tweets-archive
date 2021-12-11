@@ -58,11 +58,11 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 ## Current accounts in this archive
 
-754 Deleted tweets for [MrAndyNgo](datasets/mrandyngo-deleted.md) (Updated 10.22.21)
+766 Deleted tweets for [MrAndyNgo](datasets/mrandyngo-deleted.md) (Updated 12.10.21)
 
 471 Deleted tweets for [GGreenwald](datasets/ggreenwald-deleted.md)
 
-3876 Deleted tweets for [Timcast](datasets/timcast-deleted.md)
+4059 Deleted tweets for [Timcast](datasets/timcast-deleted.md) (Updated 12.10.21)
 
 4 Deleted tweets for [EricTrump](datasets/erictrump-deleted.md)
 
