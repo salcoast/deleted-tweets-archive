@@ -614,4 +614,5 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
  
 436 Deleted tweets for [FergusonRex12](datasets/fergusonrex12-deleted.md) ( [https://rosecityantifa.org/articles/casey-knuteson/](https://rosecityantifa.org/articles/casey-knuteson/) )
 
+75 Deleted tweets for [WendyRogersAZ](datasets/wendyrogersaz-deleted.md)
 
