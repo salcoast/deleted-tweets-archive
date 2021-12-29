@@ -616,3 +616,7 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 75 Deleted tweets for [WendyRogersAZ](datasets/wendyrogersaz-deleted.md)
 
+1608 Deleted tweets for [LAPDnorthHWDdiv](datasets/lapdnorthhwddiv-deleted.md)
+
+
+
