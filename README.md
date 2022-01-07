@@ -621,5 +621,272 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 1608 Deleted tweets for [LAPDnorthHWDdiv](datasets/lapdnorthhwddiv-deleted.md)
 
+3 Deleted tweets for [AGEricSchmitt](datasets/AGEricSchmitt-deleted.md)
+
+6 Deleted tweets for [AmandaChaseVA](datasets/AmandaChaseVA-deleted.md)
+
+15 Deleted tweets for [AngelaPaxtonTX](datasets/AngelaPaxtonTX-deleted.md)
+
+66 Deleted tweets for [AugustPfluger](datasets/AugustPfluger-deleted.md)
+
+12 Deleted tweets for [Babin4Congress](datasets/Babin4Congress-deleted.md)
+
+7 Deleted tweets for [barrassoforwyo](datasets/barrassoforwyo-deleted.md)
+
+23 Deleted tweets for [Bethvanduyne](datasets/Bethvanduyne-deleted.md)
+
+77 Deleted tweets for [BurgessOwens](datasets/BurgessOwens-deleted.md)
+
+0 Deleted tweets for [CarolMillerWV](datasets/CarolMillerWV-deleted.md)
+
+0 Deleted tweets for [ChaseForSenate](datasets/ChaseForSenate-deleted.md)
+
+3 Deleted tweets for [Chuck4Congress](datasets/Chuck4Congress-deleted.md)
+
+7 Deleted tweets for [CindyHydeSmith](datasets/CindyHydeSmith-deleted.md)
+
+8 eleted tweets for [Cline4Virginia](datasets/Cline4Virginia-deleted.md)
+
+4 Deleted tweets for [couygriffinc4t](datasets/couygriffinc4t-deleted.md)
+
+11 Deleted tweets for [CynthiaMLummis](datasets/CynthiaMLummis-deleted.md)
+
+7 Deleted tweets for [DainesForMT](datasets/DainesForMT-deleted.md)
+
+4 Deleted tweets for [dancox2018](datasets/dancox2018-deleted.md)
+
+7 Deleted tweets for [DavidKustoff](datasets/DavidKustoff-deleted.md)
+
+73 Deleted tweets for [DerrickEvans9](datasets/DerrickEvans9-deleted.md)
+
+26 Deleted tweets for [DesJarlaisTN04](datasets/DesJarlaisTN04-deleted.md)
+
+7 Deleted tweets for [DHarshbargerTN1](datasets/DHarshbargerTN1-deleted.md)
+
+49 Deleted tweets for [dougmastriano](datasets/dougmastriano-deleted.md)
+
+0 Deleted tweets for [DrBurgessTX](datasets/DrBurgessTX-deleted.md)
+
+6 Deleted tweets for [DrMarkGreen4TN](datasets/DrMarkGreen4TN-deleted.md)
+
+1 Deleted tweets for [FallonForTexas](datasets/FallonForTexas-deleted.md)
+
+2 Deleted tweets for [FitzgeraldForWI](datasets/FitzgeraldForWI-deleted.md)
+
+23 Deleted tweets for [generalbrnovich](datasets/generalbrnovich-deleted.md)
+
+11 Deleted tweets for [goodforcongress](datasets/goodforcongress-deleted.md)
+
+1 Deleted tweets for [HawleyMO](datasets/HawleyMO-deleted.md)
+
+1367 Deleted tweets for [HillForMissouri](datasets/HillForMissouri-deleted.md)
+
+8 Deleted tweets for [jameslankford](datasets/jameslankford-deleted.md)
+
+104 Deleted tweets for [JessicaFor57th](datasets/JessicaFor57th-deleted.md)
+
+4 Deleted tweets for [JodeyArrington](datasets/JodeyArrington-deleted.md)
+
+1 Deleted tweets for [JohnKennedyLA](datasets/JohnKennedyLA-deleted.md)
+
+7 Deleted tweets for [JohnRoseForTN](datasets/JohnRoseForTN-deleted.md)
+
+31 Deleted tweets for [jrmajewski](datasets/jrmajewski-deleted.md)
+
+14 Deleted tweets for [JudgeCarter](datasets/JudgeCarter-deleted.md)
+
+6 Deleted tweets for [judgejohncarter](datasets/judgejohncarter-deleted.md)
+
+41 Deleted tweets for [KenPaxtonTX](datasets/KenPaxtonTX-deleted.md)
+
+0 Deleted tweets for [KevinCramer](datasets/KevinCramer-deleted.md)
+
+22 Deleted tweets for [LanceGooden](datasets/LanceGooden-deleted.md)
+
+3 Deleted tweets for [LaRock4Delegate](datasets/LaRock4Delegate-deleted.md)
+
+2 Deleted tweets for [LouieGohmertTX1](datasets/LouieGohmertTX1-deleted.md)
+
+139 Deleted tweets for [MarshaBlackburn](datasets/MarshaBlackburn-deleted.md)
+
+2851 Deleted tweets for [matthewmaddock](datasets/matthewmaddock-deleted.md)
+
+0 Deleted tweets for [melvinadams](datasets/melvinadams-deleted.md)
+
+26 Deleted tweets for [meshawnmaria](datasets/meshawnmaria-deleted.md)
+
+39 Deleted tweets for [michaelcburgess](datasets/michaelcburgess-deleted.md)
+
+1 Deleted tweets for [MichaelJCloud](datasets/MichaelJCloud-deleted.md)
+
+0 Deleted tweets for [Mike_Azinger](datasets/Mike_Azinger-deleted.md)
+
+4 Deleted tweets for [MooneyforWV](datasets/MooneyforWV-deleted.md)
+
+0 Deleted tweets for [MorganGriffith](datasets/MorganGriffith-deleted.md)
+
+37 Deleted tweets for [PeteSessions](datasets/PeteSessions-deleted.md)
+
+3 Deleted tweets for [RalphNorman](datasets/RalphNorman-deleted.md)
+
+18 Deleted tweets for [RandPaul](datasets/RandPaul-deleted.md)
+
+3 Deleted tweets for [RealAnnieBlack](datasets/RealAnnieBlack-deleted.md)
+
+7 Deleted tweets for [RealMarkFinchem](datasets/RealMarkFinchem-deleted.md)
+
+7 Deleted tweets for [realmarkfinchem](datasets/realmarkfinchem-deleted.md)
+
+6 Deleted tweets for [ReElectWittman](datasets/ReElectWittman-deleted.md)
+
+47 Deleted tweets for [RepArrington](datasets/RepArrington-deleted.md)
+
+3 eleted tweets for [RepBobGood](datasets/RepBobGood-deleted.md)
+
+9 Deleted tweets for [RepBenCline](datasets/RepBenCline-deleted.md)
+
+13 Deleted tweets for [RepBrianBabin](datasets/RepBrianBabin-deleted.md)
+
+7 Deleted tweets for [RepBurgessOwens](datasets/RepBurgessOwens-deleted.md)
+
+15 Deleted tweets for [RepCarolMiller](datasets/RepCarolMiller-deleted.md)
+
+0 Deleted tweets for [RepJohnCarter](datasets/RepJohnCarter-deleted.md)
+
+7 Deleted tweets for [RepChrisStewart](datasets/RepChrisStewart-deleted.md)
+
+30 Deleted tweets for [RepChuck](datasets/RepChuck-deleted.md)
+
+5 Deleted tweets for [RepCloudTX](datasets/RepCloudTX-deleted.md)
+
+13 Deleted tweets for [RepDavidKustoff](datasets/RepDavidKustoff-deleted.md)
+
+6 Deleted tweets for [ReElectWittman](datasets/ReElectWittman-deleted.md)
+
+2 Deleted tweets for [RepFitzgerald](datasets/RepFitzgerald-deleted.md)
+
+57 Deleted tweets for [RepGosar](datasets/RepGosar-deleted.md)
+
+6 Deleted tweets for [RepHarshbarger](datasets/RepHarshbarger-deleted.md)
+
+20 Deleted tweets for [RepJacobs](datasets/RepJacobs-deleted.md)
+
+37 Deleted tweets for [RepJoeWilson](datasets/RepJoeWilson-deleted.md)
+
+19 Deleted tweets for [RepJohnRose](datasets/RepJohnRose-deleted.md)
+
+8 Deleted tweets for [RepLouieGohmert](datasets/RepLouieGohmert-deleted.md)
+
+50 Deleted tweets for [RepMarkGreen](datasets/RepMarkGreen-deleted.md)
+
+2 Deleted tweets for [RepMGriffith](datasets/RepMGriffith-deleted.md)
+
+24 Deleted tweets for [RepMoBrooks](datasets/RepMoBrooks-deleted.md)
+
+13 Deleted tweets for [RepPatFallon](datasets/RepPatFallon-deleted.md)
+
+55 Deleted tweets for [RepPfluger](datasets/RepPfluger-deleted.md)
+
+28 Deleted tweets for [RepRalphNorman](datasets/RepRalphNorman-deleted.md)
+
+11 Deleted tweets for [RepRonnyJackson](datasets/RepRonnyJackson-deleted.md)
+
+7 Deleted tweets for [RepRonWright](datasets/RepRonWright-deleted.md)
+
+15 Deleted tweets for [RepRWilliams](datasets/RepRWilliams-deleted.md)
+
+4 Deleted tweets for [RepSandyAdams](datasets/RepSandyAdams-deleted.md)
+
+3 Deleted tweets for [RepTiffany](datasets/RepTiffany-deleted.md)
+
+11 Deleted tweets for [RepTimBurchett](datasets/RepTimBurchett-deleted.md)
+
+10 Deleted tweets for [RepTimmons](datasets/RepTimmons-deleted.md)
+
+5 Deleted tweets for [RepTomRice](datasets/RepTomRice-deleted.md)
+
+15 Deleted tweets for [RepTroyNehls](datasets/RepTroyNehls-deleted.md)
+
+43 Deleted tweets for [RepBethVanDuyne](datasets/RepBethVanDuyne-deleted.md)
+
+22 Deleted tweets for [RobWittman](datasets/RobWittman-deleted.md)
+
+46 Deleted tweets for [RogerMarshallMD](datasets/RogerMarshallMD-deleted.md)
+
+2 Deleted tweets for [RogerWicker](datasets/RogerWicker-deleted.md)
+
+5 Deleted tweets for [RogerWilliamsTX](datasets/RogerWilliamsTX-deleted.md)
+
+0 Deleted tweets for [RonJohnsonWI](datasets/RonJohnsonWI-deleted.md)
+
+3 Deleted tweets for [RonnyJacksonTX](datasets/RonnyJacksonTX-deleted.md)
+
+14 Deleted tweets for [RoyBlunt](datasets/RoyBlunt-deleted.md)
+
+74 Deleted tweets for [SenatorLankford](datasets/SenatorLankford-deleted.md)
+
+54 Deleted tweets for [senatorwicker](datasets/senatorwicker-deleted.md)
+
+4 Deleted tweets for [sendavidperdue](datasets/sendavidperdue-deleted.md)
+
+17 Deleted tweets for [SenHydeSmith](datasets/SenHydeSmith-deleted.md)
+
+9 Deleted tweets for [SenJohnBarrasso](datasets/SenJohnBarrasso-deleted.md)
+
+32 Deleted tweets for [SenJohnKennedy](datasets/SenJohnKennedy-deleted.md)
+
+107 Deleted tweets for [SenKevinCramer](datasets/SenKevinCramer-deleted.md)
+
+25 Deleted tweets for [senlummis](datasets/senlummis-deleted.md)
+
+0 Deleted tweets for [Senpaxton](datasets/Senpaxton-deleted.md)
+
+68 Deleted tweets for [SenRickScott](datasets/SenRickScott-deleted.md)
+
+9 Deleted tweets for [SenRonJohnson](datasets/SenRonJohnson-deleted.md)
+
+145 Deleted tweets for [SenTedCruz](datasets/SenTedCruz-deleted.md)
+
+14 Deleted tweets for [SheriffTNehls](datasets/SheriffTNehls-deleted.md)
+
+1 Deleted tweets for [SenTomTiffany](datasets/SenTomTiffany-deleted.md)
+
+29 Deleted tweets for [SenTuberville](datasets/SenTuberville-deleted.md)
+
+1 Deleted tweets for [SessionsTX17](datasets/SessionsTX17-deleted.md)
+
+1 Deleted tweets for [StewartForUtah](datasets/StewartForUtah-deleted.md)
+
+24 Deleted tweets for [SteveDaines](datasets/SteveDaines-deleted.md)
+
+0 Deleted tweets for [suegenzianni](datasets/suegenzianni-deleted.md)
+
+0 Deleted tweets for [suesoloway](datasets/suesoloway-deleted.md)
+
+4 Deleted tweets for [TeamJoeWilson](datasets/TeamJoeWilson-deleted.md)
+
+41 Deleted tweets for [tedcruz](datasets/tedcruz-deleted.md)
+
+2 Deleted tweets for [TerriLynnWeaver](datasets/TerriLynnWeaver-deleted.md)
+
+27 Deleted tweets for [TimBurchett](datasets/TimBurchett-deleted.md)
+
+0 Deleted tweets for [TNDesJarlais](datasets/TNDesJarlais-deleted.md)
+
+5 Deleted tweets for [TomRiceSC7](datasets/TomRiceSC7-deleted.md)
+
+17 Deleted tweets for [TomTiffanyWI](datasets/TomTiffanyWI-deleted.md)
+
+0 Deleted tweets for [TroyNehls](datasets/TroyNehls-deleted.md)
+
+9 Deleted tweets for [TTuberville](datasets/TTuberville-deleted.md)
+
+9 Deleted tweets for [TXRandy14](datasets/TXRandy14-deleted.md)
+
+27 Deleted tweets for [VoteMarsha](datasets/VoteMarsha-deleted.md)
+
+5 Deleted tweets for [VoteTimmons](datasets/VoteTimmons-deleted.md)
+
+0 Deleted tweets for [WeberForTexas](datasets/WeberForTexas-deleted.md)
 
 
