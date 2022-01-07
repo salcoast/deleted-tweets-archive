@@ -56,7 +56,7 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 [Unite The Right](UTR.md)
 
-[January 6](j6.md)
+[January 6](J6.md)
 
 
 ## Current accounts in this archive
