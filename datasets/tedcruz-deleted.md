@@ -1,9 +1,9 @@
 ## Deleted tweets for tedcruz
 
-The list below includes 36 deleted tweets by
+The list below includes 41 deleted tweets by
 [tedcruz](https://twitter.com/tedcruz).
 
-There are also 1 tweets that are indicated as not currently
+There are also 3 tweets that are indicated as not currently
 deleted by the Twitter API that have been scraped from pages of deleted tweets (as replies, etc.).
 These possibly undeleted tweets are included for context and are indicated by a _(live)_ link.
 
@@ -24,6 +24,12 @@ Please note that all tweets quoted here are sourced from the
 [Wayback Machine](https://web.archive.org) and were not directly accessed through the Twitter API or
 any Twitter client.
 
+* [21 November 2021](https://web.archive.org/web/20211121021235/https://twitter.com/tedcruz/status/1462242465310781447): 4/x (5) You might personally disagree, but the jury heard evidence & presumably concluded he was acting to defend himself from what he reasonably perceived to be an imminent threat to his life.  (6) Also, ALL THREE of the people shot were White (contrary to false media reports).
+* [21 November 2021](https://web.archive.org/web/20211121021235/https://twitter.com/tedcruz/status/1462242465310781447) ([live](https://twitter.com/tedcruz/status/1462241299122241536)): 2/x (4) What facts support self defense?  - the three people shot all chased him, assaulted him and/or tried to grab his gun  - ALL THREE were convicted felons (on served 15 years for child molesting)  - the defense argued Rittenhouse feared for his life
+* [21 November 2021](https://web.archive.org/web/20211121021235/https://twitter.com/tedcruz/status/1462242465310781447) ([live](https://twitter.com/tedcruz/status/1462240213309272068)): 1/x Pretty stunning that she’s an  @nbc  anchor. She “doesn’t have an answer.” Try this:  (1) He WAS charged with six counts. That thing that just finished was his trial.  (2) A jury of his peers found him not guilty.  (3) Why? The defense argued he was engaged in self-defense. https://twitter.com/mariashriver/status/1461847746147540997
+* [14 November 2021](https://web.archive.org/web/20211114225122/https://twitter.com/tedcruz/status/1460017542731341826): RT @USATODAY: 'Saturday Night Live' gave Texas Sen. Ted Cruz his own version of 'Sesame Street' with friends Big Bird, Joe Rogan and Marjor…
+* [14 November 2021](https://web.archive.org/web/20211114193013/https://twitter.com/tedcruz/status/1459966874872074243): #CruzStreet  has BOTH  @joerogan  AND  @britneyspears    Sounds pretty awesome….   @nbcsnl     https://youtu.be/IAZKwuNvt8c  via  @YouTube
+* [ 8 November 2021](https://web.archive.org/web/20211108010712/https://twitter.com/tedcruz/status/1457514968203542528): We’ll, every one of those is a puppet, most with a hand inserted up their backside.   @SethMacFarlane  is 1 of the funniest souls on the planet. Am sorry to see him shilling for petty authoritarians who would deny you the right to make your own medical choices.   #YourBodyYourChoice  https://twitter.com/sethmacfarlane/status/1457365701451128835
 * [16 October 2021](https://web.archive.org/web/20211016044730/https://twitter.com/tedcruz/status/1449235486799798273): SPECTACULAR WIN!!!!  Noting better than Daddy-daughter baseball.  Incredible victory in Game 1 of  #ALCS    #GoStros   pic.twitter.com/fdAGMDsTTR
 * [30 August 2021](https://web.archive.org/web/20210830020520/https://twitter.com/tedcruz/status/1432162395326189569): The people of Texas are lifting up in prayer our great neighbors in Louisianna. https://twitter.com/thehill/status/1432156365032771586
 * [29 August 2021](https://web.archive.org/web/20210829203242/https://twitter.com/tedcruz/status/1432078739098198021): A full-page ad in the wsj by the owner of the Tampa Bay Buccaneers…. pic.twitter.com/b4CLESrFwd
@@ -61,3 +67,4 @@ any Twitter client.
 * [22 September 2018](https://web.archive.org/web/20180922202113/https://twitter.com/tedcruz/status/1043596098693226497): RT @eramshaw: If you missed last night’s debate between Ted Cruz and Beto O'Rourke you can watch the full video here: https://t.co/ugMMpNAp…
 * [27 August 2018](https://web.archive.org/web/20180827151742/https://twitter.com/tedcruz/status/1034097631721648128): RT @MichaelBerrySho: #IStand with @tedcruz for the veterans like Tim Lee who lost both his legs fighting in South Vietnam. 🇺🇸🇺🇸🇺🇸 Tweet #IS…
 * [24 October 2017](https://web.archive.org/web/20171024155344/https://twitter.com/tedcruz/status/922851286973902850): Join me in supporting  @MooreSenate  for Alabama!  #ALSen   https://www.tedcruz.org/blog/judge-roy-moore-alabama/  pic.twitter.com/UjaQGbzE46
+* [19 April 2015](https://web.archive.org/web/20150603063950/https://twitter.com/tedcruz/status/589873192216481793?lang=msa): LIVE on  #Periscope :  @trdcruz  Live with NH House Republican PAC Meet & Greet  https://www.periscope.tv/w/VxU0LjgwODk1MXw1NzY1MTMxT4VXlmkENdUU79JsOU_bvWSsCNFk9iv8fGHG_SftNdU=
