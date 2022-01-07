@@ -56,6 +56,9 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 [Unite The Right](UTR.md)
 
+[January 6](j6.md)
+
+
 ## Current accounts in this archive
 
 766 Deleted tweets for [MrAndyNgo](datasets/mrandyngo-deleted.md) (Updated 12.10.21)
