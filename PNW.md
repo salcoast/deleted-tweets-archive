@@ -10,7 +10,7 @@
  
  4 Deleted tweets for [Theanim24326713](datasets/theanim24326713-deleted.md) (Chandler Pappas)
  
- 50 Deleted tweets for [ChandlerPappas](datasets/chandlerpappas.md)
+ 50 Deleted tweets for [ChandlerPappas](datasets/chandlerpappas-deleted.md.md)
  
  27 Deleted tweets for [patriotprayerus](datasets/patriotprayerus-deleted.md)
  
