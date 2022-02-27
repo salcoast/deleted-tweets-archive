@@ -4,7 +4,7 @@
  
  ## Andy Ngo
  
- 831 Deleted tweets for [MrAndyNgo](datasets/mrandyngo.md)
+ 831 Deleted tweets for [MrAndyNgo](datasets/mrandyngo-deleted.md)
  
  ## Patriot Prayer
  
@@ -21,7 +21,7 @@
  
  510 Deleted tweets for [permianevents](datasets/permianevents-deleted.md) (Alan Swinney - https://www.kiro7.com/news/trending/proud-boys-member-alan-swinney-arrested-oregon-12-charges/655GFPEDPNDMBJ4CROU23YJRPA/)
  
- 23 Deleted tweets for [tooze_dan](datasets/tooze_dan.md)
+ 23 Deleted tweets for [tooze_dan](datasets/tooze_dan-deleted.md)
  
  
  ## Haley Adams
