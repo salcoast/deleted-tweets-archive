@@ -273,7 +273,7 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 69 Deleted tweets for [taralarosa](datasets/taralarosa-deleted.md)
 
-548 Deleted tweets for [tpostmillennial](datasets/tpostmillennial-deleted.md)
+783 Deleted tweets for [tpostmillennial](datasets/tpostmillennial-deleted.md)
 
 297 Deleted tweets for [uncensoredhaley](datasets/uncensoredhaley-deleted.md) (Haley Adams)
 
