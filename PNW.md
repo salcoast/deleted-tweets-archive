@@ -4,13 +4,13 @@
  
  ## Andy Ngo
  
- 726 Deleted tweets for [MrAndyNgo](datasets/mrandyngo.md)
+ 831 Deleted tweets for [MrAndyNgo](datasets/mrandyngo.md)
  
  ## Patriot Prayer
  
  4 Deleted tweets for [Theanim24326713](datasets/theanim24326713-deleted.md) (Chandler Pappas)
  
- 50 Deleted tweets for [ChandlerPappas](datasets/chandlerpappas-deleted.md)
+ 56 Deleted tweets for [ChandlerPappas](datasets/chandlerpappas-deleted.md)
  
  27 Deleted tweets for [patriotprayerus](datasets/patriotprayerus-deleted.md)
  
