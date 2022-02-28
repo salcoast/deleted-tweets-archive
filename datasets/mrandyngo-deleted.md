@@ -1,6 +1,6 @@
 ## Deleted tweets for MrAndyNgo
 
-The list below includes 831 deleted tweets by
+The list below includes 832 deleted tweets by
 [MrAndyNgo](https://twitter.com/MrAndyNgo).
 
 There are also 287 tweets that are indicated as not currently
@@ -24,6 +24,7 @@ Please note that all tweets quoted here are sourced from the
 [Wayback Machine](https://web.archive.org) and were not directly accessed through the Twitter API or
 any Twitter client.
 
+* [27 February 2022](https://web.archive.org/web/20220227010538/https://twitter.com/MrAndyNgo/status/1497739583038971906): The Chernobyl Nuclear Power Plant hasn’t been in operation for decades, but  @MSNBC  contributor  @malcolmnance  doesn’t know that. pic.twitter.com/Bmmwg5aTDq
 * [25 February 2022](https://web.archive.org/web/20220225190046/https://twitter.com/MrAndyNgo/status/1497285414050316294): Californian far-left militant  @vps_reports  is instructing people to manipulate Twitter’s reporting function to try & get me banned for posting the photograph of the Paris graffiti.  https://twitter.com/VPS_Reports/status/1497014429921153072  pic.twitter.com/iJ1SP70Odm
 * [24 February 2022](https://web.archive.org/web/20220225190046/https://twitter.com/MrAndyNgo/status/1497285414050316294) ([live](https://twitter.com/MrAndyNgo/status/1496997676453347339)): Controversial graffiti in Paris about  #GeorgeFloyd .  #BLM  pic.twitter.com/7BItDt1GcP
 * [24 February 2022](https://web.archive.org/web/20220224192109/https://twitter.com/MrAndyNgo/status/1496928174223069186): #Antifa  in Seattle are promoting a direct action today for "anarchists fighting for liberation against fascism." It's not clear if it was organized in support of Russia's invasion of Ukraine. Putin said the invasion is for the "de-Nazification" of Ukraine & to stop genocide. pic.twitter.com/tCkVNUPz5x
