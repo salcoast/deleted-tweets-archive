@@ -1,7 +1,7 @@
-## Deleted tweets for MrAndyngo
+## Deleted tweets for MrAndyNgo
 
 The list below includes 837 deleted tweets by
-[MrAndyngo](https://twitter.com/MrAndyngo).
+[MrAndyNgo](https://twitter.com/MrAndyNgo).
 
 There are also 293 tweets that are indicated as not currently
 deleted by the Twitter API that have been scraped from pages of deleted tweets (as replies, etc.).
@@ -17,7 +17,7 @@ repository and then running the following commands:
 
 ```bash
 $ cargo build --release
-$ target/release/twcc deleted-tweets --report MrAndyngo
+$ target/release/twcc deleted-tweets --report MrAndyNgo
 ```
 
 Please note that all tweets quoted here are sourced from the
