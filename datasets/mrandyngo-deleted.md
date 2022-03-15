@@ -1,9 +1,9 @@
 ## Deleted tweets for MrAndyNgo
 
-The list below includes 837 deleted tweets by
+The list below includes 843 deleted tweets by
 [MrAndyNgo](https://twitter.com/MrAndyNgo).
 
-There are also 293 tweets that are indicated as not currently
+There are also 296 tweets that are indicated as not currently
 deleted by the Twitter API that have been scraped from pages of deleted tweets (as replies, etc.).
 These possibly undeleted tweets are included for context and are indicated by a _(live)_ link.
 
@@ -24,6 +24,15 @@ Please note that all tweets quoted here are sourced from the
 [Wayback Machine](https://web.archive.org) and were not directly accessed through the Twitter API or
 any Twitter client.
 
+* [14 March 2022](https://web.archive.org/web/20220314135556/https://twitter.com/MrAndyNgo/status/1503369221711052803): Background: https://mobile.twitter.com/MattWalshBlog/status/1500549577337933837
+* [14 March 2022](https://web.archive.org/web/20220314135556/https://twitter.com/MrAndyNgo/status/1503369221711052803) ([live](https://twitter.com/MrAndyNgo/status/1503368915648401411)): Today: The Atlanta, Ga. cell of  #Antifa  ( @afainatl ) is using Twitter to try & organize a direct action to stop  @MattWalshBlog 's speaking event today at  @GeorgiaTech . One of the strategies so far by an antifa furry member is to hoard all the tickets with fake sign-ups. pic.twitter.com/pAUs0RaJlk
+* [13 March 2022](https://web.archive.org/web/20220313233956/https://twitter.com/MrAndyNgo/status/1503153920939544576): RT @MrAndyNgo: As a child, my interests included dolls &amp; dresses. I was raised at a time when the culture &amp; adults didn't introduce ideas t…
+* [13 March 2022](https://web.archive.org/web/20220313191739/https://twitter.com/MrAndyNgo/status/1503087753067741189): #Corsica : Rioters hurl firebombs & rocks on Sunday. The French Mediterranean island has seen days of political violence after convicted assassin & imprisoned separatist leader Yvan Colonna was severely beaten by another inmate. He’s in a coma. pic.twitter.com/8Qbc5d9DMH
+* [13 March 2022](https://web.archive.org/web/20220313191739/https://twitter.com/MrAndyNgo/status/1503087753067741189) ([live](https://twitter.com/MrAndyNgo/status/1503085296103182350)): #Corsica  earlier today: Separatist masked rioters in black brought Molotov cocktails & riot gear to the anti-France protest in city of Bastia. They want independence. pic.twitter.com/8Qbc5d9DMH
+* [13 March 2022](https://web.archive.org/web/20220313191739/https://twitter.com/MrAndyNgo/status/1503087753067741189) ([live](https://twitter.com/MrAndyNgo/status/1503083332007075849)): Mass rioting broke out this week in the Mediterranean island of  #Corsica . They’re demanding independence from France. In this video, rioters used construction equipment as a battering ram to smash open an ATM. pic.twitter.com/ynQwllClXH
+* [11 March 2022](https://web.archive.org/web/20220311231602/https://twitter.com/MrAndyNgo/status/1502422970391801856): Congratulations to Andy Ngo for winning first place! https://twitter.com/RankinSchools/status/1502380328651919361
+* [11 March 2022](https://web.archive.org/web/20220311223548/https://twitter.com/MrAndyNgo/status/1502412906318766083): Portland, Ore.: A serial rapist whose victims included a minor girl has been sentenced to nearly 18 years in prison today. It took 10 years for the victims to get justice following an exhaustive investigation by the Portland Police & a retired California detective. pic.twitter.com/AbtIH2w6WB
+* [10 March 2022](https://web.archive.org/web/20220310203706/https://twitter.com/MrAndyNgo/status/1502020698797133830): Boston  #BLM  leader Monica Cannon-Grant ( @Pr0RockThrower ) is under federal investigation for alleged fraudulent use of donations to her multi-million dollar nonprofit. In October her husband was arrested for unemployment fraud & their family home was raided. https://thepostmillennial.com/blm-activist-under-investigation-by-federal-grand-jury-for-misuse-of-funds?utm_campaign=64470
 * [ 3 March 2022](https://web.archive.org/web/20220303194449/https://twitter.com/MrAndyNgo/status/1499470714243584010): Screenshots of tweets that left-wing journalist Ismael Belkoura removed from public viewing. He photographed event that was shut down by far-left at U of North Texas. He removed the content after far-left accounts told him to delete footage & pics. Archive: https://threadreaderapp.com/thread/1499170672937168898.html  pic.twitter.com/XNcZSSmMGl
 * [ 3 March 2022](https://web.archive.org/web/20220303194449/https://twitter.com/MrAndyNgo/status/1499470714243584010) ([live](https://twitter.com/MrAndyNgo/status/1499440266712956936)): The left-wing journalist who documented far-left shutting down the trans-critical event at U of North Texas in Denton ( @UNTnews ) has deleted his coverage after radicals said evidence needed to be scrubbed.  Texas event featuring father who lost custody of trans child shut down: pic.twitter.com/1Aasv0MjjI
 * [ 3 March 2022](https://web.archive.org/web/20220303170616/https://twitter.com/MrAndyNgo/status/1499430919198973954): Breaking: @belkouraisma, the left-wing journalist who documented the far-left radicals shutting down the event at U of North Texas in Denton had deleted all the evidence. He scrubbed his tweets related to the event after the far-left said they needed to hide identities. https://twitter.com/mrandyngo/status/1499250115994959872
