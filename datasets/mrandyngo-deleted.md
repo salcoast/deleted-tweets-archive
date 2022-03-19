@@ -1,6 +1,6 @@
 ## Deleted tweets for MrAndyNgo
 
-The list below includes 843 deleted tweets by
+The list below includes 844 deleted tweets by
 [MrAndyNgo](https://twitter.com/MrAndyNgo).
 
 There are also 296 tweets that are indicated as not currently
@@ -24,6 +24,7 @@ Please note that all tweets quoted here are sourced from the
 [Wayback Machine](https://web.archive.org) and were not directly accessed through the Twitter API or
 any Twitter client.
 
+* [15 March 2022](https://web.archive.org/web/20220315232337/https://twitter.com/MrAndyNgo/status/1503874357919109125): Asian-Americans have been let down by legacy & establishment AAPI interest groups. Those groups are politically compromised & are led by young people indoctrinated by CRT. They have no solutions to hate crimes against our elders because the assailants are usually not white. https://twitter.com/EvelynYang/status/1503393328318005251
 * [14 March 2022](https://web.archive.org/web/20220314135556/https://twitter.com/MrAndyNgo/status/1503369221711052803): Background: https://mobile.twitter.com/MattWalshBlog/status/1500549577337933837
 * [14 March 2022](https://web.archive.org/web/20220314135556/https://twitter.com/MrAndyNgo/status/1503369221711052803) ([live](https://twitter.com/MrAndyNgo/status/1503368915648401411)): Today: The Atlanta, Ga. cell of  #Antifa  ( @afainatl ) is using Twitter to try & organize a direct action to stop  @MattWalshBlog 's speaking event today at  @GeorgiaTech . One of the strategies so far by an antifa furry member is to hoard all the tickets with fake sign-ups. pic.twitter.com/pAUs0RaJlk
 * [13 March 2022](https://web.archive.org/web/20220313233956/https://twitter.com/MrAndyNgo/status/1503153920939544576): RT @MrAndyNgo: As a child, my interests included dolls &amp; dresses. I was raised at a time when the culture &amp; adults didn't introduce ideas t…
