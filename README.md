@@ -889,4 +889,4 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 0 Deleted tweets for [WeberForTexas](datasets/WeberForTexas-deleted.md)
 
-
+18 Deleted tweets for [Andrew_Duncomb](datasets/andrew_duncomb-deleted.md)
