@@ -87,7 +87,7 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 50 Deleted tweets for [ChandlerPappas](datasets/chandlerpappas-deleted.md)
 
-23 Deleted tweets for [Tooze_Dan](datasets/tooze_dan-deleted.md)
+56 Deleted tweets for [Tooze_Dan](datasets/tooze_dan-deleted.md)
 
 413 Deleted tweets for [EmperorInvictus](datasets/emperorinvictus-deleted.md) (https://www.splcenter.org/fighting-hate/extremist-files/individual/augustus-sol-invictus)
 
