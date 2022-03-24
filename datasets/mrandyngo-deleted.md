@@ -1,9 +1,9 @@
 ## Deleted tweets for MrAndyNgo
 
-The list below includes 844 deleted tweets by
+The list below includes 847 deleted tweets by
 [MrAndyNgo](https://twitter.com/MrAndyNgo).
 
-There are also 296 tweets that are indicated as not currently
+There are also 297 tweets that are indicated as not currently
 deleted by the Twitter API that have been scraped from pages of deleted tweets (as replies, etc.).
 These possibly undeleted tweets are included for context and are indicated by a _(live)_ link.
 
@@ -24,6 +24,9 @@ Please note that all tweets quoted here are sourced from the
 [Wayback Machine](https://web.archive.org) and were not directly accessed through the Twitter API or
 any Twitter client.
 
+* [22 March 2022](https://web.archive.org/web/20220322205301/https://twitter.com/MrAndyNgo/status/1506373336485576714): Dawn Ennis, previously Don, has swapped genders multiple times. In 2013 Ennis told press he's “just another boring straight guy" & wasn't trans after all. Ennis said his mother game him cross-sex hormones as a child, which ended up confusing him on gender. https://nypost.com/2013/08/06/im-a-guy-again-abc-newsman-who-switched-genders-wants-to-switch-back/
+* [22 March 2022](https://web.archive.org/web/20220322205301/https://twitter.com/MrAndyNgo/status/1506373336485576714) ([live](https://twitter.com/MrAndyNgo/status/1506365198168428553)): “Do not use female spaces!”  British women’s activist Kellie-Jay Keen confronted trans activist/writer, Dawn Ennis, at the NCAA Women’s Swimming Championships in Atlanta. Ennis works for  @LosAngelesBlade , the site that said Wi Spa penis incident was a hoax. pic.twitter.com/0Pp4qMiJTX
+* [20 March 2022](https://web.archive.org/web/20220320012239/https://twitter.com/MrAndyNgo/status/1505353791067066371): A conservative rally in Seattle has been canceled following threats of serious violence and a potential shooting by  #antifa . The organizers said they could not risk children being injured at the planned family gathering. Read: https://ngo.locals.com/post/1874370/seattle-conservative-event-cancelled-following-threats-of-violence-from-antifa
 * [15 March 2022](https://web.archive.org/web/20220315232337/https://twitter.com/MrAndyNgo/status/1503874357919109125): Asian-Americans have been let down by legacy & establishment AAPI interest groups. Those groups are politically compromised & are led by young people indoctrinated by CRT. They have no solutions to hate crimes against our elders because the assailants are usually not white. https://twitter.com/EvelynYang/status/1503393328318005251
 * [14 March 2022](https://web.archive.org/web/20220314135556/https://twitter.com/MrAndyNgo/status/1503369221711052803): Background: https://mobile.twitter.com/MattWalshBlog/status/1500549577337933837
 * [14 March 2022](https://web.archive.org/web/20220314135556/https://twitter.com/MrAndyNgo/status/1503369221711052803) ([live](https://twitter.com/MrAndyNgo/status/1503368915648401411)): Today: The Atlanta, Ga. cell of  #Antifa  ( @afainatl ) is using Twitter to try & organize a direct action to stop  @MattWalshBlog 's speaking event today at  @GeorgiaTech . One of the strategies so far by an antifa furry member is to hoard all the tickets with fake sign-ups. pic.twitter.com/pAUs0RaJlk
@@ -1151,6 +1154,7 @@ any Twitter client.
 * [27 July 2017](https://web.archive.org/web/20170727203505/https://twitter.com/mrandyngo/status/890661852316815360): I captured these photos when  @ConfessionsExMu  got in a heated debate about "is it  #Islamism  or just  #Islam ?" What do you think? pic.twitter.com/jLhTijP1jx
 * [25 July 2017](https://web.archive.org/web/20170725235332/https://twitter.com/MrAndyNgo/status/889996601607016448): . @ConfessionsExMu  shows audience how she used to wear niqab. "SunnahStyle" brand's slogan is "elegantly modest."  #islam   #hijab  pic.twitter.com/oCB2YnXYgW
 * [ 1 July 2017](https://web.archive.org/web/20190308211138/https://twitter.com/MrAndyNgo/status/881064860204888064): I am in Buffalo, New York this summer for an internship with the  @center4inquiry . pic.twitter.com/1Kzc9EtmcC
+* [24 December 2016](https://web.archive.org/web/20190308211343/https://twitter.com/MrAndyNgo/status/812466577631100928): Really? Let's talk soon! Welcome to the team and thank you for watching the video. ❤💛💙
 * [14 November 2016](https://web.archive.org/web/20161202020256/https://twitter.com/MrAndyNgo/status/797869339621801985): . @conrad1058   @itsmikebivins  Ran out of characters to say "student media colleague." We're both part of Student Media  http://www.pdx.edu/student-media/
 * [13 November 2016](https://web.archive.org/web/20161202020256/https://twitter.com/MrAndyNgo/status/797869339621801985): Media colleague  @itsmikebivins  warned not to record violent anti-Trump protests. At least 1 media crew attacked last night  #PortlandProtest  pic.twitter.com/fVKgaLHKO5
 * [12 November 2016](https://web.archive.org/web/20161112223828/https://twitter.com/MrAndyNgo/status/797333655689400320): . @AsraNomani  interviewed on  @AC360  on why she, a liberal, Muslim & immigrant, decided to vote for Donald Trump. Listen to the nuance. pic.twitter.com/Lck3hA1j8t
