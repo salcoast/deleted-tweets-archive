@@ -58,7 +58,7 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 [January 6](J6.md)
 
-[AaronPNichols.md](AaronPNichols.md)
+[Aaron P. Nichols](AaronPNichols.md)
 
 
 ## Current accounts in this archive
