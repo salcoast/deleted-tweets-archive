@@ -893,7 +893,9 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 94 Deleted tweets for [_14words_](datasets/_14words_-deleted.md) ( Racist Police Officer Aaron P. Nichols - https://accollective.noblogs.org/post/2022/04/01/magic-dirt-farmer/ )
 
-9161 Deleted tweets for [_WeWillWin_](datasets/_wewillwin_-deleted.md) ( Racist Police Officer Aaron P. Nichols - https://accollective.noblogs.org/post/2022/04/01/magic-dirt-farmer/ )
+9161 Deleted tweets for [_WeWillWin_](datasets/_wewillwin_1-deleted.md) Part 1( Racist Police Officer Aaron P. Nichols - https://accollective.noblogs.org/post/2022/04/01/magic-dirt-farmer/ )
+
+9161 Deleted tweets for [_WeWillWin_](datasets/_wewillwin_2-deleted.md) Part 2 ( Racist Police Officer Aaron P. Nichols - https://accollective.noblogs.org/post/2022/04/01/magic-dirt-farmer/ )
 
 4 Deleted tweets for [MagicDirtFarmer](datasets/magicdirtfarmer-deleted.md) ( Racist Police Officer Aaron P. Nichols - https://accollective.noblogs.org/post/2022/04/01/magic-dirt-farmer/ )
 
