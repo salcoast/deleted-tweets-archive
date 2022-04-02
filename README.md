@@ -910,3 +910,10 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 9 Deleted tweets for [Wypipo_r_Us](datasets/wypipo_r_us-deleted.md) ( Racist Aaron P. Nichols - https://accollective.noblogs.org/post/2022/04/01/magic-dirt-farmer/ )
 
 378 Deleted tweets for [_notovenready_](datasets/_notovenready_-deleted.md) ( Racist Aaron P. Nichols - https://accollective.noblogs.org/post/2022/04/01/magic-dirt-farmer/ )
+
+51 Deleted tweets for [WallofTacos](datasets/walloftacos-deleted.md) ( Racist Police Officer Aaron P. Nichols - https://accollective.noblogs.org/post/2022/04/01/magic-dirt-farmer/ )
+
+22 Deleted tweets for [_1plus13words_](datasets/_1plus13words_-deleted.md) ( Racist Police Officer Aaron P. Nichols - https://accollective.noblogs.org/post/2022/04/01/magic-dirt-farmer/ )
+
+
+
