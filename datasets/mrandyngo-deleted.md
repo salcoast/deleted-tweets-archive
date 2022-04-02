@@ -1,6 +1,6 @@
 ## Deleted tweets for MrAndyNgo
 
-The list below includes 847 deleted tweets by
+The list below includes 851 deleted tweets by
 [MrAndyNgo](https://twitter.com/MrAndyNgo).
 
 There are also 297 tweets that are indicated as not currently
@@ -24,6 +24,10 @@ Please note that all tweets quoted here are sourced from the
 [Wayback Machine](https://web.archive.org) and were not directly accessed through the Twitter API or
 any Twitter client.
 
+* [28 March 2022](https://web.archive.org/web/20220328222214/https://twitter.com/MrAndyNgo/status/1508569576803651585): Illegally armed  #Antifa  member Malik Muhammad traveled to Portland from Indiana to repeatedly riot in 2020. One of his firebombs seriously burned a fellow comrade. He received firearms & tactical training with far-left violent extremists in Louisville. https://www.justice.gov/usao-or/pr/indiana-man-pleads-guilty-possessing-unregistered-destructive-devices-during-portland
+* [28 March 2022](https://web.archive.org/web/20220328222214/https://twitter.com/MrAndyNgo/status/1508569576803651585): BREAKING: This  #Antifa  member pleaded guilty today in federal court in Portland to possessing destructive devices. He received a sweetheart deal where the attempted murder charges & other charges are expected to be dropped. Prosecutors are recommending a 10-year prison sentence. https://twitter.com/MrAndyNgo/status/1407477011296133124
+* [27 March 2022](https://web.archive.org/web/20220327175824/https://twitter.com/MrAndyNgo/status/1508141329183911942): Miami Beach declared a state of emergency & midnight curfew in response to violence & shootings that occurred within 48 hours.  @MiamiHerald ’s race & culture reporter  @stclaudeii  likens the city’s response to anti-black racism.  #CRT  pic.twitter.com/9PIO8Tj5uo
+* [26 March 2022](https://web.archive.org/web/20220326005148/https://twitter.com/MrAndyNgo/status/1507520425496137729): A group of far-left activists in Seattle tried to stop contracted cleaners from clearing away an illegal encampment at 10th & Dearborn St. on Friday afternoon.  Police arrested a pink haired person there. Video by  @mattmarkovich : pic.twitter.com/hGPCXy3Qan
 * [22 March 2022](https://web.archive.org/web/20220322205301/https://twitter.com/MrAndyNgo/status/1506373336485576714): Dawn Ennis, previously Don, has swapped genders multiple times. In 2013 Ennis told press he's “just another boring straight guy" & wasn't trans after all. Ennis said his mother game him cross-sex hormones as a child, which ended up confusing him on gender. https://nypost.com/2013/08/06/im-a-guy-again-abc-newsman-who-switched-genders-wants-to-switch-back/
 * [22 March 2022](https://web.archive.org/web/20220322205301/https://twitter.com/MrAndyNgo/status/1506373336485576714) ([live](https://twitter.com/MrAndyNgo/status/1506365198168428553)): “Do not use female spaces!”  British women’s activist Kellie-Jay Keen confronted trans activist/writer, Dawn Ennis, at the NCAA Women’s Swimming Championships in Atlanta. Ennis works for  @LosAngelesBlade , the site that said Wi Spa penis incident was a hoax. pic.twitter.com/0Pp4qMiJTX
 * [20 March 2022](https://web.archive.org/web/20220320012239/https://twitter.com/MrAndyNgo/status/1505353791067066371): A conservative rally in Seattle has been canceled following threats of serious violence and a potential shooting by  #antifa . The organizers said they could not risk children being injured at the planned family gathering. Read: https://ngo.locals.com/post/1874370/seattle-conservative-event-cancelled-following-threats-of-violence-from-antifa
