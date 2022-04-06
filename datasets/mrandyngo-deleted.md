@@ -1,6 +1,6 @@
 ## Deleted tweets for MrAndyNgo
 
-The list below includes 851 deleted tweets by
+The list below includes 852 deleted tweets by
 [MrAndyNgo](https://twitter.com/MrAndyNgo).
 
 There are also 297 tweets that are indicated as not currently
@@ -24,6 +24,7 @@ Please note that all tweets quoted here are sourced from the
 [Wayback Machine](https://web.archive.org) and were not directly accessed through the Twitter API or
 any Twitter client.
 
+* [ 3 April 2022](https://web.archive.org/web/20220403002219/https://twitter.com/MrAndyNgo/status/1510412231082713089): A group of six black males mobbed & assaulted a Jewish man in Brooklyn on April 1.  @NYPDHateCrimes  is seeking information about the crime & suspects: 800-577-TIPS hhttps://twitter.com/NYPDTips/status/1510182861625778176/video/1
 * [28 March 2022](https://web.archive.org/web/20220328222214/https://twitter.com/MrAndyNgo/status/1508569576803651585): Illegally armed  #Antifa  member Malik Muhammad traveled to Portland from Indiana to repeatedly riot in 2020. One of his firebombs seriously burned a fellow comrade. He received firearms & tactical training with far-left violent extremists in Louisville. https://www.justice.gov/usao-or/pr/indiana-man-pleads-guilty-possessing-unregistered-destructive-devices-during-portland
 * [28 March 2022](https://web.archive.org/web/20220328222214/https://twitter.com/MrAndyNgo/status/1508569576803651585): BREAKING: This  #Antifa  member pleaded guilty today in federal court in Portland to possessing destructive devices. He received a sweetheart deal where the attempted murder charges & other charges are expected to be dropped. Prosecutors are recommending a 10-year prison sentence. https://twitter.com/MrAndyNgo/status/1407477011296133124
 * [27 March 2022](https://web.archive.org/web/20220327175824/https://twitter.com/MrAndyNgo/status/1508141329183911942): Miami Beach declared a state of emergency & midnight curfew in response to violence & shootings that occurred within 48 hours.  @MiamiHerald ’s race & culture reporter  @stclaudeii  likens the city’s response to anti-black racism.  #CRT  pic.twitter.com/9PIO8Tj5uo
