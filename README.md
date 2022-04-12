@@ -915,6 +915,6 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 22 Deleted tweets for [_1plus13words_](datasets/_1plus13words_-deleted.md) ( Aaron P. Nichols-https://accollective.noblogs.org/post/2022/04/01/magic-dirt-farmer/ )
 
-15364 Deleted tweets for [AndrewQuackson](datasets/AndrewQuackson-deleted.md)
+15364 Deleted tweets for [AndrewQuackson](datasets/andrewquackson-deleted.md)
 
 37 Deleted tweets for [mrsirbatty](datasets/mrsirbatty-deleted.md)
