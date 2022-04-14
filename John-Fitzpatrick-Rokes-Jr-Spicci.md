@@ -154,9 +154,7 @@ Twitter Thread https://twitter.com/AnonCommieStan/status/1514310070049382406
 1 Deleted tweets for [jkiloveniggers](datasets/jkiloveniggers-deleted.md)
  
 22 Deleted tweets for [journoarrester](datasets/journoarrester-deleted.md)
- 
-14 Deleted tweets for [](datasets/kangtalibkweli-deleted.md)
- 
+  
 14 Deleted tweets for [kangtalibkweli](datasets/kanyekilled2pac-deleted.md)
  
 7 Deleted tweets for [karmaatemydoge](datasets/karmaatemydoge-deleted.md)
