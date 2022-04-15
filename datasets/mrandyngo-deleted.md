@@ -1,9 +1,9 @@
 ## Deleted tweets for MrAndyNgo
 
-The list below includes 858 deleted tweets by
+The list below includes 861 deleted tweets by
 [MrAndyNgo](https://twitter.com/MrAndyNgo).
 
-There are also 303 tweets that are indicated as not currently
+There are also 306 tweets that are indicated as not currently
 deleted by the Twitter API that have been scraped from pages of deleted tweets (as replies, etc.).
 These possibly undeleted tweets are included for context and are indicated by a _(live)_ link.
 
@@ -26,6 +26,12 @@ Please note that all tweets quoted here are sourced from the
 [Wayback Machine](https://web.archive.org) and were not directly accessed through the Twitter API or
 any Twitter client.
 
+* [14 April 2022](https://web.archive.org/web/20220414020752/https://twitter.com/MrAndyNgo/status/1514424921979502597): #PatrickLyoya , the black man shot dead by a  @GrandRapidsPD  officer after violently resisting arrest & trying to take his taser, has a long criminal history that includes a conviction for assaulting a pregnant woman in Kentwood, MI.  #Antifa  & far-the left are calling for revenge. pic.twitter.com/eAd3JExYjh
+* [13 April 2022](https://web.archive.org/web/20220413190115/https://twitter.com/MrAndyNgo/status/1514317760632864770): Frank James, the suspect in the  #Brooklyn  subway mass shooting, has been arrested in Manhattan following a 24-hour manhunt. His social media & video postings show he was obsessed with race, & believed a race war against whites was imminent. Watch:  https://ngo.locals.com/post/1989271/video-brooklyn-subway-mass-shooting-suspect-arrested
+* [13 April 2022](https://web.archive.org/web/20220413182851/https://twitter.com/MrAndyNgo/status/1514309589034061826): Another photograph of  #Brooklyn  mass shooting suspect Frank James, who is a black nationalist, getting arrested in Manhattan after a 24-hour manhunt. pic.twitter.com/JEuIh0tbV9
+* [13 April 2022](https://web.archive.org/web/20220413182851/https://twitter.com/MrAndyNgo/status/1514309589034061826) ([live](https://twitter.com/MrAndyNgo/status/1514309143993200640)): Breaking: Photographs of the  #Brooklyn  subway mass shooter, Frank James, shows him just out and about in Manhattan before he was arrested at 138 1st Ave. pic.twitter.com/yLvaeNw703
+* [13 April 2022](https://web.archive.org/web/20220413182851/https://twitter.com/MrAndyNgo/status/1514309589034061826) ([live](https://twitter.com/MrAndyNgo/status/1514307770027282440)): Another angle showing the arrest of the  #Brooklyn  subway mass shooter, Frank James. h/t  @BaruchBrog . pic.twitter.com/VojsoIBOtL
+* [13 April 2022](https://web.archive.org/web/20220413182851/https://twitter.com/MrAndyNgo/status/1514309589034061826) ([live](https://twitter.com/MrAndyNgo/status/1514305040273522695)): Breaking: Frank James, the black nationalist suspect in the  #Brooklyn  subway mass shooting, is in police custody.   Separately, video posted on social media purports to show the moment he was arrested. pic.twitter.com/m9LHKztzgW
 * [11 April 2022](https://web.archive.org/web/20220411030702/https://twitter.com/MrAndyNgo/status/1513352796124368897): #BLM  leader Khalil Coleman, who has now been convicted of first-degree robbery for trying to rob a drug house in Kentucky, was a supporter of the Gaige Grosskreutz, the gunman shot in the arm by Kyle Rittenhouse in Kenosha. https://twitter.com/rrovito/status/1302359935431344129
 * [10 April 2022](https://web.archive.org/web/20220411030702/https://twitter.com/MrAndyNgo/status/1513352796124368897) ([live](https://twitter.com/MrAndyNgo/status/1513304749235441666)): A Milwaukee  #BLM  leader praised by the media for leading protests against police in 2020, was convicted on Friday of 1st-degree robbery in Kentucky. Khalil Coleman was part of an armed group that tried to rob a drug house. He marched w/the man who tried to shoot Kyle Rittenhouse. pic.twitter.com/LYUZRL9CBm
 * [10 April 2022](https://web.archive.org/web/20220410153535/https://twitter.com/MrAndyNgo/status/1513178675277189124): I don’t get this. https://twitter.com/richard_harambe/status/1512973451816054793
