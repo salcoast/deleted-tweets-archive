@@ -916,3 +916,6 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 15364 Deleted tweets for [AndrewQuackson](datasets/andrewquackson-deleted.md)
 
 37 Deleted tweets for [mrsirbatty](datasets/mrsirbatty-deleted.md)
+
+774 Deleted tweets for [jessesingal](datasets/jessesingal-deleted.md)
+
