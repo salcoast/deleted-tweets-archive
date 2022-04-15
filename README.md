@@ -303,7 +303,7 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 113 Deleted tweets for [peterbrimelow](datasets/peterbrimelow-deleted.md)
 
-339 Deleted tweets for [pnjaban](datasets/pnjaban-deleted.md)
+376 Deleted tweets for [pnjaban](datasets/pnjaban-deleted.md)
 
 11,695 Deleted tweets for [politicalshort](datasets/politicalshort-deleted.md)
 
