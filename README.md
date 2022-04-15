@@ -38,6 +38,8 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 [deleted-tweets](https://github.com/travisbrown/deleted-tweets)
 
+[twitter-tracker](https://github.com/travisbrown/twitter-tracker)
+
 
 ## Datasets
 
