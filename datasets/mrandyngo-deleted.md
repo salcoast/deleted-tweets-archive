@@ -1,9 +1,9 @@
 ## Deleted tweets for MrAndyNgo
 
-The list below includes 861 deleted tweets by
+The list below includes 866 deleted tweets by
 [MrAndyNgo](https://twitter.com/MrAndyNgo).
 
-There are also 306 tweets that are indicated as not currently
+There are also 308 tweets that are indicated as not currently
 deleted by the Twitter API that have been scraped from pages of deleted tweets (as replies, etc.).
 These possibly undeleted tweets are included for context and are indicated by a _(live)_ link.
 
@@ -26,6 +26,13 @@ Please note that all tweets quoted here are sourced from the
 [Wayback Machine](https://web.archive.org) and were not directly accessed through the Twitter API or
 any Twitter client.
 
+* [18 April 2022](https://web.archive.org/web/20220418050427/https://twitter.com/MrAndyNgo/status/1515919077528817665): Vuestro Merced, the militant  #BLM  protester who was punched by a black cop & fell to the ground in Pittsburgh after trying to forcefully prevent an arrest: pic.twitter.com/mwDkoNlqF2
+* [17 April 2022](https://web.archive.org/web/20220418050427/https://twitter.com/MrAndyNgo/status/1515919077528817665) ([live](https://twitter.com/MrAndyNgo/status/1515730845692215303)): The cinematic photo of  #BLM  protester Vuestro Merced getting punched by a Wilkinsburg officer after trying to stop an arrest has gone viral. Merced was quickly released from jail & people are using the incident to fundraise cash for the militant activist. pic.twitter.com/hY1jqSC8yS
+* [17 April 2022](https://web.archive.org/web/20220418050427/https://twitter.com/MrAndyNgo/status/1515919077528817665) ([live](https://twitter.com/MrAndyNgo/status/1515728625357795332)): At an unlawful  #BLM  protest in Wilkinsburg, Pittsburgh yesterday, protesters ignored police orders to get off the road. As black cops tried to make arrests, some of them tried to prevent that & put their hands on the cops, leading one to punch & arrest one. pic.twitter.com/6vw08oyeF6
+* [17 April 2022](https://web.archive.org/web/20220417160520/https://twitter.com/MrAndyNgo/status/1515723019733417985): I get major Chris Rock and Will Smith Oscar vibes from this photo. (Context: Philadelphia  #BLM  protesters yesterday put their hands on black cops to prevent them from carrying out duties & arrests). https://twitter.com/wickphoto/status/1515382934601093123
+* [17 April 2022](https://web.archive.org/web/20220417160028/https://twitter.com/MrAndyNgo/status/1515721699358126088): Will Smith at the Oscars, part two https://twitter.com/wickphoto/status/1515382934601093123
+* [17 April 2022](https://web.archive.org/web/20220417010504/https://twitter.com/MrAndyNgo/status/1515496358668644356): Breaking: Far-left protesters surround a driver on the road at the  #PartrickLyoya  protest in Grand Rapids, Mich. & threaten to shoot the driver. One person cocks his gun & they kick the car.  #BLM  pic.twitter.com/WDHQzB2biU
+* [16 April 2022](https://web.archive.org/web/20220416001658/https://twitter.com/MrAndyNgo/status/1515122007918190595): A black male has been arrested & charged over the vicious assault & robbery of a 70-year-old Sikh Indian man in Brooklyn, NYC. Vernon Douglas has been charged with assault, robbery & hate crime enhancements. The victim suffered a broken nose & left the US.  https://www.qchron.com/editions/second-richmond-hill-attacker-arrested-charged-with-both-hate-crimes/article_ff42f3d8-bc28-11ec-9d44-978929f64873.html  pic.twitter.com/YujQeSViHK
 * [14 April 2022](https://web.archive.org/web/20220414020752/https://twitter.com/MrAndyNgo/status/1514424921979502597): #PatrickLyoya , the black man shot dead by a  @GrandRapidsPD  officer after violently resisting arrest & trying to take his taser, has a long criminal history that includes a conviction for assaulting a pregnant woman in Kentwood, MI.  #Antifa  & far-the left are calling for revenge. pic.twitter.com/eAd3JExYjh
 * [13 April 2022](https://web.archive.org/web/20220413190115/https://twitter.com/MrAndyNgo/status/1514317760632864770): Frank James, the suspect in the  #Brooklyn  subway mass shooting, has been arrested in Manhattan following a 24-hour manhunt. His social media & video postings show he was obsessed with race, & believed a race war against whites was imminent. Watch:  https://ngo.locals.com/post/1989271/video-brooklyn-subway-mass-shooting-suspect-arrested
 * [13 April 2022](https://web.archive.org/web/20220413182851/https://twitter.com/MrAndyNgo/status/1514309589034061826): Another photograph of  #Brooklyn  mass shooting suspect Frank James, who is a black nationalist, getting arrested in Manhattan after a 24-hour manhunt. pic.twitter.com/JEuIh0tbV9
