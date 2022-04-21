@@ -927,6 +927,8 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 10666 Deleted tweets for [mtgreenee](datasets/mtgreenee-deleted.md)
 
+921 Deleted tweets for [RonColeman](datasets/RonColeman-deleted.md)
+
 
 
 
