@@ -1,9 +1,9 @@
 ## Deleted tweets for libsoftiktok
 
-The list below includes 2795 deleted tweets by
+The list below includes 2800 deleted tweets by
 [libsoftiktok](https://twitter.com/libsoftiktok).
 
-There are also 101 tweets that are indicated as not currently
+There are also 107 tweets that are indicated as not currently
 deleted by the Twitter API that have been scraped from pages of deleted tweets (as replies, etc.).
 These possibly undeleted tweets are included for context and are indicated by a _(live)_ link.
 
@@ -26,6 +26,7 @@ Please note that all tweets quoted here are sourced from the
 [Wayback Machine](https://web.archive.org) and were not directly accessed through the Twitter API or
 any Twitter client.
 
+* [20 April 2022](https://web.archive.org/web/20220420170344/https://twitter.com/libsoftiktok/status/1516823327523942410): Thanks to  @washingtonpost ’s doxxing campaign, this random innocent woman is being harassed. This is on you  @TaylorLorenz . Cc:  @JeffBezos  https://twitter.com/stillgray/status/1516819956071288835
 * [14 April 2022](https://web.archive.org/web/20220414230531/https://twitter.com/libsoftiktok/status/1514741499170336769): This is an article published in the  @AugsburgU  school newspaper. pic.twitter.com/ZeprnKjoJa
 * [12 April 2022](https://web.archive.org/web/20220412194329/https://twitter.com/libsoftiktok/status/1513965271572045825): “You can make up something totally new if you want.” They are now using “gride” and “broom” for non-binary people getting married. They keep making up new words pic.twitter.com/38goqxwGVb
 * [12 April 2022](https://web.archive.org/web/20220412193500/https://twitter.com/libsoftiktok/status/1513962823914713088): . @GWtweets  reinstated indoor masking today. The mask cult just wants masks forever. When will this end? pic.twitter.com/md6SUIOG4N
@@ -168,6 +169,8 @@ any Twitter client.
 * [14 February 2022](https://web.archive.org/web/20220214235458/https://twitter.com/libsoftiktok/status/1493373013579812865): Why do these insufferable people always look like this pic.twitter.com/Vgangl7x3z
 * [14 February 2022](https://web.archive.org/web/20220214213722/https://twitter.com/libsoftiktok/status/1493338423851040771): These teachers need to be purged from our schools. pic.twitter.com/UzggANcZVT
 * [14 February 2022](https://web.archive.org/web/20220214193835/https://twitter.com/libsoftiktok/status/1493308548066861062): It’s a cult pic.twitter.com/DYYnyTESMh
+* [14 February 2022](https://web.archive.org/web/20220420045435/https://twitter.com/libsoftiktok/status/1493140965481086976): @TheRock  is transphobic.
+* [14 February 2022](https://web.archive.org/web/20220420045435/https://twitter.com/libsoftiktok/status/1493140965481086976) ([live](https://twitter.com/libsoftiktok/status/1493140044202135552)): “Ladies and gentlemen” ummm what about all the non-binary people? This is discrimination. I’m literally shaking. pic.twitter.com/lCbllijgCX
 * [14 February 2022](https://web.archive.org/web/20220214042449/https://twitter.com/libsoftiktok/status/1493078599611478020): These people are insufferable pic.twitter.com/YVYik94fuD
 * [14 February 2022](https://web.archive.org/web/20220214034605/https://twitter.com/libsoftiktok/status/1493068816523223040): The pandemic is over. pic.twitter.com/fE7IAkRmGP
 * [13 February 2022](https://web.archive.org/web/20220213211420/https://twitter.com/libsoftiktok/status/1492970120871759873): The propaganda never ends..  @StScholastica  pic.twitter.com/Em9XBFJMBL
@@ -215,6 +218,8 @@ any Twitter client.
 * [ 4 February 2022](https://web.archive.org/web/20220204214455/https://twitter.com/libsoftiktok/status/1489716392739819522): Nooooo this hurts F pic.twitter.com/ZvmjmESg4h
 * [ 4 February 2022](https://web.archive.org/web/20220204183928/https://twitter.com/libsoftiktok/status/1489669433316364292): A Portland hospital sent out this email asking to single out and recognize black people for awards pic.twitter.com/hFDriel0cT
 * [ 4 February 2022](https://web.archive.org/web/20220204075032/https://twitter.com/libsoftiktok/status/1489506011433947138): Smart instincts lyft driver! 🤣 pic.twitter.com/E4jyQxy9ZJ
+* [ 4 February 2022](https://web.archive.org/web/20220420050523/https://twitter.com/libsoftiktok/status/1489496685751373824): You’re so fatphobic and you’re not even embarrassed? Wow
+* [ 4 February 2022](https://web.archive.org/web/20220420050523/https://twitter.com/libsoftiktok/status/1489496685751373824) ([live](https://twitter.com/libsoftiktok/status/1489495514680737794)): Not wanting to be fat is fatphobic pic.twitter.com/kPFufRHvg7
 * [ 4 February 2022](https://web.archive.org/web/20220204055403/https://twitter.com/libsoftiktok/status/1489477145055281156): What is this pic.twitter.com/5QI6FNfaZa
 * [ 4 February 2022](https://web.archive.org/web/20220204053623/https://twitter.com/libsoftiktok/status/1489472557744988161): It’s honestly sad. These people are so broken pic.twitter.com/ZpUu8JeFeB
 * [ 4 February 2022](https://web.archive.org/web/20220204052407/https://twitter.com/libsoftiktok/status/1489469486751121409): The American flag scares him more than a truck speeding down the street hitting people and objects pic.twitter.com/9MQ5jFowEz
@@ -636,7 +641,9 @@ any Twitter client.
 * [19 November 2021](https://web.archive.org/web/20211119225959/https://twitter.com/libsoftiktok/status/1461816066317901824): Cry more, Libs pic.twitter.com/zoq3v4UlxU
 * [19 November 2021](https://web.archive.org/web/20211119193622/https://twitter.com/libsoftiktok/status/1461762045854957569): HELL YEAH! 🇺🇸🇺🇸🇺🇸
 * [19 November 2021](https://web.archive.org/web/20211119091223/https://twitter.com/libsoftiktok/status/1461623336404807682): Holy hell! I want to die pic.twitter.com/vRcCHRJCND
+* [19 November 2021](https://web.archive.org/web/20211120095328/https://twitter.com/libsoftiktok/status/1461229778187345925?lang=kn) ([live](https://twitter.com/libsoftiktok/status/1461616883728203779)): The charges against Zac Stacy: pic.twitter.com/2dScbIZRa1
 * [19 November 2021](https://web.archive.org/web/20211119072627/https://twitter.com/libsoftiktok/status/1461596719188086793): Some of the comments https://t.co/8W32KngyT4
+* [19 November 2021](https://web.archive.org/web/20211120095328/https://twitter.com/libsoftiktok/status/1461229778187345925?lang=kn) ([live](https://twitter.com/libsoftiktok/status/1461593872769814528)): Update: pic.twitter.com/s8cJxTfnMY
 * [19 November 2021](https://web.archive.org/web/20211119071036/https://twitter.com/libsoftiktok/status/1461592675052703748): Cry more, Lib pic.twitter.com/DO8gNLsg5K
 * [19 November 2021](https://web.archive.org/web/20211119061254/https://twitter.com/libsoftiktok/status/1461578182667104258): This is so akward 😬 pic.twitter.com/cu7ya7nuFn
 * [19 November 2021](https://web.archive.org/web/20211119060324/https://twitter.com/libsoftiktok/status/1461575794958819333): Just gonna leave this here .... pic.twitter.com/pgXSTtmlEC
@@ -644,6 +651,7 @@ any Twitter client.
 * [19 November 2021](https://web.archive.org/web/20211119032721/https://twitter.com/libsoftiktok/status/1461536498432446470): Ppl ask me all the time, are you afraid you’re gonna get shut down? Yes. Follow  @libsontiktok  just in case.
 * [19 November 2021](https://web.archive.org/web/20211119031025/https://twitter.com/libsoftiktok/status/1461532230891704320): These people are so gross pic.twitter.com/0XhFQtXjpd
 * [19 November 2021](https://web.archive.org/web/20211119024525/https://twitter.com/libsoftiktok/status/1461525944678551553): Say no to leftism pic.twitter.com/2Y3DvRMPd2
+* [19 November 2021](https://web.archive.org/web/20211120095328/https://twitter.com/libsoftiktok/status/1461229778187345925?lang=kn) ([live](https://twitter.com/libsoftiktok/status/1461517908006244356)): Update: Kristin Evans, Zac Stacy’s ex-girlfriend who he viciously attacked, speaks out urging the public to help the police find him. pic.twitter.com/drzoXJQfIs
 * [19 November 2021](https://web.archive.org/web/20211119013644/https://twitter.com/libsoftiktok/status/1461508661788905472): Cringe pic.twitter.com/SRDutLUHjs
 * [18 November 2021](https://web.archive.org/web/20211118220913/https://twitter.com/libsoftiktok/status/1461453177564192774): ‘Spread love’ how ironic pic.twitter.com/1etoQJVhwk
 * [18 November 2021](https://web.archive.org/web/20211118220913/https://twitter.com/libsoftiktok/status/1461453177564192774): She needs to be fired. https://trib.al/c5wBaWO
@@ -654,6 +662,8 @@ any Twitter client.
 * [18 November 2021](https://web.archive.org/web/20211118193938/https://twitter.com/libsoftiktok/status/1461417567189303296): Leave the kids alone ffs! https://twitter.com/abigailshrier/status/1461387637877469186
 * [18 November 2021](https://web.archive.org/web/20211118220913/https://twitter.com/libsoftiktok/status/1461453177564192774) ([live](https://twitter.com/libsoftiktok/status/1461412974581583877)): Teacher in Paso Robles, California says conservative kids can “jump off a bridge” pic.twitter.com/GVHh7Uh7fm
 * [18 November 2021](https://web.archive.org/web/20211118092011/https://twitter.com/libsoftiktok/status/1461262925809651712): AOC rants about Rep. Gosar calling him a white supremacist and racist pic.twitter.com/c8Iiw7PldQ
+* [18 November 2021](https://web.archive.org/web/20211120095328/https://twitter.com/libsoftiktok/status/1461229778187345925?lang=kn) ([live](https://twitter.com/libsoftiktok/status/1461236007076909058)): That would be my guess. I assume we will get more information in the next day or two.
+* [18 November 2021](https://web.archive.org/web/20211120095328/https://twitter.com/libsoftiktok/status/1461229778187345925?lang=kn): BREAKING: Former New York Jets running back Zac Stacy viciously attacks his ex-girlfriend in front of their 5 month old son: pic.twitter.com/tE3kUpcM5p
 * [18 November 2021](https://web.archive.org/web/20211118012504/https://twitter.com/libsoftiktok/status/1461143326162227200): Parents turned out last night to express outrage over North Kingston School District’s handling of a coach who reportedly made students strip so he can conduct “naked fat tests” on them.  They apparently covered it up since 2018. pic.twitter.com/NrvQaoSnBa
 * [17 November 2021](https://web.archive.org/web/20211117230027/https://twitter.com/libsoftiktok/status/1461106945243418633): Paul Gosar’s anime video is a dog-whistle for white supremacists to commit violence 🤡🤡 pic.twitter.com/FSHPTLhEoV
 * [17 November 2021](https://web.archive.org/web/20211117212703/https://twitter.com/libsoftiktok/status/1461080647695364099): Lmao the libs are triggered that the McCloskeys showed up in Kenosha pic.twitter.com/qb7Lkcl0st
@@ -1863,6 +1873,7 @@ any Twitter client.
 * [20 July 2021](https://web.archive.org/web/20210813213213/https://twitter.com/libsoftiktok/status/1417517244788129795): “There is no such thing as the American dream” pic.twitter.com/c3R5BlrFIM
 * [20 July 2021](https://web.archive.org/web/20210813213213/https://twitter.com/libsoftiktok/status/1417517244788129795): “BuT CrT iSn’T bEiNg TaUgHt” pic.twitter.com/J0m0gIkRgZ
 * [20 July 2021](https://web.archive.org/web/20210720161009/https://twitter.com/libsoftiktok/status/1417517131558760455): THREAD: This guy is a teacher. He is an open anti-American race-baiter, bragging how he will continue to teach CRT. pic.twitter.com/HPUEYyV02S
+* [20 July 2021](https://web.archive.org/web/20210720031506/https://twitter.com/libsoftiktok/status/1417322123379585047): NYC is a shitshow pic.twitter.com/GLKMUDCIVM
 * [19 July 2021](https://web.archive.org/web/20210719220823/https://twitter.com/libsoftiktok/status/1417244875599360002): White women’s tears are dangerous pic.twitter.com/4n2NYtfuEH
 * [19 July 2021](https://web.archive.org/web/20210719211707/https://twitter.com/libsoftiktok/status/1417232010343559175): Crinnggeeeee pic.twitter.com/amh1qiLC33
 * [19 July 2021](https://web.archive.org/web/20210719162555/https://twitter.com/libsoftiktok/status/1417158288655929351): I wonder how many car accidents were caused by people recording tik toks while driving
