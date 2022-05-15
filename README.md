@@ -111,7 +111,7 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 155 Deleted tweets for [JoeyRockstone](datasets/joeyrockstone-deleted.md) (Joey Gibson, PatriotParty)
 
-307 Deleted tweets for [ElijahSchaffer](datasets/elijahschaffer-deleted.md)
+391 Deleted tweets for [ElijahSchaffer](datasets/elijahschaffer-deleted.md)
 
 502 Deleted tweets for [Sal_LaBarbera](datasets/sal_labarbera-deleted.md)
 
