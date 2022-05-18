@@ -929,7 +929,7 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 921 Deleted tweets for [RonColeman](datasets/RonColeman-deleted.md)
 
-
+3667 deleted tweets for [Rob_E86](datasets/Rob_E86-202205172218-deleted.md)
 
 
 
