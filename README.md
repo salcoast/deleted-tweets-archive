@@ -931,5 +931,4 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 
 3667 deleted tweets for [Rob_E86](datasets/Rob_E86-202205172218-deleted.md)
 
-
-
+1127 deleted tweets by [peritropee](datasets/peritropee-202205201724-deleted.md)
