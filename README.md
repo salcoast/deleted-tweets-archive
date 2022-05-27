@@ -934,3 +934,5 @@ The current dataset now includes 647,005 distinct deleted or unavailable tweets,
 1127 deleted tweets by [peritropee](datasets/peritropee-202205201724-deleted.md)
 
 40 deleted tweets by [football_56OL](datasets/football_56OL-deleted.md)
+
+74 deleted tweets by [NRA](datasets/NRA-deleted.md)
