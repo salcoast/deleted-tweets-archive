@@ -938,3 +938,10 @@ The current dataset now includes 1,000,000 + distinct deleted or unavailable twe
 23 deleted tweets by [NRAA1F](datasets/NRAA1F-deleted.md)
 
 34 deleted tweets by [NRA_Rifleman](datasets/NRA_Rifleman-deleted.md)
+
+2774 deleted tweets by [NickRekieta](datasets/NickRekieta-202206022106-deleted.md)
+
+
+
+
+
