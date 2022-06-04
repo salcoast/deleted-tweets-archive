@@ -958,3 +958,7 @@ The current dataset now includes 1,000,000 + distinct deleted or unavailable twe
 3 deleted tweets for [usanewsagency](datasets/usanewsagency-deleted.md)
 
 33 deleted tweets for [jewishnewsusa](datasets/jewishnewsusa-deleted.md)
+
+28 deleted tweets for [SternEverett](datasets/SternEverett-deleted.md)
+
+120 deleted tweets for [EverettStern1](datasets/EverettStern1-deleted.md)
