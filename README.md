@@ -941,7 +941,20 @@ The current dataset now includes 1,000,000 + distinct deleted or unavailable twe
 
 2774 deleted tweets by [NickRekieta](datasets/NickRekieta-202206022106-deleted.md)
 
+783 deleted tweets for [Amy_Siskind](datasets/Amy_Siskind-deleted.md)
 
+43 deleted tweets for [walshfreedom](datasets/walshfreedom-deleted.md)
 
+168 deleted tweets for [therickwilson](datasets/therickwilson-deleted.md)
 
+639 deleted tweets for [donwinslow](datasets/donwinslow-deleted.md)
 
+57 deleted tweets for [joelleyden](datasets/joelleyden-deleted.md)
+
+100 deleted tweets for [jews4trump](datasets/jews4trump-deleted.md)
+
+266 deleted tweets for [jewsagainsthate](datasets/jewsagainsthate-deleted.md)
+
+3 deleted tweets for [usanewsagency](datasets/usanewsagency-deleted.md)
+
+33 deleted tweets for [jewishnewsusa](datasets/jewishnewsusa-deleted.md)
