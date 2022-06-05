@@ -968,3 +968,13 @@ The current dataset now includes 1,000,000 + distinct deleted or unavailable twe
 1676 deleted tweets for [proudsocialist](datasets/proudsocialist-deleted.md)
 
 1137 deleted tweets for [proudresister](datasets/proudresister-deleted.md)
+
+465 deleted tweets for [gtconway3d](datasets/gtconway3d-deleted.md)
+
+90 deleted tweets for [NHJennifer](datasets/NHJennifer-deleted.md)
+
+19 deleted tweets for [ronsteslow](datasets/ronsteslow-deleted.md)
+
+151 deleted tweets for [reedgalen](datasets/reedgalen-deleted.md)
+
+64 deleted tweets for [madrid_mike](datasets/madrid_mike-deleted.md)
