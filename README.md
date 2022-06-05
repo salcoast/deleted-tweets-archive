@@ -964,3 +964,7 @@ The current dataset now includes 1,000,000 + distinct deleted or unavailable twe
 120 deleted tweets for [EverettStern1](datasets/EverettStern1-deleted.md)
 
 2291 deleted tweets for [SteveSchmidtSES](datasets/SteveSchmidtSES-deleted.md)
+
+1676 deleted tweets for [proudsocialist](datasets/proudsocialist-deleted.md)
+
+1137 deleted tweets for [proudresister](datasets/proudresister-deleted.md)
