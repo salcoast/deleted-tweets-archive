@@ -979,4 +979,4 @@ The current dataset now includes 1,000,000 + distinct deleted or unavailable twe
 
 64 deleted tweets for [madrid_mike](datasets/madrid_mike-deleted.md)
 
-90 deleted tweets for [amyswearer](datasets/amyswearer-deleted.md)
+90 deleted tweets for [amyswearer](datasets/AmySwearer-deleted.md)
