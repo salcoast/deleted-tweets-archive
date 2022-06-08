@@ -988,3 +988,5 @@ The current dataset now includes 1,000,000 + distinct deleted or unavailable twe
 30 deleted tweets by [GOPLeader](datasets/GOPLeader-deleted.md)
 
 6 deleted tweets by [kevinomccarthy](datasets/kevinomccarthy-deleted.md)
+
+10 deleted tweets by [RepScottPerry](datasets/RepScottPerry-deleted.md)
