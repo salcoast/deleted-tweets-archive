@@ -998,3 +998,5 @@ The current dataset now includes 1,000,000 + distinct deleted or unavailable twe
 1692 deleted tweets for [currentrevolt](datasets/currentrevolt-202206081800-deleted.md)
 
 47 deleted tweets for [kanelawless420](datasets/kanelawless420-deleted.md)
+
+52 deleted tweets for [counterchekist](datasets/counterchekist-202206091056-deleted.md)
