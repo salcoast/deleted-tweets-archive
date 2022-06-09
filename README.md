@@ -994,3 +994,7 @@ The current dataset now includes 1,000,000 + distinct deleted or unavailable twe
 20 deleted tweets for [RepMTG](datasets/RepMTG-deleted.md)
 
 30 deleted tweets for [jeremyreporter](datasets/jeremyreporter-deleted.md)
+
+1692 deleted tweets for [currentrevolt](datasets/currentrevolt-202206081800-deleted.md)
+
+
