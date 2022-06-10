@@ -1006,3 +1006,6 @@ The current dataset now includes 1,000,000 + distinct deleted or unavailable twe
 1276 deleted tweets for [jake_neidert](datasets/jake_neidert-202206091635-deleted.md)
 
 62 deleted tweets for [MarkEisenman](datasets/MarkEisenman-202206091750-deleted.md)
+
+129 deleted tweets by [audreytruehero](datasets/audreytruehero-202206101649-deleted.md)
+
