@@ -1011,6 +1011,7 @@ The current dataset now includes 1,000,000 + distinct deleted or unavailable twe
 
 5167 deleted tweets by KosChertified [Part 1](datasets/KosChertified-202206102156-deleted-1.md)  [Part 2](datasets/KosChertified-202206102156-deleted-2.md) 
 
+22 deleted tweets by [DyingVenice](datasets/DyingVenice-202206141854-deleted.md)
 
 
 
