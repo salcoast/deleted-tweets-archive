@@ -1,6 +1,6 @@
 ## Deleted tweets for SigmaPhoenicis
 
-The list below includes 2 deleted tweets by
+The list below includes 93 deleted tweets by
 [SigmaPhoenicis](https://twitter.com/SigmaPhoenicis).
 
 
@@ -23,5 +23,96 @@ Please note that all tweets quoted here are sourced from the
 [Wayback Machine](https://web.archive.org) and were not directly accessed through the Twitter API or
 any Twitter client.
 
+* [23 June 2022](https://web.archive.org/web/20220623195759/https://twitter.com/SigmaPhoenicis/status/1540056898963009536): Monkey
+* [14 June 2022](https://web.archive.org/web/20220614191539/https://twitter.com/SigmaPhoenicis/status/1536789414180925440): Bushcraft survival skills, I can read cursive, drive standard, superb navigator and lots of life experience
+* [13 June 2022](https://web.archive.org/web/20220613112219/https://twitter.com/SigmaPhoenicis/status/1536307786484617216): Hello you're too pretty
+* [ 8 June 2022](https://web.archive.org/web/20220608221042/https://twitter.com/SigmaPhoenicis/status/1534659208976535552): @DonnieDarkened That's some heavy dark maga shit right there
+* [ 8 June 2022](https://web.archive.org/web/20220608215505/https://twitter.com/SigmaPhoenicis/status/1534655119383404544): Literally it'll make it so the 12 year olds can't play no build mode they would be annihilated haha
+* [ 7 June 2022](https://web.archive.org/web/20220607215158/https://twitter.com/SigmaPhoenicis/status/1534291979575517187): I get scam ads on Facebook all the time to the point that I almost get something cause it looks kind of legit but ends up being a total scam ...
+* [ 5 June 2022](https://web.archive.org/web/20220605215412/https://twitter.com/SigmaPhoenicis/status/1533567651250769920): Same
+* [ 1 June 2022](https://web.archive.org/web/20220601215301/https://twitter.com/SigmaPhoenicis/status/1532117876022210561): It's only illegal if you get caught
+* [ 1 June 2022](https://web.archive.org/web/20220601215024/https://twitter.com/SigmaPhoenicis/status/1532117203666931712): Fortnite season three will have a great day and we will see what happens next week
+* [23 May 2022](https://web.archive.org/web/20220523210533/https://twitter.com/SigmaPhoenicis/status/1528844372204298242): When people still had class
+* [22 May 2022](https://web.archive.org/web/20220522203201/https://twitter.com/SigmaPhoenicis/status/1528473676089217024): Oh shit  @Grimezsz  is big mad so sad
+* [21 May 2022](https://web.archive.org/web/20220521041626/https://twitter.com/SigmaPhoenicis/status/1527865718007398400): You're def a moon cricket
+* [17 May 2022](https://web.archive.org/web/20220517021506/https://twitter.com/SigmaPhoenicis/status/1526385709971476480): Everything
+* [13 May 2022](https://web.archive.org/web/20220513030102/https://twitter.com/SigmaPhoenicis/status/1524947722108665858): Based
+* [12 May 2022](https://web.archive.org/web/20220512040003/https://twitter.com/SigmaPhoenicis/status/1524600033466667008): Zeke kyle
+* [10 May 2022](https://web.archive.org/web/20220510202015/https://twitter.com/SigmaPhoenicis/status/1524121965123887104): Doing my best with a bad hand 👌
+* [10 May 2022](https://web.archive.org/web/20220510202148/https://twitter.com/SigmaPhoenicis/status/1524121400943906816): I was a lot younger being exposed to that filth
+* [10 May 2022](https://web.archive.org/web/20220510080643/https://twitter.com/SigmaPhoenicis/status/1523937565484617729): @elonmusk can you adopt me
+* [10 May 2022](https://web.archive.org/web/20220510080540/https://twitter.com/SigmaPhoenicis/status/1523937038050816000): New vegas
+* [ 9 May 2022](https://web.archive.org/web/20220509223140/https://twitter.com/SigmaPhoenicis/status/1523791757447598081): You're old news
+* [ 9 May 2022](https://web.archive.org/web/20220509222705/https://twitter.com/SigmaPhoenicis/status/1523791521589334017): No more tanks or battle bus on the map
+* [ 8 May 2022](https://web.archive.org/web/20220508005000/https://twitter.com/SigmaPhoenicis/status/1523102749981765632): Read Aryanity
+* [ 7 May 2022](https://web.archive.org/web/20220507230215/https://twitter.com/SigmaPhoenicis/status/1523075715507261441): #veritas  pic.twitter.com/czBANEHMwX
+* [ 7 May 2022](https://web.archive.org/web/20220507223921/https://twitter.com/SigmaPhoenicis/status/1523069774799941632): We need more European babies
+* [ 6 May 2022](https://web.archive.org/web/20220506152847/https://twitter.com/SigmaPhoenicis/status/1522599106903912448): Amazin
+* [ 6 May 2022](https://web.archive.org/web/20220506152647/https://twitter.com/SigmaPhoenicis/status/1522598582385139713): Preach
+* [ 5 May 2022](https://web.archive.org/web/20220505000612/https://twitter.com/SigmaPhoenicis/status/1522004618359631872): Looks like they aren't going anywhere besides under their bedsheets
+* [ 4 May 2022](https://web.archive.org/web/20220504221924/https://twitter.com/SigmaPhoenicis/status/1521977622074298369): Bad day to be Jewish lol
+* [ 4 May 2022](https://web.archive.org/web/20220504013120/https://twitter.com/SigmaPhoenicis/status/1521663517123743745): But they can't make ration decisions
+* [ 4 May 2022](https://web.archive.org/web/20220504012959/https://twitter.com/SigmaPhoenicis/status/1521663176269389825): S
+* [ 3 May 2022](https://web.archive.org/web/20220503224050/https://twitter.com/SigmaPhoenicis/status/1521620605530820608): Abortions should be readily available for non Europeans and Europeans should be discouraged from having abortions except for the rare exceptions
+* [ 3 May 2022](https://web.archive.org/web/20220503223942/https://twitter.com/SigmaPhoenicis/status/1521620434789167105): Don't you mean liberals lmao
+* [ 3 May 2022](https://web.archive.org/web/20220503223916/https://twitter.com/SigmaPhoenicis/status/1521620282284273664): Disgusting
+* [28 April 2022](https://web.archive.org/web/20220428220136/https://twitter.com/SigmaPhoenicis/status/1519797671032020992): Ikr
+* [28 April 2022](https://web.archive.org/web/20220428215229/https://twitter.com/SigmaPhoenicis/status/1519796671621697540): I don't believe in equality, I believe everyone has their strong suits and their downfalls/lack of skills, therefore everyone doesn't have the equal capacity to compete. We have lowered the bar for everyone who is superior to the weaker
+* [28 April 2022](https://web.archive.org/web/20220428220617/https://twitter.com/SigmaPhoenicis/status/1519795812380729344): Literally the right has moved more left than any thing haha I wish conservatives were actually farther right
+* [28 April 2022](https://web.archive.org/web/20220428023600/https://twitter.com/SigmaPhoenicis/status/1519505500743692288): It's because there aren't enough big mommy milk truckers to go around for every guy therefore we are gonna end up going through a demographic population bottle neck. Those who survive as post apocalyptic nuclear holocaust warlords get the spoils of war
+* [28 April 2022](https://web.archive.org/web/20220428023203/https://twitter.com/SigmaPhoenicis/status/1519504629632880641): @wigger  fight the Cuban guy from Danny Mullen's show
+* [25 April 2022](https://web.archive.org/web/20220425154920/https://twitter.com/SigmaPhoenicis/status/1518617970875854848): Have fun with heart disease
+* [24 April 2022](https://web.archive.org/web/20220424222723/https://twitter.com/SigmaPhoenicis/status/1518355921960796160): Same
 * [24 April 2022](https://web.archive.org/web/20220424222727/https://twitter.com/SigmaPhoenicis/status/1518355751806193664): I'd eat those thighs
+* [23 April 2022](https://web.archive.org/web/20220423202545/https://twitter.com/SigmaPhoenicis/status/1517962883707011072): Wholesome
+* [23 April 2022](https://web.archive.org/web/20220423202528/https://twitter.com/SigmaPhoenicis/status/1517962768409788417): Simp
+* [23 April 2022](https://web.archive.org/web/20220423202434/https://twitter.com/SigmaPhoenicis/status/1517962544446689282): Yes and your gey
 * [22 April 2022](https://web.archive.org/web/20220422104657/https://twitter.com/SigmaPhoenicis/status/1517454625359630336): Holohoax
+* [22 April 2022](https://web.archive.org/web/20220422104545/https://twitter.com/SigmaPhoenicis/status/1517454459344809984): Nobody cares what you have to say you're an actor
+* [22 April 2022](https://web.archive.org/web/20220422104429/https://twitter.com/SigmaPhoenicis/status/1517454230709186562): 711 did nothing wrong
+* [22 April 2022](https://web.archive.org/web/20220422104252/https://twitter.com/SigmaPhoenicis/status/1517453681095942145): Oy vay the goyim know
+* [22 April 2022](https://web.archive.org/web/20220422104052/https://twitter.com/SigmaPhoenicis/status/1517453137052766208): Freckles are beautiful marks from the gods
+* [22 April 2022](https://web.archive.org/web/20220422103952/https://twitter.com/SigmaPhoenicis/status/1517452996874883072): Same
+* [20 April 2022](https://web.archive.org/web/20220420031056/https://twitter.com/SigmaPhoenicis/status/1516613833237811202): Seethe
+* [19 April 2022](https://web.archive.org/web/20220419225059/https://twitter.com/SigmaPhoenicis/status/1516549704590381059): Imagine wanting to not live in a homogeneous society
+* [19 April 2022](https://web.archive.org/web/20220419224935/https://twitter.com/SigmaPhoenicis/status/1516549406220177413): No it's about burning away material desires for spiritual growth
+* [19 April 2022](https://web.archive.org/web/20220419224756/https://twitter.com/SigmaPhoenicis/status/1516549064552173570): I
+* [19 April 2022](https://web.archive.org/web/20220419213755/https://twitter.com/SigmaPhoenicis/status/1516531535637192714): Sour cream is like the succulent milk of the cosmic cow
+* [18 April 2022](https://web.archive.org/web/20220418020353/https://twitter.com/SigmaPhoenicis/status/1515873611545923586): Mommy milk trucker chug jugs
+* [18 April 2022](https://web.archive.org/web/20220418015920/https://twitter.com/SigmaPhoenicis/status/1515872471752200193): @JGreenblattADL  oy vey
+* [18 April 2022](https://web.archive.org/web/20220418015914/https://twitter.com/SigmaPhoenicis/status/1515872405222137857): Based
+* [17 April 2022](https://web.archive.org/web/20220417020635/https://twitter.com/SigmaPhoenicis/status/1515511869011730436): @POTUS  pic.twitter.com/HiM3c3SPvy
+* [17 April 2022](https://web.archive.org/web/20220417003338/https://twitter.com/SigmaPhoenicis/status/1515488402140917763): @elonmusk  when do you build your iron man suit and start eradicating the pedos in DC
+* [17 April 2022](https://web.archive.org/web/20220417003056/https://twitter.com/SigmaPhoenicis/status/1515487871116795907): No it's because he wants to protect our ability to talk freely without being censored lol I can tell that PHD didn't do much for you
+* [14 April 2022](https://web.archive.org/web/20220414214623/https://twitter.com/SigmaPhoenicis/status/1514721480159887368): There's a significant difference between standards and expectations
+* [10 April 2022](https://web.archive.org/web/20220410173150/https://twitter.com/SigmaPhoenicis/status/1513207933407883266): They're both western puppets marketed for their puppet masters social media campaigns https://twitter.com/UKBeanzOnToast/status/1512928667168612358
+* [ 9 April 2022](https://web.archive.org/web/20220409203133/https://twitter.com/SigmaPhoenicis/status/1512890812232716291): False https://twitter.com/grizedale88/status/1512800437648379912
+* [ 9 April 2022](https://web.archive.org/web/20220409202915/https://twitter.com/SigmaPhoenicis/status/1512890406286942210): @SurvivingMenop1 My brother got shingles from his second maderna doze and almost died, I have a couple frens that lost family to the vaccine too.
+* [ 9 April 2022](https://web.archive.org/web/20220409202826/https://twitter.com/SigmaPhoenicis/status/1512890123213451266): Imagine being this ignorant, there's thousands of side affects from the vaccines, there was a 30,000 word report on the side effects release not too long ago, release on behalf of a court mandated order https://twitter.com/FosM25/status/1512783558494011408
+* [ 9 April 2022](https://web.archive.org/web/20220409021231/https://twitter.com/SigmaPhoenicis/status/1512614289571414022): The bombs we dropped on Japan weren't nuclear war heads lol
+* [ 1 April 2022](https://web.archive.org/web/20220401062525/https://twitter.com/SigmaPhoenicis/status/1509695726195937280): What's cringe is you guys still believe what you're taught in the education system
+* [ 1 April 2022](https://web.archive.org/web/20220401011305/https://twitter.com/SigmaPhoenicis/status/1509695598840090634): Why is it illegal to question the Holocaust in several European countries?
+* [ 1 April 2022](https://web.archive.org/web/20220401005028/https://twitter.com/SigmaPhoenicis/status/1509694597827498013): Cringe
+* [ 1 April 2022](https://web.archive.org/web/20220401010204/https://twitter.com/SigmaPhoenicis/status/1509692329224933407): pic.twitter.com/XEUKVErx7P
+* [30 March 2022](https://web.archive.org/web/20220401054535/https://twitter.com/SigmaPhoenicis/status/1509290015142031363): When you fight Rogan can I film it wearing an SS uniform but instead of a officer hat I'll wear a sombrero
+* [30 March 2022](https://web.archive.org/web/20220401025717/https://twitter.com/SigmaPhoenicis/status/1509236502521282562): Makes sense
+* [29 March 2022](https://web.archive.org/web/20220329010441/https://twitter.com/SigmaPhoenicis/status/1508610957135605762): I'm not from New England or in NSC lol
+* [29 March 2022](https://web.archive.org/web/20220329010400/https://twitter.com/SigmaPhoenicis/status/1508610790701428736): Huh
+* [27 March 2022](https://web.archive.org/web/20220327034955/https://twitter.com/SigmaPhoenicis/status/1507927601263697920): They're literally all in better shape than you could ever hope to be
+* [27 March 2022](https://web.archive.org/web/20220327034900/https://twitter.com/SigmaPhoenicis/status/1507927502672474121): Bruh do you even lift
+* [27 March 2022](https://web.archive.org/web/20220327034852/https://twitter.com/SigmaPhoenicis/status/1507927420053049345): Funny  @DropkickMurphys  decided to just avoid confronting NSC in person lmao
+* [26 March 2022](https://web.archive.org/web/20220326085640/https://twitter.com/SigmaPhoenicis/status/1507642444631797760): Nah I don't live in my parents basement like you
+* [26 March 2022](https://web.archive.org/web/20220326085920/https://twitter.com/SigmaPhoenicis/status/1507642201433542661): N
+* [25 March 2022](https://web.archive.org/web/20220325090007/https://twitter.com/SigmaPhoenicis/status/1507280993702404099): 👌🐸
+* [25 March 2022](https://web.archive.org/web/20220325085415/https://twitter.com/SigmaPhoenicis/status/1507279567571992576): N
+* [25 March 2022](https://web.archive.org/web/20220325023258/https://twitter.com/SigmaPhoenicis/status/1507183364775718924): Who said anything about a cult
+* [25 March 2022](https://web.archive.org/web/20220325014716/https://twitter.com/SigmaPhoenicis/status/1507172172783005702): Andrew withheld that information from 131, he is no longer part of NSC because they are anti pedophile.
+* [24 March 2022](https://web.archive.org/web/20220324185059/https://twitter.com/SigmaPhoenicis/status/1507067350486437905): Make sure you actually reach out to 131 and let them know where you'll be
+* [24 March 2022](https://web.archive.org/web/20220324184150/https://twitter.com/SigmaPhoenicis/status/1507065031996821521): I'm not 131 but I know if they were challenged to a respectable fight they will deliver. Like I said,  @DropkickMurphys  need to email them instead of hiding behind Twitter
+* [24 March 2022](https://web.archive.org/web/20220324014318/https://twitter.com/SigmaPhoenicis/status/1506808771590299650): Gigachads
+* [24 March 2022](https://web.archive.org/web/20220619194328/https://twitter.com/sigmaphoenicis/status/1506806139802972163?lang=hi): Link up or shut up, 131 will rock your shit
+* [24 March 2022](https://web.archive.org/web/20220324013027/https://twitter.com/SigmaPhoenicis/status/1506805547374243843): It's a small ethnic religious minority involved in heading these daemonics cult
+* [23 March 2022](https://web.archive.org/web/20220323023545/https://twitter.com/SigmaPhoenicis/status/1506458947598708737): Sounds about right
+* [23 March 2022](https://web.archive.org/web/20220323015327/https://twitter.com/SigmaPhoenicis/status/1506448865620230146): And which group worships Moloch? 🤔👃
+* [20 March 2022](https://web.archive.org/web/20220320153238/https://twitter.com/SigmaPhoenicis/status/1505567896659185664): Nah
+* [18 March 2022](https://web.archive.org/web/20220318002410/https://twitter.com/SigmaPhoenicis/status/1504614491887079424): Lmfaoo
