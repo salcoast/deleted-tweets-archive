@@ -1015,7 +1015,7 @@ The current dataset now includes 1,000,000 + distinct deleted or unavailable twe
 
 2 deleted tweets by [PhoenicisSigma](datasets/PhoenicisSigma-202206171845-deleted.md)
 
-2 deleted tweets by [SigmaPhoenicis](datasets/SigmaPhoenicis-202206171845-deleted.md)
+93 deleted tweets by [SigmaPhoenicis](datasets/SigmaPhoenicis-202206171845-deleted.md)
 
 13 deleted tweets by [JeffClarkUS](datasets/JeffClarkUS-202206232141-deleted.md)
 
