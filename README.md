@@ -1028,3 +1028,7 @@ The current dataset now includes 1,000,000 + distinct deleted or unavailable twe
 3 deleted tweets by [DrJohnEastman](datasets/DrJohnEastman-202206281734-deleted.md)
 
 314 deleted tweets by [RudyGiuliani](datasets/RudyGiuliani-202206281728-deleted.md)
+
+29 deleted tweets by [repmattgaetz](datasets/repmattgaetz-202206281756-deleted.md)
+
+24 deleted tweets by [mattgaetz](datasets/mattgaetz-202206281755-deleted.md)
