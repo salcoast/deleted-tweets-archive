@@ -1020,3 +1020,7 @@ The current dataset now includes 1,000,000 + distinct deleted or unavailable twe
 13 deleted tweets by [JeffClarkUS](datasets/JeffClarkUS-202206232141-deleted.md)
 
 115 deleted tweets by [jeremyhfisher](datasets/jeremyhfisher-202206271814-deleted.md)
+
+1022 deleted tweets by [RepMarkMeadows](datasets/RepMarkMeadows-202206281627-deleted.md)
+
+5 deleted tweets by [MarkMeadows](datasets/MarkMeadows-202206281622-deleted.md)
