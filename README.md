@@ -991,7 +991,7 @@ The current dataset now includes 1,000,000 + distinct deleted or unavailable twe
 
 10 deleted tweets for [RepScottPerry](datasets/RepScottPerry-deleted.md)
 
-20 deleted tweets for [RepMTG](datasets/RepMTG-deleted.md)
+20 deleted tweets for [RepMTG](datasets/RepMTG-20220608446-deleted.md)
 
 30 deleted tweets for [jeremyreporter](datasets/jeremyreporter-deleted.md)
 
@@ -1026,3 +1026,5 @@ The current dataset now includes 1,000,000 + distinct deleted or unavailable twe
 5 deleted tweets by [MarkMeadows](datasets/MarkMeadows-202206281622-deleted.md)
 
 3 deleted tweets by [DrJohnEastman](datasets/DrJohnEastman-202206281734-deleted.md)
+
+314 deleted tweets by [RudyGiuliani](datasets/RudyGiuliani-202206281728-deleted.md)
