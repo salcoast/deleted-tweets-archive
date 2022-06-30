@@ -1044,3 +1044,5 @@ The current dataset now includes 1,000,000 + distinct deleted or unavailable twe
 5 deleted tweets for [andybiggs4az](datasets/andybiggs4az-202206300512-deleted.md)
 
 94 deleted tweets for [repandybiggsaz](datasets/repandybiggsaz-202206300513-deleted.md)
+
+29 deleted tweets by [RepMoBrooks](datasets/RepMoBrooks-202206300522-deleted.md)
