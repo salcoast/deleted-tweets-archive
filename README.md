@@ -1038,3 +1038,5 @@ The current dataset now includes 1,000,000 + distinct deleted or unavailable twe
 309 deleted tweets by [erictrump](datasets/erictrump-202206281809-deleted.md)
 
 220 deleted tweets by [donaldjtrumpjr](datasets/donaldjtrumpjr-202206281809-deleted.md)
+
+33626 deleted tweets by [realDonaldTrump](datasets/realDonaldTrump-202206290803-deleted.md)
