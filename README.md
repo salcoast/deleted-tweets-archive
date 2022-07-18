@@ -4,7 +4,7 @@
 
 ## About the Project 
 
-The purpose of the deleted-tweets-archive project is to provide research material to researchers and others regarding threats to our communites. Please review our data, post horrible deleted tweets, expose Nazis, fascists and other bad actors. These tweets display several bad actors' most divisive uses of the Twitter platform.
+The purpose of the deleted-tweets-archive project is to provide research material to researchers and others regarding threats to our communities. Please review our data, post horrible deleted tweets, expose Nazis, fascists and other bad actors. These tweets display several bad actors' most divisive uses of the Twitter platform.
 
 
 Example:
