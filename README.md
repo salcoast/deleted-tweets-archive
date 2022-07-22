@@ -1057,4 +1057,7 @@ The current dataset now includes 1,000,000 + distinct deleted or unavailable twe
 
 48 deleted tweets by [safersfnoboudin](datasets/safersfnoboudin-202207080352-deleted.md)
 
+6 deleted tweets by [BYR_Miguel](datasets/BYR_Miguel-202207212053-deleted.md)
+
+3379 deleted tweets by [MiguelAGranda](datasets/MiguelAGranda-202207212053-deleted.md)
 
