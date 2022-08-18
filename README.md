@@ -1069,7 +1069,9 @@ The current dataset now includes 1,000,000 + distinct deleted or unavailable twe
 
 2 deleted tweets by [RedArmBand](datasets/RedArmBand-202207280133-deleted.md)
 
+4 deleted tweets by [chicana_patriot](datasets/chicana_patriot-202208180147-deleted.md)
 
+5 deleted tweets by [pfjeff916](datasets/pfjeff916-202208180147-deleted.md)
 
 
 
