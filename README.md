@@ -1073,7 +1073,16 @@ The current dataset now includes 1,000,000 + distinct deleted or unavailable twe
 
 5 deleted tweets by [pfjeff916](datasets/pfjeff916-202208180147-deleted.md)
 
+222 deleted tweets by [ZoomerLatino](datasets/ZoomerLatino-202208191929-deleted.md)
 
+12 deleted tweets by [IndioZoomer](datasets/IndioZoomer-202208191929-deleted.md)
 
+76 deleted tweets by [MestizoZoomer](datasets/MestizoZoomer-202208191929-deleted.md)
 
+431 deleted tweets by [ThatRealZoomer](datasets/ThatRealZoomer-202208191929-deleted.md)
 
+17 deleted tweets by [SenorDaddyPug](datasets/SenorDaddyPug-202208191929-deleted.md)
+
+0 deleted tweets by [conserve_z](datasets/conserve_z-202208191929-deleted.md)
+
+0 deleted tweets by [LatinoZoomer](datasets/LatinoZoomer-202208191929-deleted.md)
