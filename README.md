@@ -1073,7 +1073,7 @@ The current dataset now includes 1,000,000 + distinct deleted or unavailable twe
 
 5 deleted tweets by [pfjeff916](datasets/pfjeff916-202208180147-deleted.md)
 
-[link text](#LatinoZoomer)
+[LatinoZoomer](#LatinoZoomer)
 
 222 deleted tweets by [ZoomerLatino](datasets/ZoomerLatino-202208191929-deleted.md)
 
