@@ -1086,3 +1086,5 @@ The current dataset now includes 1,000,000 + distinct deleted or unavailable twe
 0 deleted tweets by [conserve_z](datasets/conserve_z-202208191929-deleted.md)
 
 0 deleted tweets by [LatinoZoomer](datasets/LatinoZoomer-202208191929-deleted.md)
+
+57 deleted tweets by [LatinoZoomers](datasets/LatinoZoomers-202208192135-deleted.md)
