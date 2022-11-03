@@ -917,7 +917,7 @@ The current dataset now includes 1,000,000 + distinct deleted or unavailable twe
 
 774 Deleted tweets for [jessesingal](datasets/jessesingal-deleted.md)
 
-3194 Deleted tweets for [libsoftiktok](datasets/libsoftiktok-deleted.md)
+3218 Deleted tweets for [libsoftiktok](datasets/libsoftiktok-deleted.md)
 
 22 Deleted tweets for [MattGaetz](datasets/MattGaetz-deleted.md)
 
