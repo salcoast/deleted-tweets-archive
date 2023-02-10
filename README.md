@@ -135,7 +135,7 @@ The current dataset now includes 1,000,000 + distinct deleted or unavailable twe
 
 2,786 Deleted tweets for [Lauren_Southern](datasets/lauren_southern-deleted.md) (Updated 11.13.21)
 
-418 Deleted tweets for [carymarules](datasets/carymarules-deleted.md)
+424 Deleted tweets for [carymarules](datasets/carymarules-deleted-20230209.md)
 
 65 Deleted tweets for [irmahinojosa_](datasets/irmahinojosa_-deleted.md) (Alt-Right, Latinos4Trump, MAGA3X)
 
